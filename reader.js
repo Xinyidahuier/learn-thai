@@ -156,7 +156,7 @@
 
     document.getElementById('popupThai').textContent = vocab.thai;
     document.getElementById('popupRom').textContent = vocab.romanization || '';
-    document.getElementById('popupTrans').textContent = vocab.translation || '';
+    document.getElementById('popupTrans').textContent = vocab.translation || vocab.english || '';
     const meta = [vocab.part_of_speech, vocab.frequency ? `本视频出现 ${vocab.frequency} 次` : '']
       .filter(Boolean).join(' · ');
     document.getElementById('popupMeta').textContent = meta;

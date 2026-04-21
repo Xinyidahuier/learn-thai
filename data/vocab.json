@@ -1,5 +1,135 @@
 [
   {
+    "id": "th_9a4e15",
+    "thai": "อย่า",
+    "romanization": "",
+    "translation": "",
+    "english": "Don't",
+    "part_of_speech": "",
+    "frequency": 103,
+    "tags": []
+  },
+  {
+    "id": "th_c1bfc3",
+    "thai": "ความ",
+    "romanization": "",
+    "translation": "",
+    "english": "The",
+    "part_of_speech": "",
+    "frequency": 102,
+    "tags": []
+  },
+  {
+    "id": "th_13f14f",
+    "thai": "ประ",
+    "romanization": "",
+    "translation": "",
+    "english": "dash",
+    "part_of_speech": "",
+    "frequency": 88,
+    "tags": []
+  },
+  {
+    "id": "th_1b85bc",
+    "thai": "จริง",
+    "romanization": "",
+    "translation": "",
+    "english": "true",
+    "part_of_speech": "",
+    "frequency": 70,
+    "tags": []
+  },
+  {
+    "id": "th_fac3b6",
+    "thai": "กัน",
+    "romanization": "",
+    "translation": "",
+    "english": "together",
+    "part_of_speech": "",
+    "frequency": 69,
+    "tags": []
+  },
+  {
+    "id": "th_ef0610",
+    "thai": "ตัว",
+    "romanization": "",
+    "translation": "",
+    "english": "body",
+    "part_of_speech": "",
+    "frequency": 67,
+    "tags": []
+  },
+  {
+    "id": "th_422f43",
+    "thai": "เรียน",
+    "romanization": "",
+    "translation": "",
+    "english": "study",
+    "part_of_speech": "",
+    "frequency": 63,
+    "tags": []
+  },
+  {
+    "id": "th_9cf8a2",
+    "thai": "ยาก",
+    "romanization": "",
+    "translation": "",
+    "english": "difficult",
+    "part_of_speech": "",
+    "frequency": 58,
+    "tags": []
+  },
+  {
+    "id": "th_b3156f",
+    "thai": "เด็ก",
+    "romanization": "",
+    "translation": "",
+    "english": "child",
+    "part_of_speech": "",
+    "frequency": 57,
+    "tags": []
+  },
+  {
+    "id": "th_56a178",
+    "thai": "มือ",
+    "romanization": "",
+    "translation": "",
+    "english": "hand",
+    "part_of_speech": "",
+    "frequency": 55,
+    "tags": []
+  },
+  {
+    "id": "th_c6e22a",
+    "thai": "สาว",
+    "romanization": "",
+    "translation": "",
+    "english": "girl",
+    "part_of_speech": "",
+    "frequency": 46,
+    "tags": []
+  },
+  {
+    "id": "th_304e24",
+    "thai": "ข้า",
+    "romanization": "",
+    "translation": "",
+    "english": "I",
+    "part_of_speech": "",
+    "frequency": 44,
+    "tags": []
+  },
+  {
+    "id": "th_313977",
+    "thai": "ต่าง",
+    "romanization": "",
+    "translation": "",
+    "english": "different",
+    "part_of_speech": "",
+    "frequency": 43,
+    "tags": []
+  },
+  {
     "id": "v_braen",
     "thai": "แบรนด์",
     "romanization": "braen",
@@ -9,6 +139,66 @@
       "business"
     ],
     "frequency": 40
+  },
+  {
+    "id": "th_a3e77e",
+    "thai": "คุณ",
+    "romanization": "",
+    "translation": "",
+    "english": "you",
+    "part_of_speech": "",
+    "frequency": 40,
+    "tags": []
+  },
+  {
+    "id": "th_a3c09a",
+    "thai": "เหมือน",
+    "romanization": "",
+    "translation": "",
+    "english": "like",
+    "part_of_speech": "",
+    "frequency": 39,
+    "tags": []
+  },
+  {
+    "id": "th_aa8756",
+    "thai": "ลาย",
+    "romanization": "",
+    "translation": "",
+    "english": "pattern",
+    "part_of_speech": "",
+    "frequency": 37,
+    "tags": []
+  },
+  {
+    "id": "th_719e92",
+    "thai": "งาน",
+    "romanization": "",
+    "translation": "",
+    "english": "work",
+    "part_of_speech": "",
+    "frequency": 36,
+    "tags": []
+  },
+  {
+    "id": "th_a82c82",
+    "thai": "หนึ่ง",
+    "romanization": "",
+    "translation": "",
+    "english": "one",
+    "part_of_speech": "",
+    "frequency": 35,
+    "tags": []
+  },
+  {
+    "id": "th_46dd5b",
+    "thai": "เข้า",
+    "romanization": "",
+    "translation": "",
+    "english": "enter",
+    "part_of_speech": "",
+    "frequency": 35,
+    "tags": []
   },
   {
     "id": "v_prathet",
@@ -22,6 +212,376 @@
     "frequency": 34
   },
   {
+    "id": "th_a1c0cc",
+    "thai": "ฉัน",
+    "romanization": "",
+    "translation": "",
+    "english": "I",
+    "part_of_speech": "",
+    "frequency": 34,
+    "tags": []
+  },
+  {
+    "id": "th_d6bbc5",
+    "thai": "สุด",
+    "romanization": "",
+    "translation": "",
+    "english": "The best",
+    "part_of_speech": "",
+    "frequency": 32,
+    "tags": []
+  },
+  {
+    "id": "th_f762e4",
+    "thai": "อันนี้",
+    "romanization": "",
+    "translation": "",
+    "english": "This one",
+    "part_of_speech": "",
+    "frequency": 31,
+    "tags": []
+  },
+  {
+    "id": "th_421c39",
+    "thai": "นี่",
+    "romanization": "",
+    "translation": "",
+    "english": "This",
+    "part_of_speech": "",
+    "frequency": 31,
+    "tags": []
+  },
+  {
+    "id": "th_b8df2f",
+    "thai": "ทาง",
+    "romanization": "",
+    "translation": "",
+    "english": "way",
+    "part_of_speech": "",
+    "frequency": 31,
+    "tags": []
+  },
+  {
+    "id": "th_7d1517",
+    "thai": "ศึกษา",
+    "romanization": "",
+    "translation": "",
+    "english": "study",
+    "part_of_speech": "",
+    "frequency": 31,
+    "tags": []
+  },
+  {
+    "id": "th_a81341",
+    "thai": "สาม",
+    "romanization": "",
+    "translation": "",
+    "english": "three",
+    "part_of_speech": "",
+    "frequency": 30,
+    "tags": []
+  },
+  {
+    "id": "th_ef241a",
+    "thai": "ข้อ",
+    "romanization": "",
+    "translation": "",
+    "english": "clause",
+    "part_of_speech": "",
+    "frequency": 29,
+    "tags": []
+  },
+  {
+    "id": "th_864157",
+    "thai": "ตัวเอง",
+    "romanization": "",
+    "translation": "",
+    "english": "myself",
+    "part_of_speech": "",
+    "frequency": 28,
+    "tags": []
+  },
+  {
+    "id": "th_0491ea",
+    "thai": "วันนี้",
+    "romanization": "",
+    "translation": "",
+    "english": "today",
+    "part_of_speech": "",
+    "frequency": 28,
+    "tags": []
+  },
+  {
+    "id": "th_30319c",
+    "thai": "โลก",
+    "romanization": "",
+    "translation": "",
+    "english": "world",
+    "part_of_speech": "",
+    "frequency": 28,
+    "tags": []
+  },
+  {
+    "id": "th_f0c16c",
+    "thai": "อาจ",
+    "romanization": "",
+    "translation": "",
+    "english": "May",
+    "part_of_speech": "",
+    "frequency": 28,
+    "tags": []
+  },
+  {
+    "id": "th_9f87d1",
+    "thai": "การศึกษา",
+    "romanization": "",
+    "translation": "",
+    "english": "education",
+    "part_of_speech": "",
+    "frequency": 27,
+    "tags": []
+  },
+  {
+    "id": "th_511484",
+    "thai": "ไหม",
+    "romanization": "",
+    "translation": "",
+    "english": "silk",
+    "part_of_speech": "",
+    "frequency": 27,
+    "tags": []
+  },
+  {
+    "id": "th_835a47",
+    "thai": "ใส่",
+    "romanization": "",
+    "translation": "",
+    "english": "put",
+    "part_of_speech": "",
+    "frequency": 25,
+    "tags": []
+  },
+  {
+    "id": "th_8ea1c5",
+    "thai": "สามารถ",
+    "romanization": "",
+    "translation": "",
+    "english": "can",
+    "part_of_speech": "",
+    "frequency": 25,
+    "tags": []
+  },
+  {
+    "id": "th_c9b40e",
+    "thai": "แรก",
+    "romanization": "",
+    "translation": "",
+    "english": "first",
+    "part_of_speech": "",
+    "frequency": 24,
+    "tags": []
+  },
+  {
+    "id": "th_04148b",
+    "thai": "จุด",
+    "romanization": "",
+    "translation": "",
+    "english": "point",
+    "part_of_speech": "",
+    "frequency": 24,
+    "tags": []
+  },
+  {
+    "id": "th_c2f5bd",
+    "thai": "เกิด",
+    "romanization": "",
+    "translation": "",
+    "english": "born",
+    "part_of_speech": "",
+    "frequency": 24,
+    "tags": []
+  },
+  {
+    "id": "th_1277eb",
+    "thai": "ภาพ",
+    "romanization": "",
+    "translation": "",
+    "english": "picture",
+    "part_of_speech": "",
+    "frequency": 24,
+    "tags": []
+  },
+  {
+    "id": "th_5ed2f4",
+    "thai": "เปลี่ยน",
+    "romanization": "",
+    "translation": "",
+    "english": "change",
+    "part_of_speech": "",
+    "frequency": 23,
+    "tags": []
+  },
+  {
+    "id": "th_f7acd4",
+    "thai": "มาย",
+    "romanization": "",
+    "translation": "",
+    "english": "My",
+    "part_of_speech": "",
+    "frequency": 23,
+    "tags": []
+  },
+  {
+    "id": "th_6eca68",
+    "thai": "เมื่อ",
+    "romanization": "",
+    "translation": "",
+    "english": "when",
+    "part_of_speech": "",
+    "frequency": 22,
+    "tags": []
+  },
+  {
+    "id": "th_78eb6c",
+    "thai": "เยอะ",
+    "romanization": "",
+    "translation": "",
+    "english": "A lot",
+    "part_of_speech": "",
+    "frequency": 22,
+    "tags": []
+  },
+  {
+    "id": "th_6538db",
+    "thai": "ลูก",
+    "romanization": "",
+    "translation": "",
+    "english": "child",
+    "part_of_speech": "",
+    "frequency": 22,
+    "tags": []
+  },
+  {
+    "id": "th_c5f89e",
+    "thai": "อาจจะ",
+    "romanization": "",
+    "translation": "",
+    "english": "Maybe",
+    "part_of_speech": "",
+    "frequency": 21,
+    "tags": []
+  },
+  {
+    "id": "th_7a9c16",
+    "thai": "ระบบ",
+    "romanization": "",
+    "translation": "",
+    "english": "system",
+    "part_of_speech": "",
+    "frequency": 21,
+    "tags": []
+  },
+  {
+    "id": "th_6f8415",
+    "thai": "ทุกคน",
+    "romanization": "",
+    "translation": "",
+    "english": "Everyone",
+    "part_of_speech": "",
+    "frequency": 21,
+    "tags": []
+  },
+  {
+    "id": "th_57042b",
+    "thai": "ปัญหา",
+    "romanization": "",
+    "translation": "",
+    "english": "Problem",
+    "part_of_speech": "",
+    "frequency": 21,
+    "tags": []
+  },
+  {
+    "id": "th_68d57e",
+    "thai": "เรียนรู้",
+    "romanization": "",
+    "translation": "",
+    "english": "learn",
+    "part_of_speech": "",
+    "frequency": 21,
+    "tags": []
+  },
+  {
+    "id": "th_880656",
+    "thai": "ผ่าน",
+    "romanization": "",
+    "translation": "",
+    "english": "pass",
+    "part_of_speech": "",
+    "frequency": 20,
+    "tags": []
+  },
+  {
+    "id": "th_745e59",
+    "thai": "กำลัง",
+    "romanization": "",
+    "translation": "",
+    "english": "Power",
+    "part_of_speech": "",
+    "frequency": 20,
+    "tags": []
+  },
+  {
+    "id": "th_6bb39d",
+    "thai": "มอง",
+    "romanization": "",
+    "translation": "",
+    "english": "look",
+    "part_of_speech": "",
+    "frequency": 20,
+    "tags": []
+  },
+  {
+    "id": "th_a87df7",
+    "thai": "เงิน",
+    "romanization": "",
+    "translation": "",
+    "english": "money",
+    "part_of_speech": "",
+    "frequency": 20,
+    "tags": []
+  },
+  {
+    "id": "th_477fcc",
+    "thai": "สาย",
+    "romanization": "",
+    "translation": "",
+    "english": "late",
+    "part_of_speech": "",
+    "frequency": 19,
+    "tags": []
+  },
+  {
+    "id": "th_f09b21",
+    "thai": "ใช้",
+    "romanization": "",
+    "translation": "",
+    "english": "use",
+    "part_of_speech": "",
+    "frequency": 19,
+    "tags": []
+  },
+  {
+    "id": "th_a298c5",
+    "thai": "เริ่ม",
+    "romanization": "",
+    "translation": "",
+    "english": "start",
+    "part_of_speech": "",
+    "frequency": 19,
+    "tags": []
+  },
+  {
     "id": "v_luukkhaa",
     "thai": "ลูกค้า",
     "romanization": "lûuk-kháa",
@@ -33,6 +593,486 @@
     "frequency": 18
   },
   {
+    "id": "th_f537b5",
+    "thai": "ชอบ",
+    "romanization": "",
+    "translation": "",
+    "english": "like",
+    "part_of_speech": "",
+    "frequency": 18,
+    "tags": []
+  },
+  {
+    "id": "th_8c4ab1",
+    "thai": "สร้าง",
+    "romanization": "",
+    "translation": "",
+    "english": "create",
+    "part_of_speech": "",
+    "frequency": 18,
+    "tags": []
+  },
+  {
+    "id": "th_b97c11",
+    "thai": "ยิ่ง",
+    "romanization": "",
+    "translation": "",
+    "english": "The more",
+    "part_of_speech": "",
+    "frequency": 17,
+    "tags": []
+  },
+  {
+    "id": "th_a150ac",
+    "thai": "ยุค",
+    "romanization": "",
+    "translation": "",
+    "english": "era",
+    "part_of_speech": "",
+    "frequency": 17,
+    "tags": []
+  },
+  {
+    "id": "th_552778",
+    "thai": "หรือว่า",
+    "romanization": "",
+    "translation": "",
+    "english": "or that",
+    "part_of_speech": "",
+    "frequency": 17,
+    "tags": []
+  },
+  {
+    "id": "th_7967cd",
+    "thai": "พี่",
+    "romanization": "",
+    "translation": "",
+    "english": "Brother",
+    "part_of_speech": "",
+    "frequency": 17,
+    "tags": []
+  },
+  {
+    "id": "th_b42c56",
+    "thai": "พัฒนา",
+    "romanization": "",
+    "translation": "",
+    "english": "develop",
+    "part_of_speech": "",
+    "frequency": 17,
+    "tags": []
+  },
+  {
+    "id": "th_dd6898",
+    "thai": "สอบ",
+    "romanization": "",
+    "translation": "",
+    "english": "exam",
+    "part_of_speech": "",
+    "frequency": 17,
+    "tags": []
+  },
+  {
+    "id": "th_862cf0",
+    "thai": "หมาย",
+    "romanization": "",
+    "translation": "",
+    "english": "Meaning",
+    "part_of_speech": "",
+    "frequency": 17,
+    "tags": []
+  },
+  {
+    "id": "th_b4a459",
+    "thai": "อย่างไร",
+    "romanization": "",
+    "translation": "",
+    "english": "How?",
+    "part_of_speech": "",
+    "frequency": 16,
+    "tags": []
+  },
+  {
+    "id": "th_47fb55",
+    "thai": "บ้าง",
+    "romanization": "",
+    "translation": "",
+    "english": "Some",
+    "part_of_speech": "",
+    "frequency": 16,
+    "tags": []
+  },
+  {
+    "id": "th_26212c",
+    "thai": "ใคร",
+    "romanization": "",
+    "translation": "",
+    "english": "Who?",
+    "part_of_speech": "",
+    "frequency": 16,
+    "tags": []
+  },
+  {
+    "id": "th_280f37",
+    "thai": "ถูก",
+    "romanization": "",
+    "translation": "",
+    "english": "cheap",
+    "part_of_speech": "",
+    "frequency": 16,
+    "tags": []
+  },
+  {
+    "id": "th_f613b7",
+    "thai": "เสีย",
+    "romanization": "",
+    "translation": "",
+    "english": "broken",
+    "part_of_speech": "",
+    "frequency": 16,
+    "tags": []
+  },
+  {
+    "id": "th_3d6967",
+    "thai": "รัก",
+    "romanization": "",
+    "translation": "",
+    "english": "love",
+    "part_of_speech": "",
+    "frequency": 16,
+    "tags": []
+  },
+  {
+    "id": "th_872c63",
+    "thai": "กลับ",
+    "romanization": "",
+    "translation": "",
+    "english": "return",
+    "part_of_speech": "",
+    "frequency": 16,
+    "tags": []
+  },
+  {
+    "id": "th_b85cb8",
+    "thai": "ทัก",
+    "romanization": "",
+    "translation": "",
+    "english": "Hello",
+    "part_of_speech": "",
+    "frequency": 16,
+    "tags": []
+  },
+  {
+    "id": "th_127e3c",
+    "thai": "การเรียนรู้",
+    "romanization": "",
+    "translation": "",
+    "english": "learning",
+    "part_of_speech": "",
+    "frequency": 15,
+    "tags": []
+  },
+  {
+    "id": "th_23f72b",
+    "thai": "เจอ",
+    "romanization": "",
+    "translation": "",
+    "english": "Found",
+    "part_of_speech": "",
+    "frequency": 15,
+    "tags": []
+  },
+  {
+    "id": "th_294c5c",
+    "thai": "ระดับ",
+    "romanization": "",
+    "translation": "",
+    "english": "level",
+    "part_of_speech": "",
+    "frequency": 15,
+    "tags": []
+  },
+  {
+    "id": "th_098ff2",
+    "thai": "ที่สุด",
+    "romanization": "",
+    "translation": "",
+    "english": "The best",
+    "part_of_speech": "",
+    "frequency": 14,
+    "tags": []
+  },
+  {
+    "id": "th_c9db6e",
+    "thai": "รู้สึก",
+    "romanization": "",
+    "translation": "",
+    "english": "feel",
+    "part_of_speech": "",
+    "frequency": 14,
+    "tags": []
+  },
+  {
+    "id": "th_bc14de",
+    "thai": "ตอนนั้น",
+    "romanization": "",
+    "translation": "",
+    "english": "At that time",
+    "part_of_speech": "",
+    "frequency": 14,
+    "tags": []
+  },
+  {
+    "id": "th_989b38",
+    "thai": "ญี่ปุ่น",
+    "romanization": "",
+    "translation": "",
+    "english": "Japan",
+    "part_of_speech": "",
+    "frequency": 14,
+    "tags": []
+  },
+  {
+    "id": "th_0c5a48",
+    "thai": "เคย",
+    "romanization": "",
+    "translation": "",
+    "english": "ever",
+    "part_of_speech": "",
+    "frequency": 14,
+    "tags": []
+  },
+  {
+    "id": "th_361ae6",
+    "thai": "เหมือนกัน",
+    "romanization": "",
+    "translation": "",
+    "english": "same",
+    "part_of_speech": "",
+    "frequency": 14,
+    "tags": []
+  },
+  {
+    "id": "th_627024",
+    "thai": "คุย",
+    "romanization": "",
+    "translation": "",
+    "english": "Talk",
+    "part_of_speech": "",
+    "frequency": 14,
+    "tags": []
+  },
+  {
+    "id": "th_1f630b",
+    "thai": "เข้าใจ",
+    "romanization": "",
+    "translation": "",
+    "english": "understand",
+    "part_of_speech": "",
+    "frequency": 14,
+    "tags": []
+  },
+  {
+    "id": "th_926bc2",
+    "thai": "โชคดี",
+    "romanization": "",
+    "translation": "",
+    "english": "Good luck",
+    "part_of_speech": "",
+    "frequency": 14,
+    "tags": []
+  },
+  {
+    "id": "th_fd30b1",
+    "thai": "ชาติ",
+    "romanization": "",
+    "translation": "",
+    "english": "Nationality",
+    "part_of_speech": "",
+    "frequency": 14,
+    "tags": []
+  },
+  {
+    "id": "th_40357f",
+    "thai": "โชค",
+    "romanization": "",
+    "translation": "",
+    "english": "Luck",
+    "part_of_speech": "",
+    "frequency": 14,
+    "tags": []
+  },
+  {
+    "id": "th_8bc3e6",
+    "thai": "ลัก",
+    "romanization": "",
+    "translation": "",
+    "english": "Steal",
+    "part_of_speech": "",
+    "frequency": 14,
+    "tags": []
+  },
+  {
+    "id": "th_19fe70",
+    "thai": "อย่างนี้",
+    "romanization": "",
+    "translation": "",
+    "english": "Like this",
+    "part_of_speech": "",
+    "frequency": 13,
+    "tags": []
+  },
+  {
+    "id": "th_4446ab",
+    "thai": "ทำไม",
+    "romanization": "",
+    "translation": "",
+    "english": "Why?",
+    "part_of_speech": "",
+    "frequency": 13,
+    "tags": []
+  },
+  {
+    "id": "th_05cabc",
+    "thai": "ถาม",
+    "romanization": "",
+    "translation": "",
+    "english": "ask",
+    "part_of_speech": "",
+    "frequency": 13,
+    "tags": []
+  },
+  {
+    "id": "th_acf13e",
+    "thai": "ตอบ",
+    "romanization": "",
+    "translation": "",
+    "english": "Answer",
+    "part_of_speech": "",
+    "frequency": 13,
+    "tags": []
+  },
+  {
+    "id": "th_8c8f2b",
+    "thai": "ทุกอย่าง",
+    "romanization": "",
+    "translation": "",
+    "english": "everything",
+    "part_of_speech": "",
+    "frequency": 12,
+    "tags": []
+  },
+  {
+    "id": "th_3baadf",
+    "thai": "กล้า",
+    "romanization": "",
+    "translation": "",
+    "english": "Dare",
+    "part_of_speech": "",
+    "frequency": 12,
+    "tags": []
+  },
+  {
+    "id": "th_f071d3",
+    "thai": "ร้าน",
+    "romanization": "",
+    "translation": "",
+    "english": "shop",
+    "part_of_speech": "",
+    "frequency": 12,
+    "tags": []
+  },
+  {
+    "id": "th_c4cd70",
+    "thai": "วิภา",
+    "romanization": "",
+    "translation": "",
+    "english": "Vibha",
+    "part_of_speech": "",
+    "frequency": 12,
+    "tags": []
+  },
+  {
+    "id": "th_4ef9c3",
+    "thai": "ไหน",
+    "romanization": "",
+    "translation": "",
+    "english": "Where?",
+    "part_of_speech": "",
+    "frequency": 12,
+    "tags": []
+  },
+  {
+    "id": "th_06314a",
+    "thai": "เปิด",
+    "romanization": "",
+    "translation": "",
+    "english": "open",
+    "part_of_speech": "",
+    "frequency": 12,
+    "tags": []
+  },
+  {
+    "id": "th_f1f91b",
+    "thai": "ขาด",
+    "romanization": "",
+    "translation": "",
+    "english": "torn",
+    "part_of_speech": "",
+    "frequency": 12,
+    "tags": []
+  },
+  {
+    "id": "th_2b01dc",
+    "thai": "ยอม",
+    "romanization": "",
+    "translation": "",
+    "english": "I agree.",
+    "part_of_speech": "",
+    "frequency": 12,
+    "tags": []
+  },
+  {
+    "id": "th_4f30f6",
+    "thai": "โรง",
+    "romanization": "",
+    "translation": "",
+    "english": "theater",
+    "part_of_speech": "",
+    "frequency": 12,
+    "tags": []
+  },
+  {
+    "id": "th_5d843d",
+    "thai": "หรอ",
+    "romanization": "",
+    "translation": "",
+    "english": "So?",
+    "part_of_speech": "",
+    "frequency": 12,
+    "tags": []
+  },
+  {
+    "id": "th_2564e9",
+    "thai": "รูป",
+    "romanization": "",
+    "translation": "",
+    "english": "picture",
+    "part_of_speech": "",
+    "frequency": 12,
+    "tags": []
+  },
+  {
+    "id": "th_ce0949",
+    "thai": "น่า",
+    "romanization": "",
+    "translation": "",
+    "english": "Nice",
+    "part_of_speech": "",
+    "frequency": 12,
+    "tags": []
+  },
+  {
     "id": "v_tangprathet",
     "thai": "ต่างประเทศ",
     "romanization": "tàang prà-thêet",
@@ -42,6 +1082,136 @@
       "business"
     ],
     "frequency": 11
+  },
+  {
+    "id": "th_853a6d",
+    "thai": "มากขึ้น",
+    "romanization": "",
+    "translation": "",
+    "english": "more",
+    "part_of_speech": "",
+    "frequency": 11,
+    "tags": []
+  },
+  {
+    "id": "th_c9432b",
+    "thai": "สำหรับ",
+    "romanization": "",
+    "translation": "",
+    "english": "for",
+    "part_of_speech": "",
+    "frequency": 11,
+    "tags": []
+  },
+  {
+    "id": "th_b38db1",
+    "thai": "อยู่แล้ว",
+    "romanization": "",
+    "translation": "",
+    "english": "already",
+    "part_of_speech": "",
+    "frequency": 11,
+    "tags": []
+  },
+  {
+    "id": "th_8965d5",
+    "thai": "ซื้อ",
+    "romanization": "",
+    "translation": "",
+    "english": "buy",
+    "part_of_speech": "",
+    "frequency": 11,
+    "tags": []
+  },
+  {
+    "id": "th_3b76e7",
+    "thai": "ละเอียด",
+    "romanization": "",
+    "translation": "",
+    "english": "Detailed",
+    "part_of_speech": "",
+    "frequency": 11,
+    "tags": []
+  },
+  {
+    "id": "th_55d14e",
+    "thai": "เริ่มต้น",
+    "romanization": "",
+    "translation": "",
+    "english": "start",
+    "part_of_speech": "",
+    "frequency": 11,
+    "tags": []
+  },
+  {
+    "id": "th_cd2186",
+    "thai": "ปรับ",
+    "romanization": "",
+    "translation": "",
+    "english": "adjust",
+    "part_of_speech": "",
+    "frequency": 11,
+    "tags": []
+  },
+  {
+    "id": "th_9ef815",
+    "thai": "สัก",
+    "romanization": "",
+    "translation": "",
+    "english": "tattoo",
+    "part_of_speech": "",
+    "frequency": 11,
+    "tags": []
+  },
+  {
+    "id": "th_0b3f42",
+    "thai": "ขาย",
+    "romanization": "",
+    "translation": "",
+    "english": "Sell",
+    "part_of_speech": "",
+    "frequency": 11,
+    "tags": []
+  },
+  {
+    "id": "th_ff4296",
+    "thai": "ชัด",
+    "romanization": "",
+    "translation": "",
+    "english": "Clearly",
+    "part_of_speech": "",
+    "frequency": 11,
+    "tags": []
+  },
+  {
+    "id": "th_b1dd22",
+    "thai": "อิน",
+    "romanization": "",
+    "translation": "",
+    "english": "In",
+    "part_of_speech": "",
+    "frequency": 11,
+    "tags": []
+  },
+  {
+    "id": "th_d317fd",
+    "thai": "เพิ่ม",
+    "romanization": "",
+    "translation": "",
+    "english": "add",
+    "part_of_speech": "",
+    "frequency": 11,
+    "tags": []
+  },
+  {
+    "id": "th_55a108",
+    "thai": "ขนาด",
+    "romanization": "",
+    "translation": "",
+    "english": "Size",
+    "part_of_speech": "",
+    "frequency": 11,
+    "tags": []
   },
   {
     "id": "v_ookaat",
@@ -66,6 +1236,116 @@
     "frequency": 10
   },
   {
+    "id": "th_ba84b9",
+    "thai": "ตั้งแต่",
+    "romanization": "",
+    "translation": "",
+    "english": "since",
+    "part_of_speech": "",
+    "frequency": 10,
+    "tags": []
+  },
+  {
+    "id": "th_e50d3f",
+    "thai": "ขอบคุณ",
+    "romanization": "",
+    "translation": "",
+    "english": "Thank you",
+    "part_of_speech": "",
+    "frequency": 10,
+    "tags": []
+  },
+  {
+    "id": "th_03a2ea",
+    "thai": "ด้าน",
+    "romanization": "",
+    "translation": "",
+    "english": "side",
+    "part_of_speech": "",
+    "frequency": 10,
+    "tags": []
+  },
+  {
+    "id": "th_28ad60",
+    "thai": "ข้อมูล",
+    "romanization": "",
+    "translation": "",
+    "english": "information",
+    "part_of_speech": "",
+    "frequency": 10,
+    "tags": []
+  },
+  {
+    "id": "th_e66be8",
+    "thai": "ประมาณ",
+    "romanization": "",
+    "translation": "",
+    "english": "approximately",
+    "part_of_speech": "",
+    "frequency": 10,
+    "tags": []
+  },
+  {
+    "id": "th_11ecc3",
+    "thai": "เส้น",
+    "romanization": "",
+    "translation": "",
+    "english": "line",
+    "part_of_speech": "",
+    "frequency": 10,
+    "tags": []
+  },
+  {
+    "id": "th_92a5d3",
+    "thai": "ทำงาน",
+    "romanization": "",
+    "translation": "",
+    "english": "work",
+    "part_of_speech": "",
+    "frequency": 10,
+    "tags": []
+  },
+  {
+    "id": "th_6018a4",
+    "thai": "รอบ",
+    "romanization": "",
+    "translation": "",
+    "english": "around",
+    "part_of_speech": "",
+    "frequency": 10,
+    "tags": []
+  },
+  {
+    "id": "th_dec8c1",
+    "thai": "ตี้",
+    "romanization": "",
+    "translation": "",
+    "english": "Tee",
+    "part_of_speech": "",
+    "frequency": 10,
+    "tags": []
+  },
+  {
+    "id": "th_d05232",
+    "thai": "ท้อ",
+    "romanization": "",
+    "translation": "",
+    "english": "I'm discouraged.",
+    "part_of_speech": "",
+    "frequency": 10,
+    "tags": []
+  },
+  {
+    "id": "th_633e1c",
+    "thai": "เครื่อง",
+    "romanization": "",
+    "translation": "",
+    "english": "machine",
+    "part_of_speech": "",
+    "frequency": 10,
+    "tags": []
+  },
+  {
     "id": "v_disney",
     "thai": "Disney",
     "romanization": "dít-nîi",
@@ -88,6 +1368,386 @@
     "frequency": 9
   },
   {
+    "id": "th_80a95a",
+    "thai": "เดิม",
+    "romanization": "",
+    "translation": "",
+    "english": "original",
+    "part_of_speech": "",
+    "frequency": 9,
+    "tags": []
+  },
+  {
+    "id": "th_299491",
+    "thai": "คนไทย",
+    "romanization": "",
+    "translation": "",
+    "english": "Thai people",
+    "part_of_speech": "",
+    "frequency": 9,
+    "tags": []
+  },
+  {
+    "id": "th_d018e3",
+    "thai": "ตอนนี้",
+    "romanization": "",
+    "translation": "",
+    "english": "now",
+    "part_of_speech": "",
+    "frequency": 9,
+    "tags": []
+  },
+  {
+    "id": "th_f82983",
+    "thai": "คะแนน",
+    "romanization": "",
+    "translation": "",
+    "english": "score",
+    "part_of_speech": "",
+    "frequency": 9,
+    "tags": []
+  },
+  {
+    "id": "th_04da82",
+    "thai": "ครู",
+    "romanization": "",
+    "translation": "",
+    "english": "teacher",
+    "part_of_speech": "",
+    "frequency": 9,
+    "tags": []
+  },
+  {
+    "id": "th_2213fa",
+    "thai": "แห่ง",
+    "romanization": "",
+    "translation": "",
+    "english": "of",
+    "part_of_speech": "",
+    "frequency": 9,
+    "tags": []
+  },
+  {
+    "id": "th_9ddb38",
+    "thai": "ยังมี",
+    "romanization": "",
+    "translation": "",
+    "english": "There is still",
+    "part_of_speech": "",
+    "frequency": 9,
+    "tags": []
+  },
+  {
+    "id": "th_28cb1f",
+    "thai": "ทักษะ",
+    "romanization": "",
+    "translation": "",
+    "english": "Skills",
+    "part_of_speech": "",
+    "frequency": 9,
+    "tags": []
+  },
+  {
+    "id": "th_ee0793",
+    "thai": "บ้าน",
+    "romanization": "",
+    "translation": "",
+    "english": "house",
+    "part_of_speech": "",
+    "frequency": 9,
+    "tags": []
+  },
+  {
+    "id": "th_06c5e1",
+    "thai": "เข้ามา",
+    "romanization": "",
+    "translation": "",
+    "english": "come in",
+    "part_of_speech": "",
+    "frequency": 9,
+    "tags": []
+  },
+  {
+    "id": "th_cdd890",
+    "thai": "สำคัญ",
+    "romanization": "",
+    "translation": "",
+    "english": "important",
+    "part_of_speech": "",
+    "frequency": 9,
+    "tags": []
+  },
+  {
+    "id": "th_a03be9",
+    "thai": "กลัว",
+    "romanization": "",
+    "translation": "",
+    "english": "afraid",
+    "part_of_speech": "",
+    "frequency": 9,
+    "tags": []
+  },
+  {
+    "id": "th_32e8be",
+    "thai": "เป็นการ",
+    "romanization": "",
+    "translation": "",
+    "english": "It is",
+    "part_of_speech": "",
+    "frequency": 9,
+    "tags": []
+  },
+  {
+    "id": "th_399c53",
+    "thai": "สูง",
+    "romanization": "",
+    "translation": "",
+    "english": "Tall",
+    "part_of_speech": "",
+    "frequency": 9,
+    "tags": []
+  },
+  {
+    "id": "th_fc1a4a",
+    "thai": "ห้อง",
+    "romanization": "",
+    "translation": "",
+    "english": "room",
+    "part_of_speech": "",
+    "frequency": 9,
+    "tags": []
+  },
+  {
+    "id": "th_52905a",
+    "thai": "ศาสตร์",
+    "romanization": "",
+    "translation": "",
+    "english": "Science",
+    "part_of_speech": "",
+    "frequency": 9,
+    "tags": []
+  },
+  {
+    "id": "th_744c7d",
+    "thai": "กี่",
+    "romanization": "",
+    "translation": "",
+    "english": "How many?",
+    "part_of_speech": "",
+    "frequency": 9,
+    "tags": []
+  },
+  {
+    "id": "th_04394a",
+    "thai": "ชั่น",
+    "romanization": "",
+    "translation": "",
+    "english": "tion",
+    "part_of_speech": "",
+    "frequency": 9,
+    "tags": []
+  },
+  {
+    "id": "th_0ecc57",
+    "thai": "ทัน",
+    "romanization": "",
+    "translation": "",
+    "english": "Just in time",
+    "part_of_speech": "",
+    "frequency": 9,
+    "tags": []
+  },
+  {
+    "id": "th_97bf37",
+    "thai": "ส่ง",
+    "romanization": "",
+    "translation": "",
+    "english": "Send",
+    "part_of_speech": "",
+    "frequency": 9,
+    "tags": []
+  },
+  {
+    "id": "th_761546",
+    "thai": "เตอร์",
+    "romanization": "",
+    "translation": "",
+    "english": "ter",
+    "part_of_speech": "",
+    "frequency": 9,
+    "tags": []
+  },
+  {
+    "id": "th_7f9449",
+    "thai": "นอน",
+    "romanization": "",
+    "translation": "",
+    "english": "sleep",
+    "part_of_speech": "",
+    "frequency": 9,
+    "tags": []
+  },
+  {
+    "id": "th_b820b3",
+    "thai": "มาถึง",
+    "romanization": "",
+    "translation": "",
+    "english": "arrived",
+    "part_of_speech": "",
+    "frequency": 8,
+    "tags": []
+  },
+  {
+    "id": "th_a8784f",
+    "thai": "เรียก",
+    "romanization": "",
+    "translation": "",
+    "english": "call",
+    "part_of_speech": "",
+    "frequency": 8,
+    "tags": []
+  },
+  {
+    "id": "th_209257",
+    "thai": "ไม่ต้อง",
+    "romanization": "",
+    "translation": "",
+    "english": "Don't have to.",
+    "part_of_speech": "",
+    "frequency": 8,
+    "tags": []
+  },
+  {
+    "id": "th_4946e4",
+    "thai": "สหรัฐ",
+    "romanization": "",
+    "translation": "",
+    "english": "United States",
+    "part_of_speech": "",
+    "frequency": 8,
+    "tags": []
+  },
+  {
+    "id": "th_7ab4b9",
+    "thai": "ดีมาก",
+    "romanization": "",
+    "translation": "",
+    "english": "Very good",
+    "part_of_speech": "",
+    "frequency": 8,
+    "tags": []
+  },
+  {
+    "id": "th_90ad9a",
+    "thai": "เก่ง",
+    "romanization": "",
+    "translation": "",
+    "english": "Good",
+    "part_of_speech": "",
+    "frequency": 8,
+    "tags": []
+  },
+  {
+    "id": "th_b7c663",
+    "thai": "ระหว่าง",
+    "romanization": "",
+    "translation": "",
+    "english": "between",
+    "part_of_speech": "",
+    "frequency": 8,
+    "tags": []
+  },
+  {
+    "id": "th_467721",
+    "thai": "ช้า",
+    "romanization": "",
+    "translation": "",
+    "english": "Slow",
+    "part_of_speech": "",
+    "frequency": 8,
+    "tags": []
+  },
+  {
+    "id": "th_5ffe2a",
+    "thai": "สอน",
+    "romanization": "",
+    "translation": "",
+    "english": "Teach",
+    "part_of_speech": "",
+    "frequency": 8,
+    "tags": []
+  },
+  {
+    "id": "th_438d03",
+    "thai": "แต่ละ",
+    "romanization": "",
+    "translation": "",
+    "english": "each",
+    "part_of_speech": "",
+    "frequency": 8,
+    "tags": []
+  },
+  {
+    "id": "th_68aa2b",
+    "thai": "หลัก",
+    "romanization": "",
+    "translation": "",
+    "english": "main",
+    "part_of_speech": "",
+    "frequency": 8,
+    "tags": []
+  },
+  {
+    "id": "th_c21893",
+    "thai": "รุ่น",
+    "romanization": "",
+    "translation": "",
+    "english": "Model",
+    "part_of_speech": "",
+    "frequency": 8,
+    "tags": []
+  },
+  {
+    "id": "th_fc2487",
+    "thai": "ว่าการ",
+    "romanization": "",
+    "translation": "",
+    "english": "governor",
+    "part_of_speech": "",
+    "frequency": 8,
+    "tags": []
+  },
+  {
+    "id": "th_64802b",
+    "thai": "ประเมิน",
+    "romanization": "",
+    "translation": "",
+    "english": "Evaluate",
+    "part_of_speech": "",
+    "frequency": 8,
+    "tags": []
+  },
+  {
+    "id": "th_8b5ed2",
+    "thai": "แตก",
+    "romanization": "",
+    "translation": "",
+    "english": "Broken",
+    "part_of_speech": "",
+    "frequency": 8,
+    "tags": []
+  },
+  {
+    "id": "th_94b6d9",
+    "thai": "ต่ำ",
+    "romanization": "",
+    "translation": "",
+    "english": "low",
+    "part_of_speech": "",
+    "frequency": 8,
+    "tags": []
+  },
+  {
     "id": "v_botrian",
     "thai": "บทเรียน",
     "romanization": "bòt-rian",
@@ -99,6 +1759,266 @@
     "frequency": 7
   },
   {
+    "id": "th_4ee810",
+    "thai": "ใช่ไหม",
+    "romanization": "",
+    "translation": "",
+    "english": "Is that right?",
+    "part_of_speech": "",
+    "frequency": 7,
+    "tags": []
+  },
+  {
+    "id": "th_ad6c8d",
+    "thai": "ที่จะ",
+    "romanization": "",
+    "translation": "",
+    "english": "to",
+    "part_of_speech": "",
+    "frequency": 7,
+    "tags": []
+  },
+  {
+    "id": "th_dc1d87",
+    "thai": "เนี่ย",
+    "romanization": "",
+    "translation": "",
+    "english": "This",
+    "part_of_speech": "",
+    "frequency": 7,
+    "tags": []
+  },
+  {
+    "id": "th_08c1d6",
+    "thai": "วันนั้น",
+    "romanization": "",
+    "translation": "",
+    "english": "That day",
+    "part_of_speech": "",
+    "frequency": 7,
+    "tags": []
+  },
+  {
+    "id": "th_6fc1cf",
+    "thai": "เหรอ",
+    "romanization": "",
+    "translation": "",
+    "english": "So?",
+    "part_of_speech": "",
+    "frequency": 7,
+    "tags": []
+  },
+  {
+    "id": "th_16092e",
+    "thai": "ไว้",
+    "romanization": "",
+    "translation": "",
+    "english": "keep it",
+    "part_of_speech": "",
+    "frequency": 7,
+    "tags": []
+  },
+  {
+    "id": "th_bd7ae9",
+    "thai": "แล้วกัน",
+    "romanization": "",
+    "translation": "",
+    "english": "Then",
+    "part_of_speech": "",
+    "frequency": 7,
+    "tags": []
+  },
+  {
+    "id": "th_b68665",
+    "thai": "ลดลง",
+    "romanization": "",
+    "translation": "",
+    "english": "decreased",
+    "part_of_speech": "",
+    "frequency": 7,
+    "tags": []
+  },
+  {
+    "id": "th_9fea90",
+    "thai": "โรงเรียน",
+    "romanization": "",
+    "translation": "",
+    "english": "school",
+    "part_of_speech": "",
+    "frequency": 7,
+    "tags": []
+  },
+  {
+    "id": "th_f0caa1",
+    "thai": "สาบ",
+    "romanization": "",
+    "translation": "",
+    "english": "Damn",
+    "part_of_speech": "",
+    "frequency": 7,
+    "tags": []
+  },
+  {
+    "id": "th_0ebb64",
+    "thai": "ภาษา",
+    "romanization": "",
+    "translation": "",
+    "english": "Language",
+    "part_of_speech": "",
+    "frequency": 7,
+    "tags": []
+  },
+  {
+    "id": "th_ac5d5b",
+    "thai": "เดียวกัน",
+    "romanization": "",
+    "translation": "",
+    "english": "same",
+    "part_of_speech": "",
+    "frequency": 7,
+    "tags": []
+  },
+  {
+    "id": "th_f19a38",
+    "thai": "ต่อเนื่อง",
+    "romanization": "",
+    "translation": "",
+    "english": "continuous",
+    "part_of_speech": "",
+    "frequency": 7,
+    "tags": []
+  },
+  {
+    "id": "th_638fe8",
+    "thai": "โปร",
+    "romanization": "",
+    "translation": "",
+    "english": "Pro",
+    "part_of_speech": "",
+    "frequency": 7,
+    "tags": []
+  },
+  {
+    "id": "th_b5769b",
+    "thai": "ทุกวัน",
+    "romanization": "",
+    "translation": "",
+    "english": "Every day",
+    "part_of_speech": "",
+    "frequency": 7,
+    "tags": []
+  },
+  {
+    "id": "th_34eab9",
+    "thai": "น้อง",
+    "romanization": "",
+    "translation": "",
+    "english": "Younger sister",
+    "part_of_speech": "",
+    "frequency": 7,
+    "tags": []
+  },
+  {
+    "id": "th_bd2531",
+    "thai": "ชีวิต",
+    "romanization": "",
+    "translation": "",
+    "english": "life",
+    "part_of_speech": "",
+    "frequency": 7,
+    "tags": []
+  },
+  {
+    "id": "th_6664e0",
+    "thai": "เนอร์",
+    "romanization": "",
+    "translation": "",
+    "english": "Ner",
+    "part_of_speech": "",
+    "frequency": 7,
+    "tags": []
+  },
+  {
+    "id": "th_342b24",
+    "thai": "ตัวอย่าง",
+    "romanization": "",
+    "translation": "",
+    "english": "Example",
+    "part_of_speech": "",
+    "frequency": 7,
+    "tags": []
+  },
+  {
+    "id": "th_8da13b",
+    "thai": "เร็ว",
+    "romanization": "",
+    "translation": "",
+    "english": "Fast",
+    "part_of_speech": "",
+    "frequency": 7,
+    "tags": []
+  },
+  {
+    "id": "th_322ef8",
+    "thai": "ช่วง",
+    "romanization": "",
+    "translation": "",
+    "english": "range",
+    "part_of_speech": "",
+    "frequency": 7,
+    "tags": []
+  },
+  {
+    "id": "th_3dd326",
+    "thai": "สอง",
+    "romanization": "",
+    "translation": "",
+    "english": "Two",
+    "part_of_speech": "",
+    "frequency": 7,
+    "tags": []
+  },
+  {
+    "id": "th_a3bad5",
+    "thai": "ลิต",
+    "romanization": "",
+    "translation": "",
+    "english": "lit",
+    "part_of_speech": "",
+    "frequency": 7,
+    "tags": []
+  },
+  {
+    "id": "th_965ed0",
+    "thai": "เชื่อ",
+    "romanization": "",
+    "translation": "",
+    "english": "believe",
+    "part_of_speech": "",
+    "frequency": 7,
+    "tags": []
+  },
+  {
+    "id": "th_e1459f",
+    "thai": "เพื่อน",
+    "romanization": "",
+    "translation": "",
+    "english": "friends",
+    "part_of_speech": "",
+    "frequency": 7,
+    "tags": []
+  },
+  {
+    "id": "th_b29d66",
+    "thai": "รวม",
+    "romanization": "",
+    "translation": "",
+    "english": "Total",
+    "part_of_speech": "",
+    "frequency": 7,
+    "tags": []
+  },
+  {
     "id": "v_tangchaat",
     "thai": "ต่างชาติ",
     "romanization": "tàang-châat",
@@ -108,6 +2028,386 @@
       "business"
     ],
     "frequency": 6
+  },
+  {
+    "id": "th_1bb5c0",
+    "thai": "แบน",
+    "romanization": "",
+    "translation": "",
+    "english": "flat",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
+  },
+  {
+    "id": "th_54b69b",
+    "thai": "เจียว",
+    "romanization": "",
+    "translation": "",
+    "english": "Fried",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
+  },
+  {
+    "id": "th_ddd804",
+    "thai": "ฮ่องกง",
+    "romanization": "",
+    "translation": "",
+    "english": "Hong Kong",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
+  },
+  {
+    "id": "th_60d300",
+    "thai": "นิดหนึ่ง",
+    "romanization": "",
+    "translation": "",
+    "english": "A little bit",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
+  },
+  {
+    "id": "th_d8ba19",
+    "thai": "มีความหมาย",
+    "romanization": "",
+    "translation": "",
+    "english": "meaningful",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
+  },
+  {
+    "id": "th_a68075",
+    "thai": "เดี๋ยว",
+    "romanization": "",
+    "translation": "",
+    "english": "Wait a minute.",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
+  },
+  {
+    "id": "th_b1e66e",
+    "thai": "อ่ะ",
+    "romanization": "",
+    "translation": "",
+    "english": "Ah.",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
+  },
+  {
+    "id": "th_e50b55",
+    "thai": "เครื่องบิน",
+    "romanization": "",
+    "translation": "",
+    "english": "airplane",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
+  },
+  {
+    "id": "th_a927d2",
+    "thai": "กลับมา",
+    "romanization": "",
+    "translation": "",
+    "english": "come back",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
+  },
+  {
+    "id": "th_9045e4",
+    "thai": "เลือก",
+    "romanization": "",
+    "translation": "",
+    "english": "Select",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
+  },
+  {
+    "id": "th_ecbc37",
+    "thai": "ชัดเจน",
+    "romanization": "",
+    "translation": "",
+    "english": "clear",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
+  },
+  {
+    "id": "th_dec645",
+    "thai": "นโยบาย",
+    "romanization": "",
+    "translation": "",
+    "english": "Policy",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
+  },
+  {
+    "id": "th_a47bdd",
+    "thai": "การแก้ปัญหา",
+    "romanization": "",
+    "translation": "",
+    "english": "problem solving",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
+  },
+  {
+    "id": "th_5bae05",
+    "thai": "จึง",
+    "romanization": "",
+    "translation": "",
+    "english": "Therefore",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
+  },
+  {
+    "id": "th_d887d2",
+    "thai": "เกิดขึ้น",
+    "romanization": "",
+    "translation": "",
+    "english": "happen",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
+  },
+  {
+    "id": "th_cbe392",
+    "thai": "การปฏิรูป",
+    "romanization": "",
+    "translation": "",
+    "english": "reform",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
+  },
+  {
+    "id": "th_003245",
+    "thai": "ศูนย์",
+    "romanization": "",
+    "translation": "",
+    "english": "center",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
+  },
+  {
+    "id": "th_a64277",
+    "thai": "ว่าความ",
+    "romanization": "",
+    "translation": "",
+    "english": "Advocate",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
+  },
+  {
+    "id": "th_5e3de9",
+    "thai": "อยากได้",
+    "romanization": "",
+    "translation": "",
+    "english": "I want it.",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
+  },
+  {
+    "id": "th_180669",
+    "thai": "เลิก",
+    "romanization": "",
+    "translation": "",
+    "english": "break up",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
+  },
+  {
+    "id": "th_2d6650",
+    "thai": "ทีม",
+    "romanization": "",
+    "translation": "",
+    "english": "team",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
+  },
+  {
+    "id": "th_bdeb06",
+    "thai": "กี้",
+    "romanization": "",
+    "translation": "",
+    "english": "Mikey",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
+  },
+  {
+    "id": "th_a42b89",
+    "thai": "กลุ่ม",
+    "romanization": "",
+    "translation": "",
+    "english": "group",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
+  },
+  {
+    "id": "th_457c3c",
+    "thai": "วัด",
+    "romanization": "",
+    "translation": "",
+    "english": "temple",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
+  },
+  {
+    "id": "th_8bc313",
+    "thai": "ขณะที่",
+    "romanization": "",
+    "translation": "",
+    "english": "while",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
+  },
+  {
+    "id": "th_f62e0b",
+    "thai": "คล้อง",
+    "romanization": "",
+    "translation": "",
+    "english": "loop",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
+  },
+  {
+    "id": "th_be9821",
+    "thai": "มุม",
+    "romanization": "",
+    "translation": "",
+    "english": "angle",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
+  },
+  {
+    "id": "th_dd422b",
+    "thai": "พร้อม",
+    "romanization": "",
+    "translation": "",
+    "english": "ready",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
+  },
+  {
+    "id": "th_a1c071",
+    "thai": "ตลอด",
+    "romanization": "",
+    "translation": "",
+    "english": "all the time",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
+  },
+  {
+    "id": "th_1dd5e4",
+    "thai": "พัฒนาการ",
+    "romanization": "",
+    "translation": "",
+    "english": "development",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
+  },
+  {
+    "id": "th_c547d1",
+    "thai": "จัง",
+    "romanization": "",
+    "translation": "",
+    "english": "Really",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
+  },
+  {
+    "id": "th_68f27d",
+    "thai": "แหละ",
+    "romanization": "",
+    "translation": "",
+    "english": "Yep.",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
+  },
+  {
+    "id": "th_f6e0a2",
+    "thai": "พนักงาน",
+    "romanization": "",
+    "translation": "",
+    "english": "employees",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
+  },
+  {
+    "id": "th_a7a844",
+    "thai": "ผิด",
+    "romanization": "",
+    "translation": "",
+    "english": "Wrong",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
+  },
+  {
+    "id": "th_cecc2b",
+    "thai": "อื่น",
+    "romanization": "",
+    "translation": "",
+    "english": "other",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
+  },
+  {
+    "id": "th_fa1cfb",
+    "thai": "ความสำเร็จ",
+    "romanization": "",
+    "translation": "",
+    "english": "success",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
+  },
+  {
+    "id": "th_867299",
+    "thai": "จำนวน",
+    "romanization": "",
+    "translation": "",
+    "english": "Quantity",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
+  },
+  {
+    "id": "th_a48d00",
+    "thai": "จำเป็น",
+    "romanization": "",
+    "translation": "",
+    "english": "necessary",
+    "part_of_speech": "",
+    "frequency": 6,
+    "tags": []
   },
   {
     "id": "v_yɔɔmpɛɛ",
@@ -154,6 +2454,456 @@
     "frequency": 5
   },
   {
+    "id": "th_45f424",
+    "thai": "โจด",
+    "romanization": "",
+    "translation": "",
+    "english": "Jot",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_8c44aa",
+    "thai": "ดอก",
+    "romanization": "",
+    "translation": "",
+    "english": "flower",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_da232f",
+    "thai": "มากกว่า",
+    "romanization": "",
+    "translation": "",
+    "english": "more than",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_1376c0",
+    "thai": "ตรงนี้",
+    "romanization": "",
+    "translation": "",
+    "english": "Right here",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_3f8725",
+    "thai": "ยังไง",
+    "romanization": "",
+    "translation": "",
+    "english": "How?",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_68b9b1",
+    "thai": "เฮ้ย",
+    "romanization": "",
+    "translation": "",
+    "english": "Hey!",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_baaf1c",
+    "thai": "อินฟินิตี้",
+    "romanization": "",
+    "translation": "",
+    "english": "Infinity",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_ca3e3a",
+    "thai": "เค้า",
+    "romanization": "",
+    "translation": "",
+    "english": "He",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_0fa373",
+    "thai": "สมมติ",
+    "romanization": "",
+    "translation": "",
+    "english": "Assume",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_375832",
+    "thai": "กลายเป็น",
+    "romanization": "",
+    "translation": "",
+    "english": "become",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_e1389d",
+    "thai": "กำลังจะ",
+    "romanization": "",
+    "translation": "",
+    "english": "about to",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_8add4e",
+    "thai": "ห้าง",
+    "romanization": "",
+    "translation": "",
+    "english": "Department store",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_4d0411",
+    "thai": "สนใจ",
+    "romanization": "",
+    "translation": "",
+    "english": "Interested",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_13ea42",
+    "thai": "สุดท้าย",
+    "romanization": "",
+    "translation": "",
+    "english": "last",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_f20d05",
+    "thai": "คำตอบ",
+    "romanization": "",
+    "translation": "",
+    "english": "Answer",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_374603",
+    "thai": "ไอ้",
+    "romanization": "",
+    "translation": "",
+    "english": "Bastard",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_08b557",
+    "thai": "ตั้งใจ",
+    "romanization": "",
+    "translation": "",
+    "english": "intend",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_c1d9ba",
+    "thai": "ตรงนั้น",
+    "romanization": "",
+    "translation": "",
+    "english": "There",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_bd5d57",
+    "thai": "ทั้งหมด",
+    "romanization": "",
+    "translation": "",
+    "english": "all",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_8483be",
+    "thai": "ที่ผ่านมา",
+    "romanization": "",
+    "translation": "",
+    "english": "past",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_c7450f",
+    "thai": "เหตุผล",
+    "romanization": "",
+    "translation": "",
+    "english": "Reason",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_5480c4",
+    "thai": "เชิง",
+    "romanization": "",
+    "translation": "",
+    "english": "point",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_7549dc",
+    "thai": "เจรจา",
+    "romanization": "",
+    "translation": "",
+    "english": "Negotiate",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_775872",
+    "thai": "ข้อตกลง",
+    "romanization": "",
+    "translation": "",
+    "english": "agreement",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_8424e5",
+    "thai": "พื้นที่",
+    "romanization": "",
+    "translation": "",
+    "english": "area",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_d5a9c8",
+    "thai": "ออกแบบ",
+    "romanization": "",
+    "translation": "",
+    "english": "design",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_3d61bf",
+    "thai": "เรียบ",
+    "romanization": "",
+    "translation": "",
+    "english": "smooth",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_b4278c",
+    "thai": "พวกเขา",
+    "romanization": "",
+    "translation": "",
+    "english": "them",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_69cd30",
+    "thai": "เน้น",
+    "romanization": "",
+    "translation": "",
+    "english": "emphasize",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_91c892",
+    "thai": "การเปลี่ยนแปลง",
+    "romanization": "",
+    "translation": "",
+    "english": "change",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_d3e89b",
+    "thai": "ผลลัพธ์",
+    "romanization": "",
+    "translation": "",
+    "english": "Results",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_533769",
+    "thai": "ง่าย",
+    "romanization": "",
+    "translation": "",
+    "english": "Easy",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_3bc538",
+    "thai": "วันที่",
+    "romanization": "",
+    "translation": "",
+    "english": "date",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_19cb85",
+    "thai": "เลน",
+    "romanization": "",
+    "translation": "",
+    "english": "lane",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_28a28f",
+    "thai": "อย่างนั้น",
+    "romanization": "",
+    "translation": "",
+    "english": "like that",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_f9b5fb",
+    "thai": "คำถาม",
+    "romanization": "",
+    "translation": "",
+    "english": "Question",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_95ac5e",
+    "thai": "ราน",
+    "romanization": "",
+    "translation": "",
+    "english": "Ransom",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_373b18",
+    "thai": "ชี้",
+    "romanization": "",
+    "translation": "",
+    "english": "Point",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_3c5412",
+    "thai": "อายุ",
+    "romanization": "",
+    "translation": "",
+    "english": "Age",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_2f4fe5",
+    "thai": "ทดสอบ",
+    "romanization": "",
+    "translation": "",
+    "english": "test",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_79319a",
+    "thai": "วิเคราะห์",
+    "romanization": "",
+    "translation": "",
+    "english": "Analyze",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_951ddd",
+    "thai": "ออน",
+    "romanization": "",
+    "translation": "",
+    "english": "On",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_6f1080",
+    "thai": "ไซน์",
+    "romanization": "",
+    "translation": "",
+    "english": "Sine",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_f27937",
+    "thai": "ไหว",
+    "romanization": "",
+    "translation": "",
+    "english": "I can handle it.",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
+    "id": "th_690979",
+    "thai": "จำกัด",
+    "romanization": "",
+    "translation": "",
+    "english": "limited",
+    "part_of_speech": "",
+    "frequency": 5,
+    "tags": []
+  },
+  {
     "id": "v_ig",
     "thai": "ไอจี",
     "romanization": "ai-jii",
@@ -174,6 +2924,466 @@
       "business"
     ],
     "frequency": 4
+  },
+  {
+    "id": "th_e42d6e",
+    "thai": "ดีกว่า",
+    "romanization": "",
+    "translation": "",
+    "english": "Better",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_ea91c4",
+    "thai": "เหนื่อย",
+    "romanization": "",
+    "translation": "",
+    "english": "Tired",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_93e2ea",
+    "thai": "สวัสดี",
+    "romanization": "",
+    "translation": "",
+    "english": "Hello",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_254640",
+    "thai": "สนับสนุน",
+    "romanization": "",
+    "translation": "",
+    "english": "support",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_7572e6",
+    "thai": "โอ้โฮ",
+    "romanization": "",
+    "translation": "",
+    "english": "Whoa!",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_66c44e",
+    "thai": "เข้าไป",
+    "romanization": "",
+    "translation": "",
+    "english": "go in",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_37eb77",
+    "thai": "อัป",
+    "romanization": "",
+    "translation": "",
+    "english": "up",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_0dad18",
+    "thai": "นั่นเอง",
+    "romanization": "",
+    "translation": "",
+    "english": "That's it.",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_42bb6b",
+    "thai": "จุดเริ่มต้น",
+    "romanization": "",
+    "translation": "",
+    "english": "starting point",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_7c109c",
+    "thai": "น่าจะเป็น",
+    "romanization": "",
+    "translation": "",
+    "english": "Probably",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_9193b2",
+    "thai": "แฟน",
+    "romanization": "",
+    "translation": "",
+    "english": "boyfriend",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_86a47f",
+    "thai": "แฟชั่น",
+    "romanization": "",
+    "translation": "",
+    "english": "fashion",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_63436e",
+    "thai": "เจ็ต",
+    "romanization": "",
+    "translation": "",
+    "english": "Jet",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_c7be15",
+    "thai": "ตอนที่",
+    "romanization": "",
+    "translation": "",
+    "english": "episode",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_35ae04",
+    "thai": "มาจาก",
+    "romanization": "",
+    "translation": "",
+    "english": "come from",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_83c07c",
+    "thai": "พลัง",
+    "romanization": "",
+    "translation": "",
+    "english": "power",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_6ea8a1",
+    "thai": "เงินก้อน",
+    "romanization": "",
+    "translation": "",
+    "english": "Lump sum",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_b1b916",
+    "thai": "ฉลาด",
+    "romanization": "",
+    "translation": "",
+    "english": "smart",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_cf6f85",
+    "thai": "ดิส",
+    "romanization": "",
+    "translation": "",
+    "english": "disk",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_29774e",
+    "thai": "คนใน",
+    "romanization": "",
+    "translation": "",
+    "english": "insider in",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_21ab6d",
+    "thai": "แอบ",
+    "romanization": "",
+    "translation": "",
+    "english": "secretly",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_931869",
+    "thai": "เพิ่ง",
+    "romanization": "",
+    "translation": "",
+    "english": "Just",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_9dfb3c",
+    "thai": "หยุด",
+    "romanization": "",
+    "translation": "",
+    "english": "stop",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_dbf3b0",
+    "thai": "เหล่านี้",
+    "romanization": "",
+    "translation": "",
+    "english": "these",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_db4928",
+    "thai": "ระบุ",
+    "romanization": "",
+    "translation": "",
+    "english": "specify",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_a394aa",
+    "thai": "ย้ำ",
+    "romanization": "",
+    "translation": "",
+    "english": "I repeat.",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_f58190",
+    "thai": "ต่ำกว่า",
+    "romanization": "",
+    "translation": "",
+    "english": "lower",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_9e9d60",
+    "thai": "ค่าเฉลี่ย",
+    "romanization": "",
+    "translation": "",
+    "english": "average",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_2b6274",
+    "thai": "ช่องว่าง",
+    "romanization": "",
+    "translation": "",
+    "english": "space",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_72363b",
+    "thai": "การประเมิน",
+    "romanization": "",
+    "translation": "",
+    "english": "Assessment",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_55af90",
+    "thai": "งานวิจัย",
+    "romanization": "",
+    "translation": "",
+    "english": "Research",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_7a68ce",
+    "thai": "ความสามารถ",
+    "romanization": "",
+    "translation": "",
+    "english": "ability",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_603c52",
+    "thai": "การพัฒนา",
+    "romanization": "",
+    "translation": "",
+    "english": "development",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_a62583",
+    "thai": "สถานการณ์",
+    "romanization": "",
+    "translation": "",
+    "english": "situation",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_bb5123",
+    "thai": "โครงสร้าง",
+    "romanization": "",
+    "translation": "",
+    "english": "Structure",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_775be6",
+    "thai": "ห้องเรียน",
+    "romanization": "",
+    "translation": "",
+    "english": "classroom",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_033eee",
+    "thai": "ประตู",
+    "romanization": "",
+    "translation": "",
+    "english": "door",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_f51410",
+    "thai": "เช่น",
+    "romanization": "",
+    "translation": "",
+    "english": "such as",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_7b8872",
+    "thai": "ได้เงิน",
+    "romanization": "",
+    "translation": "",
+    "english": "get money",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_ff2556",
+    "thai": "พึ่ง",
+    "romanization": "",
+    "translation": "",
+    "english": "rely on",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_d035aa",
+    "thai": "การทำงาน",
+    "romanization": "",
+    "translation": "",
+    "english": "work",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_723e80",
+    "thai": "เสมอ",
+    "romanization": "",
+    "translation": "",
+    "english": "always",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_6dfc3a",
+    "thai": "กิจ",
+    "romanization": "",
+    "translation": "",
+    "english": "Activity",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_259d66",
+    "thai": "เกือบ",
+    "romanization": "",
+    "translation": "",
+    "english": "almost",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_dd2434",
+    "thai": "แนวโน้ม",
+    "romanization": "",
+    "translation": "",
+    "english": "trend",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
+  },
+  {
+    "id": "th_d15ba2",
+    "thai": "โดยเฉพาะ",
+    "romanization": "",
+    "translation": "",
+    "english": "especially",
+    "part_of_speech": "",
+    "frequency": 4,
+    "tags": []
   },
   {
     "id": "v_waeluu",
@@ -274,6 +3484,806 @@
       "business"
     ],
     "frequency": 3
+  },
+  {
+    "id": "th_c9d8d2",
+    "thai": "กุญแจ",
+    "romanization": "",
+    "translation": "",
+    "english": "key",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_dff601",
+    "thai": "ส่วนใหญ่",
+    "romanization": "",
+    "translation": "",
+    "english": "mostly",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_c260f4",
+    "thai": "มากมาย",
+    "romanization": "",
+    "translation": "",
+    "english": "many",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_0d6e76",
+    "thai": "ถึงว่า",
+    "romanization": "",
+    "translation": "",
+    "english": "Even though",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_c48219",
+    "thai": "เซอร์",
+    "romanization": "",
+    "translation": "",
+    "english": "Sir",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_b63f65",
+    "thai": "โควิด",
+    "romanization": "",
+    "translation": "",
+    "english": "Covid",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_56bb31",
+    "thai": "ดีใจ",
+    "romanization": "",
+    "translation": "",
+    "english": "Glad",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_788aba",
+    "thai": "บุก",
+    "romanization": "",
+    "translation": "",
+    "english": "Invade",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_3b71a2",
+    "thai": "ที่มา",
+    "romanization": "",
+    "translation": "",
+    "english": "Origin",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_9b5ab7",
+    "thai": "เบอร์",
+    "romanization": "",
+    "translation": "",
+    "english": "Number",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_b7494d",
+    "thai": "พี่สาว",
+    "romanization": "",
+    "translation": "",
+    "english": "older sister",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_36806d",
+    "thai": "โอเค",
+    "romanization": "",
+    "translation": "",
+    "english": "ok",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_9b50e4",
+    "thai": "แว่น",
+    "romanization": "",
+    "translation": "",
+    "english": "glasses",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_ee09d3",
+    "thai": "สักว่า",
+    "romanization": "",
+    "translation": "",
+    "english": "Say,",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_835387",
+    "thai": "มองว่า",
+    "romanization": "",
+    "translation": "",
+    "english": "I think that",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_eba5e8",
+    "thai": "แจ้ง",
+    "romanization": "",
+    "translation": "",
+    "english": "inform",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_cfe94d",
+    "thai": "วิ่ง",
+    "romanization": "",
+    "translation": "",
+    "english": "run",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_27854f",
+    "thai": "ตะโกน",
+    "romanization": "",
+    "translation": "",
+    "english": "shout",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_6817e0",
+    "thai": "รู้จัก",
+    "romanization": "",
+    "translation": "",
+    "english": "know",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_8b4b34",
+    "thai": "ชัน",
+    "romanization": "",
+    "translation": "",
+    "english": "Steep",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_cbd369",
+    "thai": "พนักงานขาย",
+    "romanization": "",
+    "translation": "",
+    "english": "Salesperson",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_2fdc0a",
+    "thai": "ต้องหา",
+    "romanization": "",
+    "translation": "",
+    "english": "must find",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_56e87c",
+    "thai": "ยอมรับ",
+    "romanization": "",
+    "translation": "",
+    "english": "accept",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_30c59c",
+    "thai": "ส่งผล",
+    "romanization": "",
+    "translation": "",
+    "english": "affect",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_47be79",
+    "thai": "เสร็จ",
+    "romanization": "",
+    "translation": "",
+    "english": "Done",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_73edaa",
+    "thai": "ออฟ",
+    "romanization": "",
+    "translation": "",
+    "english": "Off",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_76a0b4",
+    "thai": "เพิ่มเติม",
+    "romanization": "",
+    "translation": "",
+    "english": "More",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_777413",
+    "thai": "ศาษา",
+    "romanization": "",
+    "translation": "",
+    "english": "Religion",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_6b4a2b",
+    "thai": "ระดับโลก",
+    "romanization": "",
+    "translation": "",
+    "english": "world class",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_ad6aa5",
+    "thai": "ชิ้น",
+    "romanization": "",
+    "translation": "",
+    "english": "piece",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_369c8b",
+    "thai": "พ่อ",
+    "romanization": "",
+    "translation": "",
+    "english": "Father",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_f602ee",
+    "thai": "อันนั้น",
+    "romanization": "",
+    "translation": "",
+    "english": "That one",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_a23f66",
+    "thai": "อ่าน",
+    "romanization": "",
+    "translation": "",
+    "english": "read",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_b26ea7",
+    "thai": "ทั่วโลก",
+    "romanization": "",
+    "translation": "",
+    "english": "Around the world",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_ffa43f",
+    "thai": "ความแตกต่าง",
+    "romanization": "",
+    "translation": "",
+    "english": "difference",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_ebcbb2",
+    "thai": "พูดถึง",
+    "romanization": "",
+    "translation": "",
+    "english": "talking about",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_5c29ad",
+    "thai": "ความโชคดี",
+    "romanization": "",
+    "translation": "",
+    "english": "good luck",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_1d31fb",
+    "thai": "แสดง",
+    "romanization": "",
+    "translation": "",
+    "english": "show",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_5343f2",
+    "thai": "ช่วย",
+    "romanization": "",
+    "translation": "",
+    "english": "help",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_bc9418",
+    "thai": "ยิง",
+    "romanization": "",
+    "translation": "",
+    "english": "shoot",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_1e6ea3",
+    "thai": "เพื่อให้",
+    "romanization": "",
+    "translation": "",
+    "english": "so that",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_8ccd11",
+    "thai": "ลุย",
+    "romanization": "",
+    "translation": "",
+    "english": "Go",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_dba48b",
+    "thai": "ไตร",
+    "romanization": "",
+    "translation": "",
+    "english": "Tri",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_c1065e",
+    "thai": "ออกมา",
+    "romanization": "",
+    "translation": "",
+    "english": "come out",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_f3c25a",
+    "thai": "คนอื่น",
+    "romanization": "",
+    "translation": "",
+    "english": "other people",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_59fcb4",
+    "thai": "ฮงกง",
+    "romanization": "",
+    "translation": "",
+    "english": "Hong Kong",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_5e15f6",
+    "thai": "แพง",
+    "romanization": "",
+    "translation": "",
+    "english": "Expensive",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_6fbe96",
+    "thai": "ใส่ใจ",
+    "romanization": "",
+    "translation": "",
+    "english": "Pay attention",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_412a94",
+    "thai": "รายละเอียด",
+    "romanization": "",
+    "translation": "",
+    "english": "Details",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_1c4fba",
+    "thai": "ใช้ได้",
+    "romanization": "",
+    "translation": "",
+    "english": "available",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_9e476a",
+    "thai": "เชือก",
+    "romanization": "",
+    "translation": "",
+    "english": "rope",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_7cab6c",
+    "thai": "สุดยอด",
+    "romanization": "",
+    "translation": "",
+    "english": "Awesome",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_d82fc1",
+    "thai": "การตัดสินใจ",
+    "romanization": "",
+    "translation": "",
+    "english": "decision",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_2b1ee0",
+    "thai": "ร่างกาย",
+    "romanization": "",
+    "translation": "",
+    "english": "body",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_b8239c",
+    "thai": "แต่ก่อน",
+    "romanization": "",
+    "translation": "",
+    "english": "before",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_f3e0d4",
+    "thai": "เพิ่มขึ้น",
+    "romanization": "",
+    "translation": "",
+    "english": "increase",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_d2c57f",
+    "thai": "ป้าน",
+    "romanization": "",
+    "translation": "",
+    "english": "Obtuse",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_4b0c73",
+    "thai": "เวที",
+    "romanization": "",
+    "translation": "",
+    "english": "stage",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_878224",
+    "thai": "โชว์",
+    "romanization": "",
+    "translation": "",
+    "english": "Show",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_aa3331",
+    "thai": "อิรันดร์",
+    "romanization": "",
+    "translation": "",
+    "english": "Iran",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_7b8083",
+    "thai": "ประธานาธิบดี",
+    "romanization": "",
+    "translation": "",
+    "english": "president",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_3c6e4b",
+    "thai": "ร่าน",
+    "romanization": "",
+    "translation": "",
+    "english": "Slut",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_0e4b15",
+    "thai": "ขนาดที่",
+    "romanization": "",
+    "translation": "",
+    "english": "The size",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_81538f",
+    "thai": "ผลสอบ",
+    "romanization": "",
+    "translation": "",
+    "english": "Exam results",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_df7a40",
+    "thai": "ห่าง",
+    "romanization": "",
+    "translation": "",
+    "english": "away",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_1b40c8",
+    "thai": "ฝัด",
+    "romanization": "",
+    "translation": "",
+    "english": "Winnow",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_4041dd",
+    "thai": "ทันโลก",
+    "romanization": "",
+    "translation": "",
+    "english": "Keep up with the world",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_3deebc",
+    "thai": "ชุด",
+    "romanization": "",
+    "translation": "",
+    "english": "set",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_204887",
+    "thai": "ตรงกัน",
+    "romanization": "",
+    "translation": "",
+    "english": "match",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_cc62e1",
+    "thai": "วัย",
+    "romanization": "",
+    "translation": "",
+    "english": "age",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_9efdb4",
+    "thai": "อาจารย์",
+    "romanization": "",
+    "translation": "",
+    "english": "Teacher",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_8af7eb",
+    "thai": "สะท้อน",
+    "romanization": "",
+    "translation": "",
+    "english": "reflect",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_d4fb43",
+    "thai": "วิทยาศาสตร์",
+    "romanization": "",
+    "translation": "",
+    "english": "Science",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_655fca",
+    "thai": "ความรู้",
+    "romanization": "",
+    "translation": "",
+    "english": "knowledge",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_1cda84",
+    "thai": "จำนวนมาก",
+    "romanization": "",
+    "translation": "",
+    "english": "a lot",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_286e73",
+    "thai": "ศักยภาพ",
+    "romanization": "",
+    "translation": "",
+    "english": "Potential",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_ca4e6d",
+    "thai": "ผู้เรียน",
+    "romanization": "",
+    "translation": "",
+    "english": "student",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_1203b3",
+    "thai": "งบประมาณ",
+    "romanization": "",
+    "translation": "",
+    "english": "Budget",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_3fd751",
+    "thai": "ครอบครัว",
+    "romanization": "",
+    "translation": "",
+    "english": "family",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
+  },
+  {
+    "id": "th_a1ce06",
+    "thai": "จัดสรร",
+    "romanization": "",
+    "translation": "",
+    "english": "allocate",
+    "part_of_speech": "",
+    "frequency": 3,
+    "tags": []
   },
   {
     "id": "v_diisai",
