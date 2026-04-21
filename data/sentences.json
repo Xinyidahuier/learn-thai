@@ -30,11 +30,6 @@
         "vocab_id": "v_senthaang"
       },
       {
-        "start": 66,
-        "end": 69,
-        "vocab_id": "th_ef0610"
-      },
-      {
         "start": 87,
         "end": 91,
         "vocab_id": "th_47fb55"
@@ -75,16 +70,6 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 2,
-        "end": 8,
-        "vocab_id": "th_f762e4"
-      },
-      {
-        "start": 20,
-        "end": 25,
-        "vocab_id": "th_a82c82"
-      },
-      {
         "start": 28,
         "end": 34,
         "vocab_id": "th_1f630b"
@@ -105,11 +90,6 @@
         "vocab_id": "th_55a108"
       },
       {
-        "start": 74,
-        "end": 78,
-        "vocab_id": "th_9a4e15"
-      },
-      {
         "start": 104,
         "end": 108,
         "vocab_id": "th_f613b7"
@@ -118,11 +98,6 @@
         "start": 110,
         "end": 114,
         "vocab_id": "th_47fb55"
-      },
-      {
-        "start": 124,
-        "end": 128,
-        "vocab_id": "th_9a4e15"
       },
       {
         "start": 154,
@@ -149,11 +124,6 @@
     "translation": "很多人可能会说我们多么成功，但 Sa 说：没人知道我们有多累。真的非常累。就像——我们越成长，组织越大，扩张越多，挑战就越难。",
     "vocab_ids": [],
     "annotations": [
-      {
-        "start": 1,
-        "end": 4,
-        "vocab_id": "th_aa8756"
-      },
       {
         "start": 6,
         "end": 11,
@@ -190,16 +160,6 @@
         "vocab_id": "th_ea91c4"
       },
       {
-        "start": 110,
-        "end": 114,
-        "vocab_id": "th_1b85bc"
-      },
-      {
-        "start": 118,
-        "end": 124,
-        "vocab_id": "th_a3c09a"
-      },
-      {
         "start": 131,
         "end": 135,
         "vocab_id": "th_b97c11"
@@ -218,11 +178,6 @@
         "start": 173,
         "end": 176,
         "vocab_id": "th_45f424"
-      },
-      {
-        "start": 179,
-        "end": 182,
-        "vocab_id": "th_9cf8a2"
       }
     ],
     "is_highlight": true,
@@ -239,16 +194,6 @@
     "translation": "虽然很难，但我们不要向它投降。这是 Sa 每天对自己说的话：「如果容易，所有人都去做了。」然后告诉自己：「旧的钥匙，打不开新家的门。」",
     "vocab_ids": [],
     "annotations": [
-      {
-        "start": 3,
-        "end": 6,
-        "vocab_id": "th_9cf8a2"
-      },
-      {
-        "start": 19,
-        "end": 23,
-        "vocab_id": "th_9a4e15"
-      },
       {
         "start": 23,
         "end": 29,
@@ -338,16 +283,6 @@
         "start": 2,
         "end": 8,
         "vocab_id": "th_93e2ea"
-      },
-      {
-        "start": 24,
-        "end": 29,
-        "vocab_id": "th_422f43"
-      },
-      {
-        "start": 33,
-        "end": 36,
-        "vocab_id": "th_421c39"
       }
     ],
     "is_highlight": false,
@@ -393,16 +328,6 @@
         "start": 2,
         "end": 8,
         "vocab_id": "th_93e2ea"
-      },
-      {
-        "start": 24,
-        "end": 29,
-        "vocab_id": "th_422f43"
-      },
-      {
-        "start": 33,
-        "end": 36,
-        "vocab_id": "th_421c39"
       }
     ],
     "is_highlight": false,
@@ -428,11 +353,6 @@
         "start": 16,
         "end": 20,
         "vocab_id": "th_c4cd70"
-      },
-      {
-        "start": 35,
-        "end": 40,
-        "vocab_id": "th_a82c82"
       },
       {
         "start": 46,
@@ -478,16 +398,6 @@
         "start": 27,
         "end": 31,
         "vocab_id": "th_c4cd70"
-      },
-      {
-        "start": 42,
-        "end": 46,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
-        "start": 46,
-        "end": 51,
-        "vocab_id": "th_a82c82"
       },
       {
         "start": 57,
@@ -569,11 +479,6 @@
     "translation": "但 Ravipa 这个品牌处在价值链最高端的位置。",
     "vocab_ids": [],
     "annotations": [
-      {
-        "start": 3,
-        "end": 9,
-        "vocab_id": "th_f762e4"
-      },
       {
         "start": 17,
         "end": 22,
@@ -690,11 +595,6 @@
         "vocab_id": "th_2213fa"
       },
       {
-        "start": 15,
-        "end": 19,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
         "start": 23,
         "end": 29,
         "vocab_id": "th_4ee810"
@@ -730,19 +630,9 @@
         "vocab_id": "th_2213fa"
       },
       {
-        "start": 69,
-        "end": 73,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
         "start": 96,
         "end": 102,
         "vocab_id": "v_braen"
-      },
-      {
-        "start": 102,
-        "end": 106,
-        "vocab_id": "th_1b85bc"
       },
       {
         "start": 119,
@@ -753,11 +643,6 @@
         "start": 144,
         "end": 149,
         "vocab_id": "th_926bc2"
-      },
-      {
-        "start": 165,
-        "end": 168,
-        "vocab_id": "th_a3e77e"
       },
       {
         "start": 170,
@@ -820,19 +705,9 @@
         "vocab_id": "th_a150ac"
       },
       {
-        "start": 80,
-        "end": 85,
-        "vocab_id": "th_a82c82"
-      },
-      {
         "start": 91,
         "end": 94,
         "vocab_id": "th_a150ac"
-      },
-      {
-        "start": 97,
-        "end": 100,
-        "vocab_id": "th_a3e77e"
       },
       {
         "start": 102,
@@ -853,11 +728,6 @@
         "start": 133,
         "end": 139,
         "vocab_id": "v_braen"
-      },
-      {
-        "start": 139,
-        "end": 143,
-        "vocab_id": "th_9a4e15"
       },
       {
         "start": 145,
@@ -935,11 +805,6 @@
         "vocab_id": "v_botrian"
       },
       {
-        "start": 91,
-        "end": 94,
-        "vocab_id": "th_a3e77e"
-      },
-      {
         "start": 98,
         "end": 101,
         "vocab_id": "th_788aba"
@@ -988,16 +853,6 @@
         "start": 8,
         "end": 13,
         "vocab_id": "th_54b69b"
-      },
-      {
-        "start": 29,
-        "end": 33,
-        "vocab_id": "th_1b85bc"
-      },
-      {
-        "start": 42,
-        "end": 45,
-        "vocab_id": "th_9cf8a2"
       },
       {
         "start": 45,
@@ -1065,19 +920,9 @@
         "vocab_id": "th_0b3f42"
       },
       {
-        "start": 35,
-        "end": 38,
-        "vocab_id": "th_ef0610"
-      },
-      {
         "start": 48,
         "end": 51,
         "vocab_id": "th_7967cd"
-      },
-      {
-        "start": 61,
-        "end": 64,
-        "vocab_id": "th_fac3b6"
       },
       {
         "start": 70,
@@ -1093,11 +938,6 @@
         "start": 90,
         "end": 94,
         "vocab_id": "v_saakha"
-      },
-      {
-        "start": 103,
-        "end": 106,
-        "vocab_id": "th_b8df2f"
       },
       {
         "start": 121,
@@ -1210,11 +1050,6 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 7,
-        "end": 10,
-        "vocab_id": "th_b8df2f"
-      },
-      {
         "start": 63,
         "end": 70,
         "vocab_id": "th_989b38"
@@ -1265,19 +1100,9 @@
         "vocab_id": "th_04148b"
       },
       {
-        "start": 32,
-        "end": 36,
-        "vocab_id": "th_1b85bc"
-      },
-      {
         "start": 55,
         "end": 65,
         "vocab_id": "v_tangprathet"
-      },
-      {
-        "start": 65,
-        "end": 68,
-        "vocab_id": "th_421c39"
       },
       {
         "start": 69,
@@ -1288,21 +1113,6 @@
         "start": 87,
         "end": 95,
         "vocab_id": "v_khwaammaai"
-      },
-      {
-        "start": 98,
-        "end": 101,
-        "vocab_id": "th_a3e77e"
-      },
-      {
-        "start": 107,
-        "end": 110,
-        "vocab_id": "th_421c39"
-      },
-      {
-        "start": 121,
-        "end": 124,
-        "vocab_id": "th_c6e22a"
       },
       {
         "start": 124,
@@ -1353,11 +1163,6 @@
         "start": 46,
         "end": 52,
         "vocab_id": "th_0491ea"
-      },
-      {
-        "start": 56,
-        "end": 59,
-        "vocab_id": "th_9cf8a2"
       },
       {
         "start": 61,
@@ -1418,11 +1223,6 @@
         "start": 181,
         "end": 184,
         "vocab_id": "th_04148b"
-      },
-      {
-        "start": 191,
-        "end": 194,
-        "vocab_id": "th_421c39"
       }
     ],
     "is_highlight": true,
@@ -1474,11 +1274,6 @@
     "translation": "我跟姐姐是从设计珠宝起步的。我们是珠宝设计领域获奖很多的品牌——从一个小小的设计师（designer）品牌开始，赢了许多奖，把奖金不断延展投入业务。",
     "vocab_ids": [],
     "annotations": [
-      {
-        "start": 0,
-        "end": 3,
-        "vocab_id": "th_ef0610"
-      },
       {
         "start": 5,
         "end": 8,
@@ -1555,11 +1350,6 @@
         "vocab_id": "v_tɔɔyɔɔt"
       },
       {
-        "start": 170,
-        "end": 173,
-        "vocab_id": "th_fac3b6"
-      },
-      {
         "start": 196,
         "end": 200,
         "vocab_id": "th_c4cd70"
@@ -1579,21 +1369,6 @@
     "translation": "Ravipa 的珠宝必须是真能戴的、每天都能戴，并且要有意义。如果只是好看的珠宝实在太多了——我们必须做出能真正每天佩戴的珠宝，里面蕴含意义、积极、幸运的元素，让顾客觉得想买来送给自己。",
     "vocab_ids": [],
     "annotations": [
-      {
-        "start": 4,
-        "end": 7,
-        "vocab_id": "th_835a47"
-      },
-      {
-        "start": 10,
-        "end": 14,
-        "vocab_id": "th_1b85bc"
-      },
-      {
-        "start": 15,
-        "end": 18,
-        "vocab_id": "th_835a47"
-      },
       {
         "start": 21,
         "end": 27,
@@ -1630,11 +1405,6 @@
         "vocab_id": "th_477fcc"
       },
       {
-        "start": 111,
-        "end": 115,
-        "vocab_id": "th_1b85bc"
-      },
-      {
         "start": 117,
         "end": 123,
         "vocab_id": "th_b5769b"
@@ -1645,24 +1415,9 @@
         "vocab_id": "th_d8ba19"
       },
       {
-        "start": 151,
-        "end": 155,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
-        "start": 166,
-        "end": 169,
-        "vocab_id": "th_304e24"
-      },
-      {
         "start": 179,
         "end": 185,
         "vocab_id": "th_c9db6e"
-      },
-      {
-        "start": 192,
-        "end": 195,
-        "vocab_id": "th_9cf8a2"
       },
       {
         "start": 195,
@@ -1700,11 +1455,6 @@
         "vocab_id": "th_9ef815"
       },
       {
-        "start": 44,
-        "end": 48,
-        "vocab_id": "th_9a4e15"
-      },
-      {
         "start": 80,
         "end": 83,
         "vocab_id": "th_3d6967"
@@ -1713,16 +1463,6 @@
         "start": 87,
         "end": 94,
         "vocab_id": "th_a64277"
-      },
-      {
-        "start": 130,
-        "end": 135,
-        "vocab_id": "th_a82c82"
-      },
-      {
-        "start": 135,
-        "end": 139,
-        "vocab_id": "th_9a4e15"
       },
       {
         "start": 172,
@@ -1760,11 +1500,6 @@
         "vocab_id": "th_342b24"
       },
       {
-        "start": 41,
-        "end": 44,
-        "vocab_id": "th_511484"
-      },
-      {
         "start": 55,
         "end": 60,
         "vocab_id": "th_a298c5"
@@ -1793,16 +1528,6 @@
         "start": 91,
         "end": 94,
         "vocab_id": "th_2d6650"
-      },
-      {
-        "start": 94,
-        "end": 97,
-        "vocab_id": "th_719e92"
-      },
-      {
-        "start": 101,
-        "end": 104,
-        "vocab_id": "th_fac3b6"
       },
       {
         "start": 104,
@@ -1885,11 +1610,6 @@
         "vocab_id": "th_c9432b"
       },
       {
-        "start": 99,
-        "end": 102,
-        "vocab_id": "th_ef0610"
-      },
-      {
         "start": 109,
         "end": 113,
         "vocab_id": "th_f51410"
@@ -1920,11 +1640,6 @@
         "vocab_id": "th_951ddd"
       },
       {
-        "start": 165,
-        "end": 171,
-        "vocab_id": "th_f762e4"
-      },
-      {
         "start": 174,
         "end": 183,
         "vocab_id": "th_7c109c"
@@ -1948,11 +1663,6 @@
         "start": 214,
         "end": 219,
         "vocab_id": "th_a298c5"
-      },
-      {
-        "start": 220,
-        "end": 224,
-        "vocab_id": "th_c1bfc3"
       },
       {
         "start": 224,
@@ -2010,11 +1720,6 @@
         "vocab_id": "th_a68075"
       },
       {
-        "start": 42,
-        "end": 45,
-        "vocab_id": "th_719e92"
-      },
-      {
         "start": 49,
         "end": 52,
         "vocab_id": "th_1277eb"
@@ -2030,11 +1735,6 @@
         "vocab_id": "th_42bb6b"
       },
       {
-        "start": 94,
-        "end": 98,
-        "vocab_id": "th_1b85bc"
-      },
-      {
         "start": 107,
         "end": 111,
         "vocab_id": "th_04394a"
@@ -2045,11 +1745,6 @@
         "vocab_id": "th_c9b40e"
       },
       {
-        "start": 115,
-        "end": 121,
-        "vocab_id": "th_f762e4"
-      },
-      {
         "start": 130,
         "end": 134,
         "vocab_id": "th_04394a"
@@ -2058,11 +1753,6 @@
         "start": 134,
         "end": 137,
         "vocab_id": "th_c9b40e"
-      },
-      {
-        "start": 149,
-        "end": 155,
-        "vocab_id": "th_f762e4"
       },
       {
         "start": 163,
@@ -2085,11 +1775,6 @@
         "vocab_id": "th_951ddd"
       },
       {
-        "start": 198,
-        "end": 202,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
         "start": 209,
         "end": 215,
         "vocab_id": "th_0491ea"
@@ -2108,11 +1793,6 @@
         "start": 230,
         "end": 233,
         "vocab_id": "th_951ddd"
-      },
-      {
-        "start": 236,
-        "end": 240,
-        "vocab_id": "th_c1bfc3"
       },
       {
         "start": 257,
@@ -2155,24 +1835,9 @@
         "vocab_id": "th_ba84b9"
       },
       {
-        "start": 66,
-        "end": 69,
-        "vocab_id": "th_c6e22a"
-      },
-      {
-        "start": 80,
-        "end": 83,
-        "vocab_id": "th_9cf8a2"
-      },
-      {
         "start": 90,
         "end": 97,
         "vocab_id": "th_bc14de"
-      },
-      {
-        "start": 112,
-        "end": 115,
-        "vocab_id": "th_c6e22a"
       },
       {
         "start": 118,
@@ -2208,11 +1873,6 @@
         "start": 168,
         "end": 175,
         "vocab_id": "th_5e3de9"
-      },
-      {
-        "start": 176,
-        "end": 179,
-        "vocab_id": "th_c6e22a"
       }
     ],
     "is_highlight": false,
@@ -2233,11 +1893,6 @@
         "start": 0,
         "end": 4,
         "vocab_id": "th_68b9b1"
-      },
-      {
-        "start": 6,
-        "end": 9,
-        "vocab_id": "th_9cf8a2"
       },
       {
         "start": 11,
@@ -2280,19 +1935,9 @@
         "vocab_id": "v_khwaammaai"
       },
       {
-        "start": 138,
-        "end": 144,
-        "vocab_id": "th_f762e4"
-      },
-      {
         "start": 148,
         "end": 159,
         "vocab_id": "th_42bb6b"
-      },
-      {
-        "start": 163,
-        "end": 166,
-        "vocab_id": "th_c6e22a"
       },
       {
         "start": 166,
@@ -2374,11 +2019,6 @@
         "vocab_id": "th_c547d1"
       },
       {
-        "start": 50,
-        "end": 54,
-        "vocab_id": "th_1b85bc"
-      },
-      {
         "start": 57,
         "end": 62,
         "vocab_id": "th_6f8415"
@@ -2454,16 +2094,6 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 8,
-        "end": 11,
-        "vocab_id": "th_835a47"
-      },
-      {
-        "start": 14,
-        "end": 18,
-        "vocab_id": "th_1b85bc"
-      },
-      {
         "start": 18,
         "end": 26,
         "vocab_id": "th_19fe70"
@@ -2503,11 +2133,6 @@
         "vocab_id": "th_c2f5bd"
       },
       {
-        "start": 26,
-        "end": 29,
-        "vocab_id": "th_a3e77e"
-      },
-      {
         "start": 37,
         "end": 40,
         "vocab_id": "th_2564e9"
@@ -2536,21 +2161,6 @@
         "start": 118,
         "end": 121,
         "vocab_id": "th_477fcc"
-      },
-      {
-        "start": 122,
-        "end": 125,
-        "vocab_id": "th_9cf8a2"
-      },
-      {
-        "start": 141,
-        "end": 145,
-        "vocab_id": "th_1b85bc"
-      },
-      {
-        "start": 172,
-        "end": 178,
-        "vocab_id": "th_a3c09a"
       },
       {
         "start": 178,
@@ -2588,11 +2198,6 @@
         "vocab_id": "th_1f630b"
       },
       {
-        "start": 14,
-        "end": 17,
-        "vocab_id": "th_ef0610"
-      },
-      {
         "start": 17,
         "end": 23,
         "vocab_id": "th_b7494d"
@@ -2621,11 +2226,6 @@
         "start": 63,
         "end": 66,
         "vocab_id": "th_45f424"
-      },
-      {
-        "start": 69,
-        "end": 72,
-        "vocab_id": "th_a3e77e"
       },
       {
         "start": 72,
@@ -2693,19 +2293,9 @@
         "vocab_id": "th_6f1080"
       },
       {
-        "start": 115,
-        "end": 121,
-        "vocab_id": "th_a3c09a"
-      },
-      {
         "start": 121,
         "end": 124,
         "vocab_id": "th_26212c"
-      },
-      {
-        "start": 124,
-        "end": 128,
-        "vocab_id": "th_1b85bc"
       },
       {
         "start": 138,
@@ -2773,11 +2363,6 @@
         "vocab_id": "th_c9b40e"
       },
       {
-        "start": 69,
-        "end": 75,
-        "vocab_id": "th_a3c09a"
-      },
-      {
         "start": 75,
         "end": 79,
         "vocab_id": "th_eba5e8"
@@ -2796,11 +2381,6 @@
         "start": 88,
         "end": 92,
         "vocab_id": "th_c2f5bd"
-      },
-      {
-        "start": 97,
-        "end": 103,
-        "vocab_id": "th_a3c09a"
       },
       {
         "start": 106,
@@ -2883,11 +2463,6 @@
         "vocab_id": "th_a150ac"
       },
       {
-        "start": 53,
-        "end": 56,
-        "vocab_id": "th_511484"
-      },
-      {
         "start": 67,
         "end": 70,
         "vocab_id": "th_a150ac"
@@ -2953,11 +2528,6 @@
         "vocab_id": "v_jutpliian"
       },
       {
-        "start": 65,
-        "end": 68,
-        "vocab_id": "th_fac3b6"
-      },
-      {
         "start": 73,
         "end": 76,
         "vocab_id": "th_a150ac"
@@ -3003,34 +2573,14 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 0,
-        "end": 6,
-        "vocab_id": "th_f762e4"
-      },
-      {
         "start": 10,
         "end": 13,
         "vocab_id": "th_8b5ed2"
       },
       {
-        "start": 19,
-        "end": 25,
-        "vocab_id": "th_f762e4"
-      },
-      {
         "start": 25,
         "end": 33,
         "vocab_id": "th_60d300"
-      },
-      {
-        "start": 34,
-        "end": 40,
-        "vocab_id": "th_f762e4"
-      },
-      {
-        "start": 54,
-        "end": 60,
-        "vocab_id": "th_f762e4"
       },
       {
         "start": 72,
@@ -3041,11 +2591,6 @@
         "start": 77,
         "end": 80,
         "vocab_id": "th_ff4296"
-      },
-      {
-        "start": 86,
-        "end": 89,
-        "vocab_id": "th_13f14f"
       },
       {
         "start": 94,
@@ -3116,16 +2661,6 @@
         "start": 112,
         "end": 120,
         "vocab_id": "v_takeoff"
-      },
-      {
-        "start": 127,
-        "end": 131,
-        "vocab_id": "th_1b85bc"
-      },
-      {
-        "start": 143,
-        "end": 146,
-        "vocab_id": "th_511484"
       }
     ],
     "is_highlight": true,
@@ -3183,16 +2718,6 @@
         "vocab_id": "th_e50b55"
       },
       {
-        "start": 119,
-        "end": 122,
-        "vocab_id": "th_a1c0cc"
-      },
-      {
-        "start": 123,
-        "end": 126,
-        "vocab_id": "th_9cf8a2"
-      },
-      {
         "start": 126,
         "end": 129,
         "vocab_id": "th_f09b21"
@@ -3233,44 +2758,14 @@
         "vocab_id": "th_c7be15"
       },
       {
-        "start": 14,
-        "end": 18,
-        "vocab_id": "th_9a4e15"
-      },
-      {
         "start": 23,
         "end": 28,
         "vocab_id": "th_761546"
       },
       {
-        "start": 28,
-        "end": 31,
-        "vocab_id": "th_835a47"
-      },
-      {
-        "start": 39,
-        "end": 42,
-        "vocab_id": "th_835a47"
-      },
-      {
-        "start": 52,
-        "end": 55,
-        "vocab_id": "th_ef0610"
-      },
-      {
-        "start": 62,
-        "end": 65,
-        "vocab_id": "th_d6bbc5"
-      },
-      {
         "start": 71,
         "end": 75,
         "vocab_id": "th_8965d5"
-      },
-      {
-        "start": 77,
-        "end": 80,
-        "vocab_id": "th_835a47"
       },
       {
         "start": 112,
@@ -3281,11 +2776,6 @@
         "start": 122,
         "end": 126,
         "vocab_id": "th_63436e"
-      },
-      {
-        "start": 142,
-        "end": 146,
-        "vocab_id": "th_9a4e15"
       }
     ],
     "is_highlight": true,
@@ -3348,19 +2838,9 @@
         "vocab_id": "th_78eb6c"
       },
       {
-        "start": 87,
-        "end": 90,
-        "vocab_id": "th_fac3b6"
-      },
-      {
         "start": 98,
         "end": 101,
         "vocab_id": "th_acf13e"
-      },
-      {
-        "start": 112,
-        "end": 115,
-        "vocab_id": "th_aa8756"
       },
       {
         "start": 115,
@@ -3496,11 +2976,6 @@
         "start": 19,
         "end": 22,
         "vocab_id": "v_sme"
-      },
-      {
-        "start": 27,
-        "end": 30,
-        "vocab_id": "th_aa8756"
       }
     ],
     "is_highlight": false,
@@ -3517,16 +2992,6 @@
     "translation": "比如做食品的，有机会打进 7-Eleven，但产能跟不上——因为产能不够，没法抓住机会，质量反而下滑——最后反噬回来。",
     "vocab_ids": [],
     "annotations": [
-      {
-        "start": 23,
-        "end": 26,
-        "vocab_id": "th_13f14f"
-      },
-      {
-        "start": 31,
-        "end": 35,
-        "vocab_id": "th_46dd5b"
-      },
       {
         "start": 42,
         "end": 47,
@@ -3591,11 +3056,6 @@
         "start": 130,
         "end": 136,
         "vocab_id": "th_a927d2"
-      },
-      {
-        "start": 139,
-        "end": 143,
-        "vocab_id": "th_1b85bc"
       }
     ],
     "is_highlight": true,
@@ -3768,11 +3228,6 @@
         "vocab_id": "th_4f30f6"
       },
       {
-        "start": 60,
-        "end": 63,
-        "vocab_id": "th_719e92"
-      },
-      {
         "start": 65,
         "end": 68,
         "vocab_id": "th_0c5a48"
@@ -3786,11 +3241,6 @@
         "start": 92,
         "end": 96,
         "vocab_id": "th_8da13b"
-      },
-      {
-        "start": 106,
-        "end": 109,
-        "vocab_id": "th_aa8756"
       },
       {
         "start": 109,
@@ -3928,11 +3378,6 @@
         "vocab_id": "th_280f37"
       },
       {
-        "start": 118,
-        "end": 121,
-        "vocab_id": "th_511484"
-      },
-      {
         "start": 125,
         "end": 132,
         "vocab_id": "th_08c1d6"
@@ -3941,11 +3386,6 @@
         "start": 132,
         "end": 136,
         "vocab_id": "th_4446ab"
-      },
-      {
-        "start": 136,
-        "end": 139,
-        "vocab_id": "th_a3e77e"
       },
       {
         "start": 144,
@@ -3961,11 +3401,6 @@
         "start": 154,
         "end": 158,
         "vocab_id": "th_a87df7"
-      },
-      {
-        "start": 164,
-        "end": 167,
-        "vocab_id": "th_9cf8a2"
       },
       {
         "start": 172,
@@ -3991,11 +3426,6 @@
         "start": 185,
         "end": 188,
         "vocab_id": "th_be9821"
-      },
-      {
-        "start": 188,
-        "end": 193,
-        "vocab_id": "th_a82c82"
       }
     ],
     "is_highlight": true,
@@ -4016,11 +3446,6 @@
         "start": 3,
         "end": 7,
         "vocab_id": "th_b1b916"
-      },
-      {
-        "start": 11,
-        "end": 14,
-        "vocab_id": "th_a3e77e"
       },
       {
         "start": 14,
@@ -4073,11 +3498,6 @@
         "vocab_id": "th_f0caa1"
       },
       {
-        "start": 168,
-        "end": 171,
-        "vocab_id": "th_9cf8a2"
-      },
-      {
         "start": 173,
         "end": 177,
         "vocab_id": "th_f613b7"
@@ -4106,11 +3526,6 @@
         "start": 7,
         "end": 13,
         "vocab_id": "th_c9db6e"
-      },
-      {
-        "start": 24,
-        "end": 27,
-        "vocab_id": "th_9cf8a2"
       },
       {
         "start": 30,
@@ -4228,16 +3643,6 @@
         "vocab_id": "th_8c8f2b"
       },
       {
-        "start": 30,
-        "end": 33,
-        "vocab_id": "th_c6e22a"
-      },
-      {
-        "start": 40,
-        "end": 43,
-        "vocab_id": "th_9cf8a2"
-      },
-      {
         "start": 48,
         "end": 54,
         "vocab_id": "v_luukkhaa"
@@ -4303,11 +3708,6 @@
         "vocab_id": "th_280f37"
       },
       {
-        "start": 115,
-        "end": 118,
-        "vocab_id": "th_511484"
-      },
-      {
         "start": 126,
         "end": 130,
         "vocab_id": "th_c2f5bd"
@@ -4316,11 +3716,6 @@
         "start": 133,
         "end": 138,
         "vocab_id": "th_9045e4"
-      },
-      {
-        "start": 138,
-        "end": 141,
-        "vocab_id": "th_b8df2f"
       },
       {
         "start": 162,
@@ -4388,11 +3783,6 @@
         "vocab_id": "v_braen"
       },
       {
-        "start": 44,
-        "end": 47,
-        "vocab_id": "th_a3e77e"
-      },
-      {
         "start": 47,
         "end": 51,
         "vocab_id": "th_f613b7"
@@ -4403,19 +3793,9 @@
         "vocab_id": "th_552778"
       },
       {
-        "start": 66,
-        "end": 69,
-        "vocab_id": "th_a3e77e"
-      },
-      {
         "start": 69,
         "end": 72,
         "vocab_id": "th_0ecc57"
-      },
-      {
-        "start": 81,
-        "end": 84,
-        "vocab_id": "th_a3e77e"
       },
       {
         "start": 84,
@@ -4428,44 +3808,14 @@
         "vocab_id": "th_9045e4"
       },
       {
-        "start": 98,
-        "end": 101,
-        "vocab_id": "th_b8df2f"
-      },
-      {
-        "start": 101,
-        "end": 106,
-        "vocab_id": "th_a82c82"
-      },
-      {
         "start": 107,
         "end": 114,
         "vocab_id": "th_552778"
       },
       {
-        "start": 121,
-        "end": 124,
-        "vocab_id": "th_a3e77e"
-      },
-      {
         "start": 124,
         "end": 127,
         "vocab_id": "th_0ecc57"
-      },
-      {
-        "start": 136,
-        "end": 139,
-        "vocab_id": "th_a3e77e"
-      },
-      {
-        "start": 148,
-        "end": 151,
-        "vocab_id": "th_b8df2f"
-      },
-      {
-        "start": 151,
-        "end": 156,
-        "vocab_id": "th_a82c82"
       },
       {
         "start": 160,
@@ -4506,11 +3856,6 @@
         "start": 6,
         "end": 11,
         "vocab_id": "th_9045e4"
-      },
-      {
-        "start": 11,
-        "end": 14,
-        "vocab_id": "th_b8df2f"
       }
     ],
     "is_highlight": true,
@@ -4533,11 +3878,6 @@
         "vocab_id": "th_280f37"
       },
       {
-        "start": 5,
-        "end": 8,
-        "vocab_id": "th_511484"
-      },
-      {
         "start": 24,
         "end": 28,
         "vocab_id": "th_322ef8"
@@ -4546,11 +3886,6 @@
         "start": 38,
         "end": 43,
         "vocab_id": "th_9045e4"
-      },
-      {
-        "start": 43,
-        "end": 46,
-        "vocab_id": "th_b8df2f"
       },
       {
         "start": 56,
@@ -4576,11 +3911,6 @@
         "start": 133,
         "end": 138,
         "vocab_id": "th_926bc2"
-      },
-      {
-        "start": 144,
-        "end": 147,
-        "vocab_id": "th_fac3b6"
       },
       {
         "start": 154,
@@ -4718,11 +4048,6 @@
         "vocab_id": "th_ad6aa5"
       },
       {
-        "start": 31,
-        "end": 34,
-        "vocab_id": "th_56a178"
-      },
-      {
         "start": 34,
         "end": 37,
         "vocab_id": "th_26212c"
@@ -4733,24 +4058,9 @@
         "vocab_id": "th_6f8415"
       },
       {
-        "start": 48,
-        "end": 52,
-        "vocab_id": "th_313977"
-      },
-      {
         "start": 56,
         "end": 62,
         "vocab_id": "v_luukkhaa"
-      },
-      {
-        "start": 75,
-        "end": 78,
-        "vocab_id": "th_835a47"
-      },
-      {
-        "start": 82,
-        "end": 85,
-        "vocab_id": "th_13f14f"
       }
     ],
     "is_highlight": true,
@@ -4778,11 +4088,6 @@
         "vocab_id": "th_a150ac"
       },
       {
-        "start": 16,
-        "end": 20,
-        "vocab_id": "th_46dd5b"
-      },
-      {
         "start": 28,
         "end": 35,
         "vocab_id": "th_853a6d"
@@ -4796,11 +4101,6 @@
         "start": 60,
         "end": 70,
         "vocab_id": "v_tangprathet"
-      },
-      {
-        "start": 75,
-        "end": 78,
-        "vocab_id": "th_421c39"
       },
       {
         "start": 78,
@@ -4827,11 +4127,6 @@
     "translation": "回忆一下——当时那个机会是怎么来的？",
     "vocab_ids": [],
     "annotations": [
-      {
-        "start": 2,
-        "end": 5,
-        "vocab_id": "th_f7acd4"
-      },
       {
         "start": 5,
         "end": 13,
@@ -4893,11 +4188,6 @@
         "vocab_id": "th_b38db1"
       },
       {
-        "start": 66,
-        "end": 69,
-        "vocab_id": "th_9cf8a2"
-      },
-      {
         "start": 76,
         "end": 83,
         "vocab_id": "th_bc14de"
@@ -4953,11 +4243,6 @@
         "vocab_id": "th_ba84b9"
       },
       {
-        "start": 11,
-        "end": 14,
-        "vocab_id": "th_ef0610"
-      },
-      {
         "start": 24,
         "end": 27,
         "vocab_id": "th_369c8b"
@@ -4981,16 +4266,6 @@
         "start": 76,
         "end": 81,
         "vocab_id": "th_926bc2"
-      },
-      {
-        "start": 119,
-        "end": 122,
-        "vocab_id": "th_56a178"
-      },
-      {
-        "start": 122,
-        "end": 125,
-        "vocab_id": "th_fac3b6"
       },
       {
         "start": 150,
@@ -5028,19 +4303,9 @@
         "vocab_id": "th_1bb5c0"
       },
       {
-        "start": 19,
-        "end": 22,
-        "vocab_id": "th_13f14f"
-      },
-      {
         "start": 26,
         "end": 32,
         "vocab_id": "th_52905a"
-      },
-      {
-        "start": 45,
-        "end": 48,
-        "vocab_id": "th_aa8756"
       },
       {
         "start": 50,
@@ -5063,24 +4328,9 @@
         "vocab_id": "v_disney"
       },
       {
-        "start": 108,
-        "end": 111,
-        "vocab_id": "th_c6e22a"
-      },
-      {
         "start": 114,
         "end": 117,
         "vocab_id": "th_45f424"
-      },
-      {
-        "start": 117,
-        "end": 122,
-        "vocab_id": "th_a82c82"
-      },
-      {
-        "start": 125,
-        "end": 128,
-        "vocab_id": "th_9cf8a2"
       },
       {
         "start": 149,
@@ -5108,11 +4358,6 @@
         "vocab_id": "th_8965d5"
       },
       {
-        "start": 16,
-        "end": 19,
-        "vocab_id": "th_aa8756"
-      },
-      {
         "start": 19,
         "end": 23,
         "vocab_id": "th_11ecc3"
@@ -5138,19 +4383,9 @@
         "vocab_id": "th_32e8be"
       },
       {
-        "start": 73,
-        "end": 77,
-        "vocab_id": "th_313977"
-      },
-      {
         "start": 101,
         "end": 104,
         "vocab_id": "th_cf6f85"
-      },
-      {
-        "start": 104,
-        "end": 107,
-        "vocab_id": "th_421c39"
       },
       {
         "start": 108,
@@ -5158,19 +4393,9 @@
         "vocab_id": "th_f602ee"
       },
       {
-        "start": 115,
-        "end": 118,
-        "vocab_id": "th_9cf8a2"
-      },
-      {
         "start": 118,
         "end": 124,
         "vocab_id": "th_098ff2"
-      },
-      {
-        "start": 137,
-        "end": 140,
-        "vocab_id": "th_9cf8a2"
       },
       {
         "start": 140,
@@ -5191,11 +4416,6 @@
         "start": 158,
         "end": 161,
         "vocab_id": "th_cf6f85"
-      },
-      {
-        "start": 161,
-        "end": 164,
-        "vocab_id": "th_421c39"
       }
     ],
     "is_highlight": true,
@@ -5223,11 +4443,6 @@
         "vocab_id": "th_8c8f2b"
       },
       {
-        "start": 68,
-        "end": 72,
-        "vocab_id": "th_1b85bc"
-      },
-      {
         "start": 79,
         "end": 90,
         "vocab_id": "v_styleguide"
@@ -5248,11 +4463,6 @@
         "vocab_id": "th_6f8415"
       },
       {
-        "start": 125,
-        "end": 131,
-        "vocab_id": "th_a3c09a"
-      },
-      {
         "start": 142,
         "end": 151,
         "vocab_id": "th_361ae6"
@@ -5266,11 +4476,6 @@
         "start": 185,
         "end": 188,
         "vocab_id": "th_8b5ed2"
-      },
-      {
-        "start": 188,
-        "end": 192,
-        "vocab_id": "th_313977"
       }
     ],
     "is_highlight": true,
@@ -5291,11 +4496,6 @@
         "start": 2,
         "end": 9,
         "vocab_id": "th_f602ee"
-      },
-      {
-        "start": 19,
-        "end": 22,
-        "vocab_id": "th_9cf8a2"
       },
       {
         "start": 22,
@@ -5333,11 +4533,6 @@
         "vocab_id": "th_b4a459"
       },
       {
-        "start": 36,
-        "end": 42,
-        "vocab_id": "th_a3c09a"
-      },
-      {
         "start": 61,
         "end": 65,
         "vocab_id": "th_78eb6c"
@@ -5371,16 +4566,6 @@
         "start": 176,
         "end": 182,
         "vocab_id": "v_braen"
-      },
-      {
-        "start": 185,
-        "end": 188,
-        "vocab_id": "th_a3e77e"
-      },
-      {
-        "start": 193,
-        "end": 196,
-        "vocab_id": "th_511484"
       }
     ],
     "is_highlight": true,
@@ -5433,11 +4618,6 @@
         "vocab_id": "th_6817e0"
       },
       {
-        "start": 107,
-        "end": 110,
-        "vocab_id": "th_fac3b6"
-      },
-      {
         "start": 118,
         "end": 122,
         "vocab_id": "th_4446ab"
@@ -5446,11 +4626,6 @@
         "start": 124,
         "end": 128,
         "vocab_id": "th_c4cd70"
-      },
-      {
-        "start": 135,
-        "end": 140,
-        "vocab_id": "th_a82c82"
       },
       {
         "start": 150,
@@ -5516,16 +4691,6 @@
         "start": 109,
         "end": 113,
         "vocab_id": "th_78eb6c"
-      },
-      {
-        "start": 124,
-        "end": 128,
-        "vocab_id": "th_313977"
-      },
-      {
-        "start": 128,
-        "end": 132,
-        "vocab_id": "th_1b85bc"
       }
     ],
     "is_highlight": true,
@@ -5563,19 +4728,9 @@
         "vocab_id": "th_ffa43f"
       },
       {
-        "start": 37,
-        "end": 41,
-        "vocab_id": "th_9a4e15"
-      },
-      {
         "start": 48,
         "end": 51,
         "vocab_id": "th_627024"
-      },
-      {
-        "start": 51,
-        "end": 54,
-        "vocab_id": "th_fac3b6"
       },
       {
         "start": 55,
@@ -5586,11 +4741,6 @@
         "start": 76,
         "end": 84,
         "vocab_id": "th_342b24"
-      },
-      {
-        "start": 87,
-        "end": 90,
-        "vocab_id": "th_511484"
       },
       {
         "start": 94,
@@ -5606,11 +4756,6 @@
         "start": 124,
         "end": 130,
         "vocab_id": "v_disney"
-      },
-      {
-        "start": 131,
-        "end": 134,
-        "vocab_id": "th_421c39"
       },
       {
         "start": 135,
@@ -5658,11 +4803,6 @@
         "vocab_id": "th_0fa373"
       },
       {
-        "start": 23,
-        "end": 26,
-        "vocab_id": "th_ef0610"
-      },
-      {
         "start": 32,
         "end": 39,
         "vocab_id": "th_bd7ae9"
@@ -5673,39 +4813,14 @@
         "vocab_id": "th_c9b40e"
       },
       {
-        "start": 72,
-        "end": 76,
-        "vocab_id": "th_1b85bc"
-      },
-      {
-        "start": 79,
-        "end": 83,
-        "vocab_id": "th_9a4e15"
-      },
-      {
         "start": 99,
         "end": 105,
         "vocab_id": "v_disney"
       },
       {
-        "start": 113,
-        "end": 116,
-        "vocab_id": "th_ef0610"
-      },
-      {
-        "start": 122,
-        "end": 128,
-        "vocab_id": "th_a3c09a"
-      },
-      {
         "start": 133,
         "end": 138,
         "vocab_id": "th_745e59"
-      },
-      {
-        "start": 158,
-        "end": 161,
-        "vocab_id": "th_c6e22a"
       },
       {
         "start": 172,
@@ -5716,16 +4831,6 @@
         "start": 178,
         "end": 186,
         "vocab_id": "th_19fe70"
-      },
-      {
-        "start": 187,
-        "end": 190,
-        "vocab_id": "th_a1c0cc"
-      },
-      {
-        "start": 191,
-        "end": 194,
-        "vocab_id": "th_9cf8a2"
       },
       {
         "start": 194,
@@ -5828,16 +4933,6 @@
         "vocab_id": "th_b38db1"
       },
       {
-        "start": 118,
-        "end": 124,
-        "vocab_id": "th_f762e4"
-      },
-      {
-        "start": 131,
-        "end": 134,
-        "vocab_id": "th_ef0610"
-      },
-      {
         "start": 137,
         "end": 140,
         "vocab_id": "th_73edaa"
@@ -5861,16 +4956,6 @@
         "start": 182,
         "end": 188,
         "vocab_id": "v_braen"
-      },
-      {
-        "start": 188,
-        "end": 192,
-        "vocab_id": "th_46dd5b"
-      },
-      {
-        "start": 196,
-        "end": 199,
-        "vocab_id": "th_fac3b6"
       },
       {
         "start": 201,
@@ -5948,19 +5033,9 @@
         "vocab_id": "th_cf6f85"
       },
       {
-        "start": 106,
-        "end": 109,
-        "vocab_id": "th_421c39"
-      },
-      {
         "start": 117,
         "end": 120,
         "vocab_id": "th_bdeb06"
-      },
-      {
-        "start": 144,
-        "end": 150,
-        "vocab_id": "th_a3c09a"
       },
       {
         "start": 153,
@@ -5971,11 +5046,6 @@
         "start": 165,
         "end": 168,
         "vocab_id": "th_9ef815"
-      },
-      {
-        "start": 168,
-        "end": 172,
-        "vocab_id": "th_9a4e15"
       },
       {
         "start": 188,
@@ -5991,11 +5061,6 @@
         "start": 216,
         "end": 221,
         "vocab_id": "th_9ddb38"
-      },
-      {
-        "start": 221,
-        "end": 225,
-        "vocab_id": "th_c1bfc3"
       },
       {
         "start": 225,
@@ -6028,11 +5093,6 @@
         "vocab_id": "th_9ddb38"
       },
       {
-        "start": 10,
-        "end": 14,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
         "start": 33,
         "end": 44,
         "vocab_id": "v_positioning"
@@ -6063,24 +5123,9 @@
         "vocab_id": "th_374603"
       },
       {
-        "start": 123,
-        "end": 126,
-        "vocab_id": "th_ef0610"
-      },
-      {
-        "start": 133,
-        "end": 137,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
         "start": 152,
         "end": 161,
         "vocab_id": "th_361ae6"
-      },
-      {
-        "start": 162,
-        "end": 166,
-        "vocab_id": "th_1b85bc"
       },
       {
         "start": 172,
@@ -6101,11 +5146,6 @@
         "start": 202,
         "end": 206,
         "vocab_id": "th_06314a"
-      },
-      {
-        "start": 206,
-        "end": 209,
-        "vocab_id": "th_ef0610"
       },
       {
         "start": 212,
@@ -6153,11 +5193,6 @@
         "vocab_id": "th_92a5d3"
       },
       {
-        "start": 112,
-        "end": 115,
-        "vocab_id": "th_fac3b6"
-      },
-      {
         "start": 115,
         "end": 124,
         "vocab_id": "th_361ae6"
@@ -6187,21 +5222,6 @@
     "translation": "这一步的差异是什么？难在哪里？跟我们（泰国）和其他国家——包括香港、日本——不一样。工作方式、很多东西都不一样。",
     "vocab_ids": [],
     "annotations": [
-      {
-        "start": 0,
-        "end": 4,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
-        "start": 4,
-        "end": 8,
-        "vocab_id": "th_313977"
-      },
-      {
-        "start": 26,
-        "end": 29,
-        "vocab_id": "th_9cf8a2"
-      },
       {
         "start": 33,
         "end": 38,
@@ -6238,29 +5258,9 @@
         "vocab_id": "th_d035aa"
       },
       {
-        "start": 105,
-        "end": 109,
-        "vocab_id": "th_313977"
-      },
-      {
-        "start": 114,
-        "end": 117,
-        "vocab_id": "th_aa8756"
-      },
-      {
-        "start": 117,
-        "end": 121,
-        "vocab_id": "th_9a4e15"
-      },
-      {
         "start": 124,
         "end": 132,
         "vocab_id": "th_d035aa"
-      },
-      {
-        "start": 134,
-        "end": 138,
-        "vocab_id": "th_313977"
       }
     ],
     "is_highlight": true,
@@ -6277,11 +5277,6 @@
     "translation": "对。比如日本人特别喜欢面对面（face to face），非常重视见面——不接受 online meeting，一定要见面。工作时他们态度非常严谨，standard（标准）很高。",
     "vocab_ids": [],
     "annotations": [
-      {
-        "start": 18,
-        "end": 22,
-        "vocab_id": "th_9a4e15"
-      },
       {
         "start": 23,
         "end": 30,
@@ -6303,11 +5298,6 @@
         "vocab_id": "th_23f72b"
       },
       {
-        "start": 68,
-        "end": 71,
-        "vocab_id": "th_fac3b6"
-      },
-      {
         "start": 80,
         "end": 83,
         "vocab_id": "th_951ddd"
@@ -6316,11 +5306,6 @@
         "start": 104,
         "end": 107,
         "vocab_id": "th_23f72b"
-      },
-      {
-        "start": 107,
-        "end": 110,
-        "vocab_id": "th_fac3b6"
       },
       {
         "start": 123,
@@ -6358,11 +5343,6 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 3,
-        "end": 6,
-        "vocab_id": "th_c6e22a"
-      },
-      {
         "start": 12,
         "end": 17,
         "vocab_id": "th_7ab4b9"
@@ -6391,11 +5371,6 @@
         "start": 112,
         "end": 120,
         "vocab_id": "th_6b4a2b"
-      },
-      {
-        "start": 127,
-        "end": 130,
-        "vocab_id": "th_ef0610"
       },
       {
         "start": 150,
@@ -6428,16 +5403,6 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 4,
-        "end": 7,
-        "vocab_id": "th_c6e22a"
-      },
-      {
-        "start": 14,
-        "end": 19,
-        "vocab_id": "th_a82c82"
-      },
-      {
         "start": 23,
         "end": 32,
         "vocab_id": "v_challenge"
@@ -6446,11 +5411,6 @@
         "start": 42,
         "end": 48,
         "vocab_id": "th_8ea1c5"
-      },
-      {
-        "start": 67,
-        "end": 70,
-        "vocab_id": "th_ef0610"
       },
       {
         "start": 126,
@@ -6471,11 +5431,6 @@
         "start": 154,
         "end": 160,
         "vocab_id": "th_8ea1c5"
-      },
-      {
-        "start": 180,
-        "end": 183,
-        "vocab_id": "th_719e92"
       }
     ],
     "is_highlight": true,
@@ -6503,16 +5458,6 @@
         "vocab_id": "th_a64277"
       },
       {
-        "start": 11,
-        "end": 14,
-        "vocab_id": "th_9cf8a2"
-      },
-      {
-        "start": 21,
-        "end": 27,
-        "vocab_id": "th_a3c09a"
-      },
-      {
         "start": 30,
         "end": 33,
         "vocab_id": "th_c9b40e"
@@ -6523,24 +5468,9 @@
         "vocab_id": "th_638fe8"
       },
       {
-        "start": 61,
-        "end": 65,
-        "vocab_id": "th_9a4e15"
-      },
-      {
         "start": 72,
         "end": 79,
         "vocab_id": "th_552778"
-      },
-      {
-        "start": 96,
-        "end": 100,
-        "vocab_id": "th_9a4e15"
-      },
-      {
-        "start": 117,
-        "end": 121,
-        "vocab_id": "th_9a4e15"
       },
       {
         "start": 148,
@@ -6613,19 +5543,9 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 22,
-        "end": 25,
-        "vocab_id": "th_304e24"
-      },
-      {
         "start": 28,
         "end": 35,
         "vocab_id": "th_b4a459"
-      },
-      {
-        "start": 39,
-        "end": 42,
-        "vocab_id": "th_c6e22a"
       },
       {
         "start": 54,
@@ -6653,34 +5573,9 @@
         "vocab_id": "v_tangprathet"
       },
       {
-        "start": 109,
-        "end": 115,
-        "vocab_id": "th_f762e4"
-      },
-      {
-        "start": 115,
-        "end": 119,
-        "vocab_id": "th_313977"
-      },
-      {
-        "start": 119,
-        "end": 122,
-        "vocab_id": "th_13f14f"
-      },
-      {
         "start": 130,
         "end": 133,
         "vocab_id": "th_627024"
-      },
-      {
-        "start": 133,
-        "end": 136,
-        "vocab_id": "th_fac3b6"
-      },
-      {
-        "start": 136,
-        "end": 140,
-        "vocab_id": "th_313977"
       },
       {
         "start": 158,
@@ -6743,11 +5638,6 @@
         "vocab_id": "th_68b9b1"
       },
       {
-        "start": 54,
-        "end": 60,
-        "vocab_id": "th_a3c09a"
-      },
-      {
         "start": 70,
         "end": 80,
         "vocab_id": "th_cbd369"
@@ -6788,16 +5678,6 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 2,
-        "end": 5,
-        "vocab_id": "th_c6e22a"
-      },
-      {
-        "start": 8,
-        "end": 14,
-        "vocab_id": "th_f762e4"
-      },
-      {
         "start": 44,
         "end": 50,
         "vocab_id": "th_ddd804"
@@ -6806,11 +5686,6 @@
         "start": 60,
         "end": 67,
         "vocab_id": "th_b4a459"
-      },
-      {
-        "start": 79,
-        "end": 85,
-        "vocab_id": "th_a3c09a"
       },
       {
         "start": 88,
@@ -6838,11 +5713,6 @@
         "vocab_id": "th_ac5d5b"
       },
       {
-        "start": 148,
-        "end": 151,
-        "vocab_id": "th_c6e22a"
-      },
-      {
         "start": 151,
         "end": 157,
         "vocab_id": "th_fc2487"
@@ -6853,19 +5723,9 @@
         "vocab_id": "th_cdd890"
       },
       {
-        "start": 178,
-        "end": 181,
-        "vocab_id": "th_d6bbc5"
-      },
-      {
         "start": 181,
         "end": 187,
         "vocab_id": "th_a927d2"
-      },
-      {
-        "start": 194,
-        "end": 199,
-        "vocab_id": "th_a82c82"
       },
       {
         "start": 208,
@@ -6933,19 +5793,9 @@
         "vocab_id": "th_35ae04"
       },
       {
-        "start": 137,
-        "end": 143,
-        "vocab_id": "th_a3c09a"
-      },
-      {
         "start": 150,
         "end": 156,
         "vocab_id": "th_08b557"
-      },
-      {
-        "start": 157,
-        "end": 163,
-        "vocab_id": "th_a3c09a"
       },
       {
         "start": 167,
@@ -6956,11 +5806,6 @@
         "start": 176,
         "end": 182,
         "vocab_id": "th_08b557"
-      },
-      {
-        "start": 183,
-        "end": 189,
-        "vocab_id": "th_a3c09a"
       },
       {
         "start": 192,
@@ -7018,11 +5863,6 @@
         "vocab_id": "th_06314a"
       },
       {
-        "start": 52,
-        "end": 56,
-        "vocab_id": "th_313977"
-      },
-      {
         "start": 79,
         "end": 84,
         "vocab_id": "th_dc1d87"
@@ -7048,11 +5888,6 @@
         "vocab_id": "th_f071d3"
       },
       {
-        "start": 143,
-        "end": 147,
-        "vocab_id": "th_1b85bc"
-      },
-      {
         "start": 159,
         "end": 166,
         "vocab_id": "th_f602ee"
@@ -7061,11 +5896,6 @@
         "start": 166,
         "end": 172,
         "vocab_id": "th_1f630b"
-      },
-      {
-        "start": 175,
-        "end": 181,
-        "vocab_id": "th_a3c09a"
       }
     ],
     "is_highlight": false,
@@ -7086,11 +5916,6 @@
         "start": 25,
         "end": 28,
         "vocab_id": "th_37eb77"
-      },
-      {
-        "start": 35,
-        "end": 39,
-        "vocab_id": "th_9a4e15"
       },
       {
         "start": 52,
@@ -7183,11 +6008,6 @@
         "vocab_id": "th_bc14de"
       },
       {
-        "start": 93,
-        "end": 99,
-        "vocab_id": "th_f762e4"
-      },
-      {
         "start": 102,
         "end": 106,
         "vocab_id": "th_a1c071"
@@ -7253,19 +6073,9 @@
         "vocab_id": "v_braen"
       },
       {
-        "start": 86,
-        "end": 89,
-        "vocab_id": "th_aa8756"
-      },
-      {
         "start": 92,
         "end": 98,
         "vocab_id": "v_braen"
-      },
-      {
-        "start": 99,
-        "end": 102,
-        "vocab_id": "th_421c39"
       }
     ],
     "is_highlight": true,
@@ -7358,11 +6168,6 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 9,
-        "end": 12,
-        "vocab_id": "th_a1c0cc"
-      },
-      {
         "start": 14,
         "end": 17,
         "vocab_id": "th_0c5a48"
@@ -7371,11 +6176,6 @@
         "start": 17,
         "end": 21,
         "vocab_id": "th_880656"
-      },
-      {
-        "start": 28,
-        "end": 31,
-        "vocab_id": "th_a1c0cc"
       }
     ],
     "is_highlight": false,
@@ -7448,19 +6248,9 @@
         "vocab_id": "th_864157"
       },
       {
-        "start": 124,
-        "end": 128,
-        "vocab_id": "th_1b85bc"
-      },
-      {
         "start": 149,
         "end": 155,
         "vocab_id": "th_864157"
-      },
-      {
-        "start": 155,
-        "end": 159,
-        "vocab_id": "th_1b85bc"
       },
       {
         "start": 160,
@@ -7521,11 +6311,6 @@
         "start": 48,
         "end": 51,
         "vocab_id": "th_3dd326"
-      },
-      {
-        "start": 62,
-        "end": 65,
-        "vocab_id": "th_9cf8a2"
       },
       {
         "start": 68,
@@ -7673,11 +6458,6 @@
         "vocab_id": "th_7ab4b9"
       },
       {
-        "start": 97,
-        "end": 100,
-        "vocab_id": "th_9cf8a2"
-      },
-      {
         "start": 104,
         "end": 110,
         "vocab_id": "v_braen"
@@ -7706,11 +6486,6 @@
         "start": 156,
         "end": 160,
         "vocab_id": "th_ee0793"
-      },
-      {
-        "start": 164,
-        "end": 167,
-        "vocab_id": "th_13f14f"
       },
       {
         "start": 170,
@@ -7778,11 +6553,6 @@
         "vocab_id": "v_braen"
       },
       {
-        "start": 21,
-        "end": 24,
-        "vocab_id": "th_9cf8a2"
-      },
-      {
         "start": 32,
         "end": 39,
         "vocab_id": "th_c1d9ba"
@@ -7791,16 +6561,6 @@
         "start": 65,
         "end": 71,
         "vocab_id": "v_luukkhaa"
-      },
-      {
-        "start": 76,
-        "end": 81,
-        "vocab_id": "th_a82c82"
-      },
-      {
-        "start": 85,
-        "end": 88,
-        "vocab_id": "th_835a47"
       },
       {
         "start": 114,
@@ -7831,11 +6591,6 @@
         "start": 29,
         "end": 32,
         "vocab_id": "th_6018a4"
-      },
-      {
-        "start": 32,
-        "end": 35,
-        "vocab_id": "th_304e24"
       },
       {
         "start": 41,
@@ -7882,11 +6637,6 @@
     "translation": "——对，不算 Ultra Luxury 顶级奢华，但是 Affordable Luxury（轻奢）。",
     "vocab_ids": [],
     "annotations": [
-      {
-        "start": 34,
-        "end": 37,
-        "vocab_id": "th_d6bbc5"
-      },
       {
         "start": 47,
         "end": 50,
@@ -7963,16 +6713,6 @@
         "vocab_id": "v_braen"
       },
       {
-        "start": 111,
-        "end": 115,
-        "vocab_id": "th_313977"
-      },
-      {
-        "start": 115,
-        "end": 119,
-        "vocab_id": "th_1b85bc"
-      },
-      {
         "start": 126,
         "end": 129,
         "vocab_id": "th_f1f91b"
@@ -7983,24 +6723,9 @@
         "vocab_id": "th_b4a459"
       },
       {
-        "start": 174,
-        "end": 177,
-        "vocab_id": "th_511484"
-      },
-      {
-        "start": 178,
-        "end": 181,
-        "vocab_id": "th_719e92"
-      },
-      {
         "start": 183,
         "end": 186,
         "vocab_id": "th_477fcc"
-      },
-      {
-        "start": 193,
-        "end": 199,
-        "vocab_id": "th_a3c09a"
       },
       {
         "start": 199,
@@ -8041,11 +6766,6 @@
         "start": 28,
         "end": 33,
         "vocab_id": "th_bd2531"
-      },
-      {
-        "start": 59,
-        "end": 62,
-        "vocab_id": "th_c6e22a"
       },
       {
         "start": 68,
@@ -8148,11 +6868,6 @@
         "vocab_id": "th_ee09d3"
       },
       {
-        "start": 172,
-        "end": 176,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
         "start": 186,
         "end": 194,
         "vocab_id": "th_60d300"
@@ -8188,11 +6903,6 @@
         "vocab_id": "th_835387"
       },
       {
-        "start": 27,
-        "end": 31,
-        "vocab_id": "th_313977"
-      },
-      {
         "start": 39,
         "end": 52,
         "vocab_id": "v_sellingpoint"
@@ -8201,11 +6911,6 @@
         "start": 56,
         "end": 62,
         "vocab_id": "th_ecbc37"
-      },
-      {
-        "start": 71,
-        "end": 75,
-        "vocab_id": "th_c1bfc3"
       },
       {
         "start": 82,
@@ -8231,11 +6936,6 @@
         "start": 161,
         "end": 165,
         "vocab_id": "th_c4cd70"
-      },
-      {
-        "start": 168,
-        "end": 174,
-        "vocab_id": "th_f762e4"
       },
       {
         "start": 186,
@@ -8268,11 +6968,6 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 30,
-        "end": 34,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
         "start": 47,
         "end": 54,
         "vocab_id": "th_552778"
@@ -8286,11 +6981,6 @@
         "start": 91,
         "end": 97,
         "vocab_id": "v_luukkhaa"
-      },
-      {
-        "start": 108,
-        "end": 113,
-        "vocab_id": "th_a82c82"
       },
       {
         "start": 114,
@@ -8328,11 +7018,6 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 12,
-        "end": 15,
-        "vocab_id": "th_9cf8a2"
-      },
-      {
         "start": 20,
         "end": 25,
         "vocab_id": "th_a42b89"
@@ -8341,11 +7026,6 @@
         "start": 25,
         "end": 31,
         "vocab_id": "v_luukkhaa"
-      },
-      {
-        "start": 57,
-        "end": 61,
-        "vocab_id": "th_9a4e15"
       },
       {
         "start": 72,
@@ -8363,11 +7043,6 @@
         "vocab_id": "th_8b5ed2"
       },
       {
-        "start": 113,
-        "end": 117,
-        "vocab_id": "th_313977"
-      },
-      {
         "start": 121,
         "end": 127,
         "vocab_id": "th_fc2487"
@@ -8376,16 +7051,6 @@
         "start": 129,
         "end": 133,
         "vocab_id": "th_06314a"
-      },
-      {
-        "start": 133,
-        "end": 137,
-        "vocab_id": "th_1b85bc"
-      },
-      {
-        "start": 143,
-        "end": 146,
-        "vocab_id": "th_9cf8a2"
       },
       {
         "start": 149,
@@ -8407,11 +7072,6 @@
     "translation": "这件事说起来很简单——但 Suppliers、一切、都要从新开始——全部要重新学——所有 Regulation（法规）都要重新学。From Zero（从零开始）——唯一不 from zero 的是 Product。",
     "vocab_ids": [],
     "annotations": [
-      {
-        "start": 0,
-        "end": 6,
-        "vocab_id": "th_f762e4"
-      },
       {
         "start": 14,
         "end": 18,
@@ -8443,11 +7103,6 @@
         "vocab_id": "v_regulation"
       },
       {
-        "start": 111,
-        "end": 115,
-        "vocab_id": "th_313977"
-      },
-      {
         "start": 118,
         "end": 126,
         "vocab_id": "th_68d57e"
@@ -8456,11 +7111,6 @@
         "start": 157,
         "end": 163,
         "vocab_id": "th_e42d6e"
-      },
-      {
-        "start": 172,
-        "end": 176,
-        "vocab_id": "th_9a4e15"
       }
     ],
     "is_highlight": true,
@@ -8493,11 +7143,6 @@
         "vocab_id": "th_098ff2"
       },
       {
-        "start": 32,
-        "end": 35,
-        "vocab_id": "th_9cf8a2"
-      },
-      {
         "start": 44,
         "end": 50,
         "vocab_id": "th_f3c25a"
@@ -8511,16 +7156,6 @@
         "start": 97,
         "end": 101,
         "vocab_id": "th_59fcb4"
-      },
-      {
-        "start": 120,
-        "end": 124,
-        "vocab_id": "th_9a4e15"
-      },
-      {
-        "start": 125,
-        "end": 130,
-        "vocab_id": "th_a82c82"
       },
       {
         "start": 133,
@@ -8556,16 +7191,6 @@
         "start": 3,
         "end": 6,
         "vocab_id": "th_f537b5"
-      },
-      {
-        "start": 6,
-        "end": 10,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
-        "start": 23,
-        "end": 26,
-        "vocab_id": "th_56a178"
       },
       {
         "start": 41,
@@ -8638,11 +7263,6 @@
         "vocab_id": "th_c9b40e"
       },
       {
-        "start": 147,
-        "end": 150,
-        "vocab_id": "th_a3e77e"
-      },
-      {
         "start": 154,
         "end": 157,
         "vocab_id": "th_acf13e"
@@ -8651,11 +7271,6 @@
         "start": 160,
         "end": 166,
         "vocab_id": "v_luukkhaa"
-      },
-      {
-        "start": 194,
-        "end": 197,
-        "vocab_id": "th_421c39"
       },
       {
         "start": 200,
@@ -8688,11 +7303,6 @@
         "vocab_id": "th_8965d5"
       },
       {
-        "start": 32,
-        "end": 35,
-        "vocab_id": "th_421c39"
-      },
-      {
         "start": 57,
         "end": 60,
         "vocab_id": "th_5e15f6"
@@ -8703,19 +7313,9 @@
         "vocab_id": "th_5e3de9"
       },
       {
-        "start": 91,
-        "end": 95,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
         "start": 114,
         "end": 120,
         "vocab_id": "th_f3c25a"
-      },
-      {
-        "start": 126,
-        "end": 132,
-        "vocab_id": "th_f762e4"
       },
       {
         "start": 132,
@@ -8746,11 +7346,6 @@
         "start": 6,
         "end": 12,
         "vocab_id": "th_1f630b"
-      },
-      {
-        "start": 36,
-        "end": 40,
-        "vocab_id": "th_c1bfc3"
       },
       {
         "start": 40,
@@ -8786,16 +7381,6 @@
         "start": 174,
         "end": 180,
         "vocab_id": "th_c9db6e"
-      },
-      {
-        "start": 184,
-        "end": 187,
-        "vocab_id": "th_a1c0cc"
-      },
-      {
-        "start": 197,
-        "end": 200,
-        "vocab_id": "th_421c39"
       },
       {
         "start": 201,
@@ -8846,11 +7431,6 @@
         "start": 81,
         "end": 90,
         "vocab_id": "th_361ae6"
-      },
-      {
-        "start": 95,
-        "end": 98,
-        "vocab_id": "th_9cf8a2"
       },
       {
         "start": 121,
@@ -8923,19 +7503,9 @@
         "vocab_id": "th_78eb6c"
       },
       {
-        "start": 103,
-        "end": 106,
-        "vocab_id": "th_ef0610"
-      },
-      {
         "start": 106,
         "end": 109,
         "vocab_id": "th_4ef9c3"
-      },
-      {
-        "start": 116,
-        "end": 119,
-        "vocab_id": "th_56a178"
       },
       {
         "start": 137,
@@ -8973,19 +7543,9 @@
         "vocab_id": "th_dd6898"
       },
       {
-        "start": 31,
-        "end": 34,
-        "vocab_id": "th_9cf8a2"
-      },
-      {
         "start": 36,
         "end": 44,
         "vocab_id": "th_8c8f2b"
-      },
-      {
-        "start": 58,
-        "end": 61,
-        "vocab_id": "th_9cf8a2"
       },
       {
         "start": 63,
@@ -8998,19 +7558,9 @@
         "vocab_id": "th_23f72b"
       },
       {
-        "start": 101,
-        "end": 104,
-        "vocab_id": "th_9cf8a2"
-      },
-      {
         "start": 136,
         "end": 141,
         "vocab_id": "th_3f8725"
-      },
-      {
-        "start": 159,
-        "end": 162,
-        "vocab_id": "th_d6bbc5"
       },
       {
         "start": 173,
@@ -9086,11 +7636,6 @@
         "start": 159,
         "end": 164,
         "vocab_id": "th_3f8725"
-      },
-      {
-        "start": 172,
-        "end": 178,
-        "vocab_id": "th_a3c09a"
       }
     ],
     "is_highlight": true,
@@ -9111,16 +7656,6 @@
         "start": 13,
         "end": 17,
         "vocab_id": "th_04394a"
-      },
-      {
-        "start": 17,
-        "end": 22,
-        "vocab_id": "th_a82c82"
-      },
-      {
-        "start": 39,
-        "end": 42,
-        "vocab_id": "th_511484"
       },
       {
         "start": 56,
@@ -9178,16 +7713,6 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 7,
-        "end": 11,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
-        "start": 25,
-        "end": 29,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
         "start": 35,
         "end": 40,
         "vocab_id": "th_6fbe96"
@@ -9203,19 +7728,9 @@
         "vocab_id": "th_be9821"
       },
       {
-        "start": 52,
-        "end": 57,
-        "vocab_id": "th_a82c82"
-      },
-      {
         "start": 57,
         "end": 64,
         "vocab_id": "th_bd7ae9"
-      },
-      {
-        "start": 65,
-        "end": 71,
-        "vocab_id": "th_f762e4"
       },
       {
         "start": 71,
@@ -9228,11 +7743,6 @@
         "vocab_id": "th_412a94"
       },
       {
-        "start": 91,
-        "end": 94,
-        "vocab_id": "th_ef0610"
-      },
-      {
         "start": 94,
         "end": 103,
         "vocab_id": "v_diisainəə"
@@ -9241,11 +7751,6 @@
         "start": 103,
         "end": 111,
         "vocab_id": "th_60d300"
-      },
-      {
-        "start": 120,
-        "end": 123,
-        "vocab_id": "th_ef0610"
       },
       {
         "start": 123,
@@ -9283,24 +7788,9 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 24,
-        "end": 27,
-        "vocab_id": "th_fac3b6"
-      },
-      {
         "start": 28,
         "end": 35,
         "vocab_id": "th_552778"
-      },
-      {
-        "start": 43,
-        "end": 46,
-        "vocab_id": "th_a3e77e"
-      },
-      {
-        "start": 46,
-        "end": 49,
-        "vocab_id": "th_c6e22a"
       },
       {
         "start": 52,
@@ -9311,21 +7801,6 @@
         "start": 56,
         "end": 61,
         "vocab_id": "th_c5f89e"
-      },
-      {
-        "start": 65,
-        "end": 68,
-        "vocab_id": "th_13f14f"
-      },
-      {
-        "start": 77,
-        "end": 80,
-        "vocab_id": "th_aa8756"
-      },
-      {
-        "start": 88,
-        "end": 91,
-        "vocab_id": "th_c6e22a"
       },
       {
         "start": 91,
@@ -9373,11 +7848,6 @@
         "vocab_id": "th_5c29ad"
       },
       {
-        "start": 73,
-        "end": 79,
-        "vocab_id": "th_a3c09a"
-      },
-      {
         "start": 79,
         "end": 88,
         "vocab_id": "th_5c29ad"
@@ -9416,16 +7886,6 @@
         "start": 139,
         "end": 143,
         "vocab_id": "th_8da13b"
-      },
-      {
-        "start": 164,
-        "end": 167,
-        "vocab_id": "th_835a47"
-      },
-      {
-        "start": 170,
-        "end": 174,
-        "vocab_id": "th_1b85bc"
       }
     ],
     "is_highlight": true,
@@ -9442,21 +7902,6 @@
     "translation": "——我手腕上这一款——Bucha 刚才给我的——举个例子——这是什么？跟别的品牌有什么不同？Sa 说：因为是能真正日常佩戴的珠宝，而且里面藏着 Lucky（幸运）。",
     "vocab_ids": [],
     "annotations": [
-      {
-        "start": 10,
-        "end": 13,
-        "vocab_id": "th_421c39"
-      },
-      {
-        "start": 14,
-        "end": 17,
-        "vocab_id": "th_a3e77e"
-      },
-      {
-        "start": 21,
-        "end": 24,
-        "vocab_id": "th_a3e77e"
-      },
       {
         "start": 24,
         "end": 30,
@@ -9476,16 +7921,6 @@
         "start": 53,
         "end": 60,
         "vocab_id": "th_bd7ae9"
-      },
-      {
-        "start": 65,
-        "end": 71,
-        "vocab_id": "th_f762e4"
-      },
-      {
-        "start": 96,
-        "end": 100,
-        "vocab_id": "th_313977"
       },
       {
         "start": 103,
@@ -9508,39 +7943,9 @@
         "vocab_id": "th_477fcc"
       },
       {
-        "start": 134,
-        "end": 137,
-        "vocab_id": "th_c6e22a"
-      },
-      {
-        "start": 144,
-        "end": 148,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
-        "start": 164,
-        "end": 167,
-        "vocab_id": "th_835a47"
-      },
-      {
-        "start": 170,
-        "end": 174,
-        "vocab_id": "th_1b85bc"
-      },
-      {
         "start": 176,
         "end": 182,
         "vocab_id": "th_b5769b"
-      },
-      {
-        "start": 187,
-        "end": 193,
-        "vocab_id": "th_f762e4"
-      },
-      {
-        "start": 195,
-        "end": 199,
-        "vocab_id": "th_c1bfc3"
       },
       {
         "start": 199,
@@ -9573,16 +7978,6 @@
         "vocab_id": "th_45f424"
       },
       {
-        "start": 45,
-        "end": 48,
-        "vocab_id": "th_c6e22a"
-      },
-      {
-        "start": 52,
-        "end": 55,
-        "vocab_id": "th_9cf8a2"
-      },
-      {
         "start": 65,
         "end": 70,
         "vocab_id": "th_926bc2"
@@ -9591,11 +7986,6 @@
         "start": 70,
         "end": 78,
         "vocab_id": "th_19fe70"
-      },
-      {
-        "start": 85,
-        "end": 88,
-        "vocab_id": "th_f7acd4"
       },
       {
         "start": 104,
@@ -9643,11 +8033,6 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 2,
-        "end": 6,
-        "vocab_id": "th_9a4e15"
-      },
-      {
         "start": 7,
         "end": 11,
         "vocab_id": "th_11ecc3"
@@ -9683,11 +8068,6 @@
         "vocab_id": "th_0dad18"
       },
       {
-        "start": 174,
-        "end": 177,
-        "vocab_id": "th_835a47"
-      },
-      {
         "start": 177,
         "end": 183,
         "vocab_id": "th_66c44e"
@@ -9718,16 +8098,6 @@
         "vocab_id": "th_374603"
       },
       {
-        "start": 14,
-        "end": 17,
-        "vocab_id": "th_ef0610"
-      },
-      {
-        "start": 25,
-        "end": 28,
-        "vocab_id": "th_421c39"
-      },
-      {
         "start": 47,
         "end": 50,
         "vocab_id": "th_280f37"
@@ -9738,29 +8108,9 @@
         "vocab_id": "th_47be79"
       },
       {
-        "start": 61,
-        "end": 65,
-        "vocab_id": "th_1b85bc"
-      },
-      {
         "start": 70,
         "end": 78,
         "vocab_id": "th_19fe70"
-      },
-      {
-        "start": 79,
-        "end": 83,
-        "vocab_id": "th_1b85bc"
-      },
-      {
-        "start": 87,
-        "end": 90,
-        "vocab_id": "th_511484"
-      },
-      {
-        "start": 96,
-        "end": 100,
-        "vocab_id": "th_46dd5b"
       },
       {
         "start": 124,
@@ -9771,16 +8121,6 @@
         "start": 140,
         "end": 147,
         "vocab_id": "th_ba84b9"
-      },
-      {
-        "start": 161,
-        "end": 164,
-        "vocab_id": "th_835a47"
-      },
-      {
-        "start": 174,
-        "end": 178,
-        "vocab_id": "th_c1bfc3"
       },
       {
         "start": 191,
@@ -9808,44 +8148,14 @@
         "vocab_id": "th_0491ea"
       },
       {
-        "start": 10,
-        "end": 13,
-        "vocab_id": "th_9cf8a2"
-      },
-      {
-        "start": 27,
-        "end": 30,
-        "vocab_id": "th_ef0610"
-      },
-      {
-        "start": 37,
-        "end": 43,
-        "vocab_id": "th_f762e4"
-      },
-      {
         "start": 92,
         "end": 99,
         "vocab_id": "th_209257"
       },
       {
-        "start": 103,
-        "end": 106,
-        "vocab_id": "th_835a47"
-      },
-      {
         "start": 106,
         "end": 113,
         "vocab_id": "th_b4a459"
-      },
-      {
-        "start": 115,
-        "end": 119,
-        "vocab_id": "th_46dd5b"
-      },
-      {
-        "start": 138,
-        "end": 141,
-        "vocab_id": "th_c6e22a"
       },
       {
         "start": 145,
@@ -9883,11 +8193,6 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 6,
-        "end": 9,
-        "vocab_id": "th_421c39"
-      },
-      {
         "start": 12,
         "end": 16,
         "vocab_id": "th_0ebb64"
@@ -9908,19 +8213,9 @@
         "vocab_id": "th_6bb39d"
       },
       {
-        "start": 47,
-        "end": 50,
-        "vocab_id": "th_a3e77e"
-      },
-      {
         "start": 56,
         "end": 62,
         "vocab_id": "th_1c4fba"
-      },
-      {
-        "start": 62,
-        "end": 66,
-        "vocab_id": "th_1b85bc"
       },
       {
         "start": 67,
@@ -10003,24 +8298,9 @@
         "vocab_id": "th_374603"
       },
       {
-        "start": 37,
-        "end": 40,
-        "vocab_id": "th_421c39"
-      },
-      {
         "start": 49,
         "end": 52,
         "vocab_id": "th_a81341"
-      },
-      {
-        "start": 106,
-        "end": 109,
-        "vocab_id": "th_a3e77e"
-      },
-      {
-        "start": 120,
-        "end": 125,
-        "vocab_id": "th_a82c82"
       },
       {
         "start": 129,
@@ -10058,16 +8338,6 @@
         "vocab_id": "th_477fcc"
       },
       {
-        "start": 30,
-        "end": 34,
-        "vocab_id": "th_1b85bc"
-      },
-      {
-        "start": 39,
-        "end": 42,
-        "vocab_id": "th_835a47"
-      },
-      {
         "start": 42,
         "end": 49,
         "vocab_id": "th_c1d9ba"
@@ -10088,11 +8358,6 @@
         "vocab_id": "th_be9821"
       },
       {
-        "start": 70,
-        "end": 75,
-        "vocab_id": "th_a82c82"
-      },
-      {
         "start": 80,
         "end": 87,
         "vocab_id": "th_bd5d57"
@@ -10108,24 +8373,9 @@
         "vocab_id": "th_05cabc"
       },
       {
-        "start": 99,
-        "end": 102,
-        "vocab_id": "th_a3e77e"
-      },
-      {
         "start": 102,
         "end": 108,
         "vocab_id": "th_8ea1c5"
-      },
-      {
-        "start": 115,
-        "end": 118,
-        "vocab_id": "th_421c39"
-      },
-      {
-        "start": 121,
-        "end": 125,
-        "vocab_id": "th_c1bfc3"
       }
     ],
     "is_highlight": true,
@@ -10153,34 +8403,9 @@
         "vocab_id": "th_0b3f42"
       },
       {
-        "start": 32,
-        "end": 36,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
-        "start": 43,
-        "end": 46,
-        "vocab_id": "th_511484"
-      },
-      {
         "start": 53,
         "end": 56,
         "vocab_id": "th_f537b5"
-      },
-      {
-        "start": 75,
-        "end": 79,
-        "vocab_id": "th_1b85bc"
-      },
-      {
-        "start": 92,
-        "end": 96,
-        "vocab_id": "th_1b85bc"
-      },
-      {
-        "start": 102,
-        "end": 105,
-        "vocab_id": "th_aa8756"
       },
       {
         "start": 105,
@@ -10191,21 +8416,6 @@
         "start": 108,
         "end": 113,
         "vocab_id": "th_9e476a"
-      },
-      {
-        "start": 118,
-        "end": 121,
-        "vocab_id": "th_ef241a"
-      },
-      {
-        "start": 121,
-        "end": 124,
-        "vocab_id": "th_56a178"
-      },
-      {
-        "start": 125,
-        "end": 128,
-        "vocab_id": "th_ef0610"
       },
       {
         "start": 139,
@@ -10233,11 +8443,6 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 0,
-        "end": 3,
-        "vocab_id": "th_aa8756"
-      },
-      {
         "start": 3,
         "end": 6,
         "vocab_id": "th_b85cb8"
@@ -10256,31 +8461,6 @@
         "start": 36,
         "end": 39,
         "vocab_id": "th_b85cb8"
-      },
-      {
-        "start": 44,
-        "end": 48,
-        "vocab_id": "th_b3156f"
-      },
-      {
-        "start": 54,
-        "end": 59,
-        "vocab_id": "th_422f43"
-      },
-      {
-        "start": 80,
-        "end": 83,
-        "vocab_id": "th_aa8756"
-      },
-      {
-        "start": 135,
-        "end": 138,
-        "vocab_id": "th_ef241a"
-      },
-      {
-        "start": 138,
-        "end": 141,
-        "vocab_id": "th_56a178"
       },
       {
         "start": 150,
@@ -10323,31 +8503,6 @@
         "vocab_id": "th_965ed0"
       },
       {
-        "start": 16,
-        "end": 19,
-        "vocab_id": "th_511484"
-      },
-      {
-        "start": 40,
-        "end": 43,
-        "vocab_id": "th_9cf8a2"
-      },
-      {
-        "start": 49,
-        "end": 53,
-        "vocab_id": "th_1b85bc"
-      },
-      {
-        "start": 56,
-        "end": 60,
-        "vocab_id": "th_9a4e15"
-      },
-      {
-        "start": 61,
-        "end": 65,
-        "vocab_id": "th_1b85bc"
-      },
-      {
         "start": 84,
         "end": 88,
         "vocab_id": "th_11ecc3"
@@ -10363,24 +8518,9 @@
         "vocab_id": "th_723e80"
       },
       {
-        "start": 109,
-        "end": 115,
-        "vocab_id": "th_a3c09a"
-      },
-      {
         "start": 124,
         "end": 127,
         "vocab_id": "th_b85cb8"
-      },
-      {
-        "start": 137,
-        "end": 141,
-        "vocab_id": "th_b3156f"
-      },
-      {
-        "start": 168,
-        "end": 174,
-        "vocab_id": "th_f762e4"
       },
       {
         "start": 187,
@@ -10403,19 +8543,9 @@
         "vocab_id": "th_ee09d3"
       },
       {
-        "start": 221,
-        "end": 225,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
         "start": 238,
         "end": 243,
         "vocab_id": "th_299491"
-      },
-      {
-        "start": 247,
-        "end": 250,
-        "vocab_id": "th_13f14f"
       }
     ],
     "is_highlight": true,
@@ -10458,19 +8588,9 @@
         "vocab_id": "th_04148b"
       },
       {
-        "start": 50,
-        "end": 55,
-        "vocab_id": "th_a82c82"
-      },
-      {
         "start": 58,
         "end": 64,
         "vocab_id": "v_prathet"
-      },
-      {
-        "start": 67,
-        "end": 71,
-        "vocab_id": "th_313977"
       },
       {
         "start": 74,
@@ -10481,11 +8601,6 @@
         "start": 80,
         "end": 84,
         "vocab_id": "th_cecc2b"
-      },
-      {
-        "start": 88,
-        "end": 92,
-        "vocab_id": "th_c1bfc3"
       },
       {
         "start": 92,
@@ -10507,11 +8622,6 @@
     "translation": "——细腻，但不一定要带传统图腾——对。但要有一些「曲折弯绕」——不用到那个程度。Ravipa 是「细腻」与「极简（minimal）」的结合——而且真能每天戴。",
     "vocab_ids": [],
     "annotations": [
-      {
-        "start": 2,
-        "end": 6,
-        "vocab_id": "th_c1bfc3"
-      },
       {
         "start": 6,
         "end": 13,
@@ -10558,44 +8668,14 @@
         "vocab_id": "th_b7c663"
       },
       {
-        "start": 142,
-        "end": 146,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
         "start": 146,
         "end": 153,
         "vocab_id": "th_3b76e7"
       },
       {
-        "start": 156,
-        "end": 160,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
         "start": 161,
         "end": 168,
         "vocab_id": "v_minimal"
-      },
-      {
-        "start": 169,
-        "end": 172,
-        "vocab_id": "th_ef241a"
-      },
-      {
-        "start": 174,
-        "end": 177,
-        "vocab_id": "th_fac3b6"
-      },
-      {
-        "start": 184,
-        "end": 187,
-        "vocab_id": "th_835a47"
-      },
-      {
-        "start": 190,
-        "end": 194,
-        "vocab_id": "th_1b85bc"
       },
       {
         "start": 196,
@@ -10618,19 +8698,9 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 10,
-        "end": 14,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
         "start": 14,
         "end": 21,
         "vocab_id": "th_3b76e7"
-      },
-      {
-        "start": 27,
-        "end": 31,
-        "vocab_id": "th_c1bfc3"
       },
       {
         "start": 31,
@@ -10641,21 +8711,6 @@
         "start": 38,
         "end": 45,
         "vocab_id": "th_989b38"
-      },
-      {
-        "start": 45,
-        "end": 49,
-        "vocab_id": "th_313977"
-      },
-      {
-        "start": 49,
-        "end": 52,
-        "vocab_id": "th_fac3b6"
-      },
-      {
-        "start": 52,
-        "end": 55,
-        "vocab_id": "th_511484"
       }
     ],
     "is_highlight": false,
@@ -10671,13 +8726,7 @@
     "romanization": "",
     "translation": "——嗬，不同！",
     "vocab_ids": [],
-    "annotations": [
-      {
-        "start": 5,
-        "end": 9,
-        "vocab_id": "th_313977"
-      }
-    ],
+    "annotations": [],
     "is_highlight": false,
     "audio_url": "audio-local/Nf-KbZ0XHMU/0146.mp3",
     "article_id": "Nf-KbZ0XHMU"
@@ -10736,31 +8785,6 @@
         "start": 73,
         "end": 77,
         "vocab_id": "th_ca3e3a"
-      },
-      {
-        "start": 81,
-        "end": 84,
-        "vocab_id": "th_c6e22a"
-      },
-      {
-        "start": 84,
-        "end": 88,
-        "vocab_id": "th_9a4e15"
-      },
-      {
-        "start": 128,
-        "end": 132,
-        "vocab_id": "th_313977"
-      },
-      {
-        "start": 132,
-        "end": 135,
-        "vocab_id": "th_fac3b6"
-      },
-      {
-        "start": 157,
-        "end": 161,
-        "vocab_id": "th_313977"
       }
     ],
     "is_highlight": true,
@@ -10777,11 +8801,6 @@
     "translation": "对，Sa 认为我们必须把自己的 Uniqueness（独特性）拿出来用。我特别喜欢一点：今天大家都在谈 Soft Power——但在设计层面真正的 Soft Power 就是「拿出我们的独特性，调整后变成世界的语言」。",
     "vocab_ids": [],
     "annotations": [
-      {
-        "start": 8,
-        "end": 11,
-        "vocab_id": "th_c6e22a"
-      },
       {
         "start": 53,
         "end": 56,
@@ -10801,11 +8820,6 @@
         "start": 87,
         "end": 92,
         "vocab_id": "th_6f8415"
-      },
-      {
-        "start": 95,
-        "end": 98,
-        "vocab_id": "th_fac3b6"
       },
       {
         "start": 98,
@@ -10831,11 +8845,6 @@
         "start": 140,
         "end": 144,
         "vocab_id": "th_2213fa"
-      },
-      {
-        "start": 152,
-        "end": 156,
-        "vocab_id": "th_1b85bc"
       },
       {
         "start": 192,
@@ -11068,11 +9077,6 @@
         "vocab_id": "th_7967cd"
       },
       {
-        "start": 42,
-        "end": 45,
-        "vocab_id": "th_421c39"
-      },
-      {
         "start": 48,
         "end": 51,
         "vocab_id": "th_c9b40e"
@@ -11233,11 +9237,6 @@
         "vocab_id": "th_dd422b"
       },
       {
-        "start": 51,
-        "end": 54,
-        "vocab_id": "th_9cf8a2"
-      },
-      {
         "start": 58,
         "end": 62,
         "vocab_id": "v_khayaai"
@@ -11246,11 +9245,6 @@
         "start": 62,
         "end": 71,
         "vocab_id": "th_76a0b4"
-      },
-      {
-        "start": 78,
-        "end": 82,
-        "vocab_id": "th_1b85bc"
       },
       {
         "start": 85,
@@ -11263,19 +9257,9 @@
         "vocab_id": "th_926bc2"
       },
       {
-        "start": 112,
-        "end": 115,
-        "vocab_id": "th_aa8756"
-      },
-      {
         "start": 115,
         "end": 119,
         "vocab_id": "th_8add4e"
-      },
-      {
-        "start": 131,
-        "end": 137,
-        "vocab_id": "th_f762e4"
       },
       {
         "start": 155,
@@ -11291,11 +9275,6 @@
         "start": 181,
         "end": 185,
         "vocab_id": "th_8da13b"
-      },
-      {
-        "start": 205,
-        "end": 208,
-        "vocab_id": "th_9cf8a2"
       },
       {
         "start": 208,
@@ -11341,11 +9320,6 @@
         "start": 91,
         "end": 97,
         "vocab_id": "th_0491ea"
-      },
-      {
-        "start": 100,
-        "end": 104,
-        "vocab_id": "th_9a4e15"
       },
       {
         "start": 108,
@@ -11418,39 +9392,14 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 15,
-        "end": 18,
-        "vocab_id": "th_9cf8a2"
-      },
-      {
         "start": 20,
         "end": 29,
         "vocab_id": "th_28a28f"
       },
       {
-        "start": 29,
-        "end": 32,
-        "vocab_id": "th_511484"
-      },
-      {
-        "start": 34,
-        "end": 37,
-        "vocab_id": "th_a1c0cc"
-      },
-      {
         "start": 37,
         "end": 43,
         "vocab_id": "th_c9db6e"
-      },
-      {
-        "start": 46,
-        "end": 49,
-        "vocab_id": "th_a1c0cc"
-      },
-      {
-        "start": 56,
-        "end": 60,
-        "vocab_id": "th_1b85bc"
       },
       {
         "start": 67,
@@ -11473,24 +9422,9 @@
         "vocab_id": "th_b38db1"
       },
       {
-        "start": 128,
-        "end": 131,
-        "vocab_id": "th_a1c0cc"
-      },
-      {
         "start": 134,
         "end": 140,
         "vocab_id": "th_c9db6e"
-      },
-      {
-        "start": 144,
-        "end": 147,
-        "vocab_id": "th_a1c0cc"
-      },
-      {
-        "start": 148,
-        "end": 151,
-        "vocab_id": "th_9cf8a2"
       },
       {
         "start": 154,
@@ -11501,11 +9435,6 @@
         "start": 162,
         "end": 168,
         "vocab_id": "v_təəptoo"
-      },
-      {
-        "start": 170,
-        "end": 174,
-        "vocab_id": "th_9a4e15"
       }
     ],
     "is_highlight": true,
@@ -11522,11 +9451,6 @@
     "translation": "我觉得这个品牌还有潜力（Potential）——想亲自把它推到我手里能到达的最高点。——嗯，所以不是以「钱」为目标？——完全不是。我们想做的是——去到海外能看到自己的品牌。",
     "vocab_ids": [],
     "annotations": [
-      {
-        "start": 4,
-        "end": 7,
-        "vocab_id": "th_a1c0cc"
-      },
       {
         "start": 7,
         "end": 13,
@@ -11548,29 +9472,9 @@
         "vocab_id": "th_638fe8"
       },
       {
-        "start": 56,
-        "end": 59,
-        "vocab_id": "th_d6bbc5"
-      },
-      {
-        "start": 67,
-        "end": 70,
-        "vocab_id": "th_56a178"
-      },
-      {
-        "start": 70,
-        "end": 73,
-        "vocab_id": "th_a1c0cc"
-      },
-      {
         "start": 80,
         "end": 83,
         "vocab_id": "th_399c53"
-      },
-      {
-        "start": 83,
-        "end": 86,
-        "vocab_id": "th_d6bbc5"
       },
       {
         "start": 89,
@@ -11596,11 +9500,6 @@
         "start": 151,
         "end": 155,
         "vocab_id": "th_a87df7"
-      },
-      {
-        "start": 163,
-        "end": 166,
-        "vocab_id": "th_9cf8a2"
       },
       {
         "start": 170,
@@ -11633,11 +9532,6 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 5,
-        "end": 9,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
         "start": 26,
         "end": 29,
         "vocab_id": "th_d05232"
@@ -11653,11 +9547,6 @@
         "vocab_id": "th_f071d3"
       },
       {
-        "start": 51,
-        "end": 54,
-        "vocab_id": "th_c6e22a"
-      },
-      {
         "start": 75,
         "end": 78,
         "vocab_id": "th_97bf37"
@@ -11668,24 +9557,9 @@
         "vocab_id": "th_6538db"
       },
       {
-        "start": 81,
-        "end": 86,
-        "vocab_id": "th_422f43"
-      },
-      {
-        "start": 87,
-        "end": 90,
-        "vocab_id": "th_56a178"
-      },
-      {
         "start": 103,
         "end": 113,
         "vocab_id": "th_fa1cfb"
-      },
-      {
-        "start": 126,
-        "end": 129,
-        "vocab_id": "th_c6e22a"
       },
       {
         "start": 132,
@@ -11743,21 +9617,6 @@
         "vocab_id": "th_c2f5bd"
       },
       {
-        "start": 58,
-        "end": 64,
-        "vocab_id": "th_f762e4"
-      },
-      {
-        "start": 74,
-        "end": 77,
-        "vocab_id": "th_c6e22a"
-      },
-      {
-        "start": 87,
-        "end": 90,
-        "vocab_id": "th_a1c0cc"
-      },
-      {
         "start": 118,
         "end": 125,
         "vocab_id": "th_552778"
@@ -11771,11 +9630,6 @@
         "start": 149,
         "end": 152,
         "vocab_id": "th_f09b21"
-      },
-      {
-        "start": 167,
-        "end": 170,
-        "vocab_id": "th_a1c0cc"
       },
       {
         "start": 185,
@@ -11808,11 +9662,6 @@
         "vocab_id": "th_a87df7"
       },
       {
-        "start": 19,
-        "end": 22,
-        "vocab_id": "th_a1c0cc"
-      },
-      {
         "start": 30,
         "end": 38,
         "vocab_id": "th_375832"
@@ -11833,24 +9682,9 @@
         "vocab_id": "v_fastmoney"
       },
       {
-        "start": 112,
-        "end": 115,
-        "vocab_id": "th_a1c0cc"
-      },
-      {
         "start": 119,
         "end": 133,
         "vocab_id": "v_brandidentity"
-      },
-      {
-        "start": 135,
-        "end": 138,
-        "vocab_id": "th_aa8756"
-      },
-      {
-        "start": 141,
-        "end": 145,
-        "vocab_id": "th_9a4e15"
       },
       {
         "start": 199,
@@ -11903,11 +9737,6 @@
         "vocab_id": "th_d82fc1"
       },
       {
-        "start": 56,
-        "end": 59,
-        "vocab_id": "th_511484"
-      },
-      {
         "start": 63,
         "end": 69,
         "vocab_id": "th_c9db6e"
@@ -11921,11 +9750,6 @@
         "start": 83,
         "end": 94,
         "vocab_id": "th_d82fc1"
-      },
-      {
-        "start": 98,
-        "end": 101,
-        "vocab_id": "th_511484"
       },
       {
         "start": 105,
@@ -11947,11 +9771,6 @@
     "translation": "——想感谢「每一次」都行，正反两面都感谢。回顾走过的 Journey——第一阶段做 Infinity 那一对（戒指），也许因为当时还在读书，所以每一步都非常 baby step。",
     "vocab_ids": [],
     "annotations": [
-      {
-        "start": 1,
-        "end": 4,
-        "vocab_id": "th_9cf8a2"
-      },
       {
         "start": 4,
         "end": 10,
@@ -11978,11 +9797,6 @@
         "vocab_id": "th_8483be"
       },
       {
-        "start": 61,
-        "end": 64,
-        "vocab_id": "th_c6e22a"
-      },
-      {
         "start": 72,
         "end": 75,
         "vocab_id": "th_c9b40e"
@@ -11996,16 +9810,6 @@
         "start": 107,
         "end": 112,
         "vocab_id": "th_c5f89e"
-      },
-      {
-        "start": 127,
-        "end": 132,
-        "vocab_id": "th_422f43"
-      },
-      {
-        "start": 141,
-        "end": 144,
-        "vocab_id": "th_c6e22a"
       }
     ],
     "is_highlight": true,
@@ -12023,34 +9827,14 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 0,
-        "end": 3,
-        "vocab_id": "th_c6e22a"
-      },
-      {
         "start": 39,
         "end": 42,
         "vocab_id": "th_467721"
       },
       {
-        "start": 51,
-        "end": 54,
-        "vocab_id": "th_c6e22a"
-      },
-      {
-        "start": 73,
-        "end": 76,
-        "vocab_id": "th_c6e22a"
-      },
-      {
         "start": 79,
         "end": 82,
         "vocab_id": "th_467721"
-      },
-      {
-        "start": 99,
-        "end": 102,
-        "vocab_id": "th_fac3b6"
       },
       {
         "start": 102,
@@ -12066,11 +9850,6 @@
         "start": 115,
         "end": 119,
         "vocab_id": "th_c21893"
-      },
-      {
-        "start": 134,
-        "end": 137,
-        "vocab_id": "th_ef0610"
       },
       {
         "start": 139,
@@ -12092,11 +9871,6 @@
     "translation": "小时候 Sa 非常怕：怕失败、怕被迫收摊、怕最后要去上班。什么都怕。但「怕得太多」让人不敢迈步——所以得感谢那场危机（ที่ทำให้ต้องขึ้นเครื่องบินเจ็ท）——",
     "vocab_ids": [],
     "annotations": [
-      {
-        "start": 3,
-        "end": 7,
-        "vocab_id": "th_b3156f"
-      },
       {
         "start": 7,
         "end": 10,
@@ -12136,11 +9910,6 @@
         "start": 75,
         "end": 79,
         "vocab_id": "th_a03be9"
-      },
-      {
-        "start": 88,
-        "end": 92,
-        "vocab_id": "th_c1bfc3"
       },
       {
         "start": 92,
@@ -12213,16 +9982,6 @@
         "vocab_id": "v_ookaat"
       },
       {
-        "start": 65,
-        "end": 71,
-        "vocab_id": "th_f762e4"
-      },
-      {
-        "start": 78,
-        "end": 84,
-        "vocab_id": "th_f762e4"
-      },
-      {
         "start": 118,
         "end": 123,
         "vocab_id": "th_6f8415"
@@ -12241,11 +10000,6 @@
         "start": 172,
         "end": 177,
         "vocab_id": "th_dd422b"
-      },
-      {
-        "start": 200,
-        "end": 203,
-        "vocab_id": "th_fac3b6"
       }
     ],
     "is_highlight": true,
@@ -12283,11 +10037,6 @@
         "vocab_id": "th_744c7d"
       },
       {
-        "start": 67,
-        "end": 70,
-        "vocab_id": "th_421c39"
-      },
-      {
         "start": 83,
         "end": 88,
         "vocab_id": "th_c5f89e"
@@ -12296,11 +10045,6 @@
         "start": 100,
         "end": 105,
         "vocab_id": "th_dd422b"
-      },
-      {
-        "start": 114,
-        "end": 117,
-        "vocab_id": "th_511484"
       },
       {
         "start": 118,
@@ -12326,11 +10070,6 @@
         "start": 159,
         "end": 162,
         "vocab_id": "th_26212c"
-      },
-      {
-        "start": 172,
-        "end": 175,
-        "vocab_id": "th_421c39"
       },
       {
         "start": 179,
@@ -12428,16 +10167,6 @@
         "vocab_id": "th_0491ea"
       },
       {
-        "start": 27,
-        "end": 33,
-        "vocab_id": "th_f762e4"
-      },
-      {
-        "start": 45,
-        "end": 50,
-        "vocab_id": "th_a82c82"
-      },
-      {
         "start": 53,
         "end": 59,
         "vocab_id": "th_1f630b"
@@ -12456,11 +10185,6 @@
         "start": 76,
         "end": 80,
         "vocab_id": "th_55a108"
-      },
-      {
-        "start": 103,
-        "end": 107,
-        "vocab_id": "th_9a4e15"
       },
       {
         "start": 133,
@@ -12486,11 +10210,6 @@
         "start": 165,
         "end": 172,
         "vocab_id": "th_b7c663"
-      },
-      {
-        "start": 172,
-        "end": 175,
-        "vocab_id": "th_b8df2f"
       },
       {
         "start": 182,
@@ -12523,11 +10242,6 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 7,
-        "end": 10,
-        "vocab_id": "th_c6e22a"
-      },
-      {
         "start": 10,
         "end": 17,
         "vocab_id": "th_a64277"
@@ -12541,11 +10255,6 @@
         "start": 23,
         "end": 26,
         "vocab_id": "th_f537b5"
-      },
-      {
-        "start": 38,
-        "end": 41,
-        "vocab_id": "th_aa8756"
       },
       {
         "start": 58,
@@ -12576,21 +10285,6 @@
         "start": 140,
         "end": 147,
         "vocab_id": "th_ea91c4"
-      },
-      {
-        "start": 150,
-        "end": 154,
-        "vocab_id": "th_1b85bc"
-      },
-      {
-        "start": 155,
-        "end": 159,
-        "vocab_id": "th_1b85bc"
-      },
-      {
-        "start": 159,
-        "end": 165,
-        "vocab_id": "th_a3c09a"
       },
       {
         "start": 169,
@@ -12633,21 +10327,6 @@
         "vocab_id": "th_45f424"
       },
       {
-        "start": 21,
-        "end": 24,
-        "vocab_id": "th_9cf8a2"
-      },
-      {
-        "start": 32,
-        "end": 35,
-        "vocab_id": "th_9cf8a2"
-      },
-      {
-        "start": 42,
-        "end": 45,
-        "vocab_id": "th_9cf8a2"
-      },
-      {
         "start": 49,
         "end": 55,
         "vocab_id": "th_b5769b"
@@ -12656,11 +10335,6 @@
         "start": 65,
         "end": 68,
         "vocab_id": "th_19cb85"
-      },
-      {
-        "start": 90,
-        "end": 93,
-        "vocab_id": "th_304e24"
       },
       {
         "start": 94,
@@ -12673,16 +10347,6 @@
         "vocab_id": "th_78eb6c"
       },
       {
-        "start": 105,
-        "end": 109,
-        "vocab_id": "th_1b85bc"
-      },
-      {
-        "start": 118,
-        "end": 121,
-        "vocab_id": "th_c6e22a"
-      },
-      {
         "start": 127,
         "end": 134,
         "vocab_id": "th_32e8be"
@@ -12691,16 +10355,6 @@
         "start": 134,
         "end": 142,
         "vocab_id": "th_68d57e"
-      },
-      {
-        "start": 155,
-        "end": 158,
-        "vocab_id": "th_d6bbc5"
-      },
-      {
-        "start": 176,
-        "end": 180,
-        "vocab_id": "th_9a4e15"
       },
       {
         "start": 180,
@@ -12722,16 +10376,6 @@
     "translation": "这是 Sa 一直用来安慰自己的话：「如果容易，所有人都做了」。还告诉自己：「旧的钥匙绝对打不开新家的门」。哦，很有深意——所以我的任务就是去找新钥匙——",
     "vocab_ids": [],
     "annotations": [
-      {
-        "start": 0,
-        "end": 6,
-        "vocab_id": "th_f762e4"
-      },
-      {
-        "start": 17,
-        "end": 20,
-        "vocab_id": "th_c6e22a"
-      },
       {
         "start": 26,
         "end": 32,
@@ -12798,11 +10442,6 @@
         "vocab_id": "th_f1f91b"
       },
       {
-        "start": 166,
-        "end": 169,
-        "vocab_id": "th_304e24"
-      },
-      {
         "start": 185,
         "end": 188,
         "vocab_id": "th_8c44aa"
@@ -12853,11 +10492,6 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 8,
-        "end": 11,
-        "vocab_id": "th_304e24"
-      },
-      {
         "start": 28,
         "end": 31,
         "vocab_id": "th_26212c"
@@ -12866,11 +10500,6 @@
         "start": 38,
         "end": 41,
         "vocab_id": "th_8c44aa"
-      },
-      {
-        "start": 46,
-        "end": 49,
-        "vocab_id": "th_304e24"
       },
       {
         "start": 57,
@@ -12941,11 +10570,6 @@
         "start": 54,
         "end": 58,
         "vocab_id": "th_47fb55"
-      },
-      {
-        "start": 60,
-        "end": 63,
-        "vocab_id": "th_fac3b6"
       },
       {
         "start": 72,
@@ -13043,11 +10667,6 @@
         "vocab_id": "th_926bc2"
       },
       {
-        "start": 85,
-        "end": 88,
-        "vocab_id": "th_fac3b6"
-      },
-      {
         "start": 88,
         "end": 93,
         "vocab_id": "th_dc1d87"
@@ -13086,11 +10705,6 @@
         "start": 145,
         "end": 151,
         "vocab_id": "th_e1459f"
-      },
-      {
-        "start": 151,
-        "end": 154,
-        "vocab_id": "th_511484"
       }
     ],
     "is_highlight": false,
@@ -13123,44 +10737,14 @@
         "vocab_id": "th_438d03"
       },
       {
-        "start": 53,
-        "end": 57,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
-        "start": 71,
-        "end": 74,
-        "vocab_id": "th_a1c0cc"
-      },
-      {
         "start": 81,
         "end": 89,
         "vocab_id": "th_19fe70"
       },
       {
-        "start": 93,
-        "end": 97,
-        "vocab_id": "th_b3156f"
-      },
-      {
-        "start": 106,
-        "end": 110,
-        "vocab_id": "th_b3156f"
-      },
-      {
         "start": 116,
         "end": 122,
         "vocab_id": "th_d018e3"
-      },
-      {
-        "start": 143,
-        "end": 147,
-        "vocab_id": "th_b3156f"
-      },
-      {
-        "start": 162,
-        "end": 165,
-        "vocab_id": "th_a1c0cc"
       },
       {
         "start": 175,
@@ -13171,11 +10755,6 @@
         "start": 183,
         "end": 186,
         "vocab_id": "th_5d843d"
-      },
-      {
-        "start": 190,
-        "end": 197,
-        "vocab_id": "th_2b1ee0"
       }
     ],
     "is_highlight": true,
@@ -13218,11 +10797,6 @@
         "vocab_id": "th_bc14de"
       },
       {
-        "start": 116,
-        "end": 123,
-        "vocab_id": "th_2b1ee0"
-      },
-      {
         "start": 126,
         "end": 129,
         "vocab_id": "th_f27937"
@@ -13231,11 +10805,6 @@
         "start": 133,
         "end": 139,
         "vocab_id": "th_d018e3"
-      },
-      {
-        "start": 148,
-        "end": 155,
-        "vocab_id": "th_2b1ee0"
       }
     ],
     "is_highlight": true,
@@ -13253,11 +10822,6 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 8,
-        "end": 13,
-        "vocab_id": "th_a82c82"
-      },
-      {
         "start": 30,
         "end": 42,
         "vocab_id": "v_recharge"
@@ -13266,11 +10830,6 @@
         "start": 43,
         "end": 50,
         "vocab_id": "th_b8239c"
-      },
-      {
-        "start": 50,
-        "end": 53,
-        "vocab_id": "th_c6e22a"
       },
       {
         "start": 59,
@@ -13288,54 +10847,14 @@
         "vocab_id": "th_b8239c"
       },
       {
-        "start": 82,
-        "end": 85,
-        "vocab_id": "th_a1c0cc"
-      },
-      {
-        "start": 98,
-        "end": 101,
-        "vocab_id": "th_a1c0cc"
-      },
-      {
         "start": 101,
         "end": 106,
         "vocab_id": "th_92a5d3"
       },
       {
-        "start": 112,
-        "end": 116,
-        "vocab_id": "th_1b85bc"
-      },
-      {
-        "start": 126,
-        "end": 130,
-        "vocab_id": "th_1b85bc"
-      },
-      {
-        "start": 137,
-        "end": 140,
-        "vocab_id": "th_a1c0cc"
-      },
-      {
         "start": 145,
         "end": 152,
         "vocab_id": "th_5ed2f4"
-      },
-      {
-        "start": 152,
-        "end": 156,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
-        "start": 165,
-        "end": 169,
-        "vocab_id": "th_46dd5b"
-      },
-      {
-        "start": 187,
-        "end": 191,
-        "vocab_id": "th_46dd5b"
       }
     ],
     "is_highlight": true,
@@ -13363,19 +10882,9 @@
         "vocab_id": "th_6f8415"
       },
       {
-        "start": 45,
-        "end": 50,
-        "vocab_id": "th_a82c82"
-      },
-      {
         "start": 58,
         "end": 61,
         "vocab_id": "th_5ffe2a"
-      },
-      {
-        "start": 61,
-        "end": 64,
-        "vocab_id": "th_a1c0cc"
       },
       {
         "start": 70,
@@ -13388,11 +10897,6 @@
         "vocab_id": "th_9dfb3c"
       },
       {
-        "start": 97,
-        "end": 100,
-        "vocab_id": "th_a1c0cc"
-      },
-      {
         "start": 100,
         "end": 103,
         "vocab_id": "th_0c5a48"
@@ -13401,11 +10905,6 @@
         "start": 106,
         "end": 112,
         "vocab_id": "th_fc2487"
-      },
-      {
-        "start": 119,
-        "end": 122,
-        "vocab_id": "th_a1c0cc"
       },
       {
         "start": 122,
@@ -13421,11 +10920,6 @@
         "start": 134,
         "end": 140,
         "vocab_id": "th_864157"
-      },
-      {
-        "start": 149,
-        "end": 155,
-        "vocab_id": "th_a3c09a"
       },
       {
         "start": 180,
@@ -13447,16 +10941,6 @@
     "translation": "——但反过来，「take a break」其实是「recharge（充电）」，为了走得比原来更远。我觉得今天是一堂很好的课。——也从泰国整体来看——今天泰国——",
     "vocab_ids": [],
     "annotations": [
-      {
-        "start": 5,
-        "end": 8,
-        "vocab_id": "th_b8df2f"
-      },
-      {
-        "start": 11,
-        "end": 14,
-        "vocab_id": "th_fac3b6"
-      },
       {
         "start": 19,
         "end": 31,
@@ -13518,39 +11002,9 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 7,
-        "end": 10,
-        "vocab_id": "th_9cf8a2"
-      },
-      {
-        "start": 45,
-        "end": 48,
-        "vocab_id": "th_b8df2f"
-      },
-      {
-        "start": 51,
-        "end": 54,
-        "vocab_id": "th_b8df2f"
-      },
-      {
-        "start": 69,
-        "end": 72,
-        "vocab_id": "th_835a47"
-      },
-      {
-        "start": 83,
-        "end": 86,
-        "vocab_id": "th_835a47"
-      },
-      {
         "start": 89,
         "end": 92,
         "vocab_id": "th_5e15f6"
-      },
-      {
-        "start": 101,
-        "end": 104,
-        "vocab_id": "th_835a47"
       }
     ],
     "is_highlight": true,
@@ -13568,21 +11022,6 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 4,
-        "end": 7,
-        "vocab_id": "th_835a47"
-      },
-      {
-        "start": 19,
-        "end": 22,
-        "vocab_id": "th_835a47"
-      },
-      {
-        "start": 38,
-        "end": 41,
-        "vocab_id": "th_835a47"
-      },
-      {
         "start": 41,
         "end": 47,
         "vocab_id": "th_66c44e"
@@ -13593,19 +11032,9 @@
         "vocab_id": "th_361ae6"
       },
       {
-        "start": 84,
-        "end": 87,
-        "vocab_id": "th_a3e77e"
-      },
-      {
         "start": 96,
         "end": 101,
         "vocab_id": "th_a8784f"
-      },
-      {
-        "start": 138,
-        "end": 141,
-        "vocab_id": "th_835a47"
       },
       {
         "start": 141,
@@ -13657,11 +11086,6 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 11,
-        "end": 14,
-        "vocab_id": "th_13f14f"
-      },
-      {
         "start": 26,
         "end": 29,
         "vocab_id": "th_ce0949"
@@ -13672,11 +11096,6 @@
         "vocab_id": "th_a03be9"
       },
       {
-        "start": 43,
-        "end": 46,
-        "vocab_id": "th_a3e77e"
-      },
-      {
         "start": 46,
         "end": 50,
         "vocab_id": "th_777413"
@@ -13685,16 +11104,6 @@
         "start": 59,
         "end": 64,
         "vocab_id": "th_ad6c8d"
-      },
-      {
-        "start": 70,
-        "end": 73,
-        "vocab_id": "th_b8df2f"
-      },
-      {
-        "start": 76,
-        "end": 80,
-        "vocab_id": "th_1b85bc"
       },
       {
         "start": 80,
@@ -13722,16 +11131,6 @@
         "vocab_id": "th_1f630b"
       },
       {
-        "start": 15,
-        "end": 18,
-        "vocab_id": "th_511484"
-      },
-      {
-        "start": 37,
-        "end": 41,
-        "vocab_id": "th_1b85bc"
-      },
-      {
         "start": 66,
         "end": 69,
         "vocab_id": "th_04148b"
@@ -13742,19 +11141,9 @@
         "vocab_id": "th_bc14de"
       },
       {
-        "start": 82,
-        "end": 85,
-        "vocab_id": "th_a1c0cc"
-      },
-      {
         "start": 108,
         "end": 111,
         "vocab_id": "th_04148b"
-      },
-      {
-        "start": 118,
-        "end": 121,
-        "vocab_id": "th_a1c0cc"
       },
       {
         "start": 121,
@@ -13812,11 +11201,6 @@
         "vocab_id": "th_ee0793"
       },
       {
-        "start": 51,
-        "end": 54,
-        "vocab_id": "th_9cf8a2"
-      },
-      {
         "start": 59,
         "end": 65,
         "vocab_id": "v_braen"
@@ -13837,29 +11221,14 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 11,
-        "end": 17,
-        "vocab_id": "th_a3c09a"
-      },
-      {
         "start": 36,
         "end": 42,
         "vocab_id": "v_braen"
       },
       {
-        "start": 54,
-        "end": 57,
-        "vocab_id": "th_a3e77e"
-      },
-      {
         "start": 59,
         "end": 62,
         "vocab_id": "th_8c44aa"
-      },
-      {
-        "start": 70,
-        "end": 73,
-        "vocab_id": "th_a3e77e"
       },
       {
         "start": 73,
@@ -13872,29 +11241,14 @@
         "vocab_id": "th_6bb39d"
       },
       {
-        "start": 85,
-        "end": 88,
-        "vocab_id": "th_13f14f"
-      },
-      {
         "start": 95,
         "end": 101,
         "vocab_id": "th_864157"
       },
       {
-        "start": 131,
-        "end": 134,
-        "vocab_id": "th_c6e22a"
-      },
-      {
         "start": 137,
         "end": 143,
         "vocab_id": "v_braen"
-      },
-      {
-        "start": 146,
-        "end": 150,
-        "vocab_id": "th_1b85bc"
       },
       {
         "start": 155,
@@ -13916,16 +11270,6 @@
     "translation": "——Sa 成长的年代，有很多设计师朋友、前辈都非常厉害，Sa 很尊敬他们，作品也非常出色。",
     "vocab_ids": [],
     "annotations": [
-      {
-        "start": 0,
-        "end": 4,
-        "vocab_id": "th_1b85bc"
-      },
-      {
-        "start": 7,
-        "end": 10,
-        "vocab_id": "th_c6e22a"
-      },
       {
         "start": 16,
         "end": 19,
@@ -13977,29 +11321,9 @@
         "vocab_id": "th_6664e0"
       },
       {
-        "start": 80,
-        "end": 83,
-        "vocab_id": "th_c6e22a"
-      },
-      {
-        "start": 93,
-        "end": 96,
-        "vocab_id": "th_aa8756"
-      },
-      {
-        "start": 109,
-        "end": 112,
-        "vocab_id": "th_719e92"
-      },
-      {
         "start": 119,
         "end": 125,
         "vocab_id": "th_7cab6c"
-      },
-      {
-        "start": 132,
-        "end": 135,
-        "vocab_id": "th_719e92"
       },
       {
         "start": 137,
@@ -14032,19 +11356,9 @@
         "vocab_id": "th_b5769b"
       },
       {
-        "start": 10,
-        "end": 13,
-        "vocab_id": "th_aa8756"
-      },
-      {
         "start": 16,
         "end": 22,
         "vocab_id": "v_braen"
-      },
-      {
-        "start": 25,
-        "end": 28,
-        "vocab_id": "th_c6e22a"
       },
       {
         "start": 38,
@@ -14100,11 +11414,6 @@
         "start": 143,
         "end": 147,
         "vocab_id": "th_f613b7"
-      },
-      {
-        "start": 153,
-        "end": 156,
-        "vocab_id": "th_aa8756"
       },
       {
         "start": 159,
@@ -14172,11 +11481,6 @@
         "vocab_id": "th_6664e0"
       },
       {
-        "start": 75,
-        "end": 79,
-        "vocab_id": "th_9a4e15"
-      },
-      {
         "start": 80,
         "end": 84,
         "vocab_id": "th_cecc2b"
@@ -14197,11 +11501,6 @@
         "vocab_id": "th_f613b7"
       },
       {
-        "start": 130,
-        "end": 134,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
         "start": 134,
         "end": 138,
         "vocab_id": "th_90ad9a"
@@ -14210,11 +11509,6 @@
         "start": 141,
         "end": 146,
         "vocab_id": "th_299491"
-      },
-      {
-        "start": 147,
-        "end": 151,
-        "vocab_id": "th_c1bfc3"
       },
       {
         "start": 153,
@@ -14282,11 +11576,6 @@
         "vocab_id": "th_926bc2"
       },
       {
-        "start": 43,
-        "end": 46,
-        "vocab_id": "th_719e92"
-      },
-      {
         "start": 61,
         "end": 67,
         "vocab_id": "th_86a47f"
@@ -14305,11 +11594,6 @@
         "start": 96,
         "end": 99,
         "vocab_id": "th_9ef815"
-      },
-      {
-        "start": 102,
-        "end": 105,
-        "vocab_id": "th_aa8756"
       },
       {
         "start": 105,
@@ -14352,24 +11636,9 @@
         "vocab_id": "th_5e15f6"
       },
       {
-        "start": 18,
-        "end": 21,
-        "vocab_id": "th_a1c0cc"
-      },
-      {
-        "start": 46,
-        "end": 49,
-        "vocab_id": "th_719e92"
-      },
-      {
         "start": 57,
         "end": 60,
         "vocab_id": "th_0c5a48"
-      },
-      {
-        "start": 76,
-        "end": 79,
-        "vocab_id": "th_a1c0cc"
       },
       {
         "start": 85,
@@ -14382,19 +11651,9 @@
         "vocab_id": "th_723e80"
       },
       {
-        "start": 99,
-        "end": 102,
-        "vocab_id": "th_a1c0cc"
-      },
-      {
         "start": 113,
         "end": 124,
         "vocab_id": "th_127e3c"
-      },
-      {
-        "start": 131,
-        "end": 134,
-        "vocab_id": "th_a1c0cc"
       },
       {
         "start": 137,
@@ -14427,16 +11686,6 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 6,
-        "end": 9,
-        "vocab_id": "th_a1c0cc"
-      },
-      {
-        "start": 26,
-        "end": 29,
-        "vocab_id": "th_c6e22a"
-      },
-      {
         "start": 32,
         "end": 35,
         "vocab_id": "th_627024"
@@ -14466,11 +11715,6 @@
     "translation": "——真的？——对，这是「学习的学费」。但几个人愿意付这样的学费？因为它不会直接赚钱——是纯粹的 minus（亏损）。Sa 认为那些人缺乏展示的舞台。",
     "vocab_ids": [],
     "annotations": [
-      {
-        "start": 2,
-        "end": 6,
-        "vocab_id": "th_1b85bc"
-      },
       {
         "start": 12,
         "end": 15,
@@ -14512,29 +11756,9 @@
         "vocab_id": "th_7b8872"
       },
       {
-        "start": 104,
-        "end": 108,
-        "vocab_id": "th_1b85bc"
-      },
-      {
         "start": 111,
         "end": 114,
         "vocab_id": "th_b1e66e"
-      },
-      {
-        "start": 122,
-        "end": 125,
-        "vocab_id": "th_f7acd4"
-      },
-      {
-        "start": 130,
-        "end": 134,
-        "vocab_id": "th_9a4e15"
-      },
-      {
-        "start": 148,
-        "end": 151,
-        "vocab_id": "th_c6e22a"
       },
       {
         "start": 156,
@@ -14567,11 +11791,6 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 0,
-        "end": 3,
-        "vocab_id": "th_c6e22a"
-      },
-      {
         "start": 12,
         "end": 16,
         "vocab_id": "th_4b0c73"
@@ -14587,11 +11806,6 @@
         "vocab_id": "th_299491"
       },
       {
-        "start": 47,
-        "end": 50,
-        "vocab_id": "th_c6e22a"
-      },
-      {
         "start": 55,
         "end": 58,
         "vocab_id": "th_477fcc"
@@ -14605,11 +11819,6 @@
         "start": 76,
         "end": 83,
         "vocab_id": "th_b8239c"
-      },
-      {
-        "start": 83,
-        "end": 86,
-        "vocab_id": "th_a1c0cc"
       },
       {
         "start": 86,
@@ -14662,34 +11871,9 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 5,
-        "end": 8,
-        "vocab_id": "th_b8df2f"
-      },
-      {
-        "start": 11,
-        "end": 14,
-        "vocab_id": "th_fac3b6"
-      },
-      {
-        "start": 15,
-        "end": 21,
-        "vocab_id": "th_f762e4"
-      },
-      {
-        "start": 41,
-        "end": 44,
-        "vocab_id": "th_a1c0cc"
-      },
-      {
         "start": 44,
         "end": 53,
         "vocab_id": "th_361ae6"
-      },
-      {
-        "start": 57,
-        "end": 60,
-        "vocab_id": "th_a1c0cc"
       },
       {
         "start": 60,
@@ -14702,24 +11886,9 @@
         "vocab_id": "th_627024"
       },
       {
-        "start": 69,
-        "end": 72,
-        "vocab_id": "th_719e92"
-      },
-      {
-        "start": 76,
-        "end": 79,
-        "vocab_id": "th_d6bbc5"
-      },
-      {
         "start": 96,
         "end": 100,
         "vocab_id": "th_ca3e3a"
-      },
-      {
-        "start": 101,
-        "end": 104,
-        "vocab_id": "th_9cf8a2"
       },
       {
         "start": 118,
@@ -14752,11 +11921,6 @@
         "vocab_id": "th_68aa2b"
       },
       {
-        "start": 180,
-        "end": 185,
-        "vocab_id": "th_a82c82"
-      },
-      {
         "start": 193,
         "end": 198,
         "vocab_id": "th_c5f89e"
@@ -14782,24 +11946,9 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 25,
-        "end": 29,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
         "start": 31,
         "end": 34,
         "vocab_id": "th_477fcc"
-      },
-      {
-        "start": 40,
-        "end": 44,
-        "vocab_id": "th_1b85bc"
-      },
-      {
-        "start": 48,
-        "end": 51,
-        "vocab_id": "th_9cf8a2"
       },
       {
         "start": 59,
@@ -14817,24 +11966,9 @@
         "vocab_id": "th_c2f5bd"
       },
       {
-        "start": 108,
-        "end": 111,
-        "vocab_id": "th_13f14f"
-      },
-      {
         "start": 114,
         "end": 120,
         "vocab_id": "th_f3c25a"
-      },
-      {
-        "start": 137,
-        "end": 140,
-        "vocab_id": "th_ef0610"
-      },
-      {
-        "start": 145,
-        "end": 148,
-        "vocab_id": "th_304e24"
       }
     ],
     "is_highlight": true,
@@ -14851,11 +11985,6 @@
     "translation": "——Sa 想说：每个人都在 suffer（挣扎）。但我想说——隧道的尽头会有光，我们必须去找到它。Sa 当时也是「八方漆黑」。但当我们感到——",
     "vocab_ids": [],
     "annotations": [
-      {
-        "start": 6,
-        "end": 9,
-        "vocab_id": "th_9cf8a2"
-      },
       {
         "start": 18,
         "end": 23,
@@ -14890,11 +12019,6 @@
         "start": 109,
         "end": 112,
         "vocab_id": "th_23f72b"
-      },
-      {
-        "start": 113,
-        "end": 119,
-        "vocab_id": "th_a3c09a"
       },
       {
         "start": 119,
@@ -14952,24 +12076,9 @@
         "vocab_id": "th_c7be15"
       },
       {
-        "start": 64,
-        "end": 67,
-        "vocab_id": "th_c6e22a"
-      },
-      {
         "start": 77,
         "end": 81,
         "vocab_id": "th_83c07c"
-      },
-      {
-        "start": 86,
-        "end": 90,
-        "vocab_id": "th_1b85bc"
-      },
-      {
-        "start": 93,
-        "end": 97,
-        "vocab_id": "th_1b85bc"
       },
       {
         "start": 110,
@@ -15017,11 +12126,6 @@
         "vocab_id": "th_8ccd11"
       },
       {
-        "start": 35,
-        "end": 38,
-        "vocab_id": "th_b8df2f"
-      },
-      {
         "start": 44,
         "end": 49,
         "vocab_id": "th_6f8415"
@@ -15030,11 +12134,6 @@
         "start": 67,
         "end": 75,
         "vocab_id": "th_ac5d5b"
-      },
-      {
-        "start": 76,
-        "end": 79,
-        "vocab_id": "th_c6e22a"
       },
       {
         "start": 93,
@@ -15066,11 +12165,6 @@
     "translation": "——不管是政治新闻、世界经济还是什么——Sa 都告诉团队：我们曾经经历过最难的时刻，那时几乎要倒闭。",
     "vocab_ids": [],
     "annotations": [
-      {
-        "start": 20,
-        "end": 23,
-        "vocab_id": "th_56a178"
-      },
       {
         "start": 25,
         "end": 30,
@@ -15105,11 +12199,6 @@
         "start": 75,
         "end": 79,
         "vocab_id": "th_880656"
-      },
-      {
-        "start": 86,
-        "end": 89,
-        "vocab_id": "th_9cf8a2"
       },
       {
         "start": 89,
@@ -15225,21 +12314,6 @@
         "start": 160,
         "end": 169,
         "vocab_id": "th_361ae6"
-      },
-      {
-        "start": 180,
-        "end": 186,
-        "vocab_id": "th_f762e4"
-      },
-      {
-        "start": 197,
-        "end": 200,
-        "vocab_id": "th_a1c0cc"
-      },
-      {
-        "start": 201,
-        "end": 204,
-        "vocab_id": "th_9cf8a2"
       }
     ],
     "is_highlight": true,
@@ -15262,19 +12336,9 @@
         "vocab_id": "th_13ea42"
       },
       {
-        "start": 18,
-        "end": 22,
-        "vocab_id": "th_9a4e15"
-      },
-      {
         "start": 22,
         "end": 28,
         "vocab_id": "v_yɔɔmpɛɛ"
-      },
-      {
-        "start": 51,
-        "end": 54,
-        "vocab_id": "th_13f14f"
       },
       {
         "start": 62,
@@ -15388,24 +12452,9 @@
         "vocab_id": "th_6bb39d"
       },
       {
-        "start": 18,
-        "end": 22,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
         "start": 29,
         "end": 32,
         "vocab_id": "th_f27937"
-      },
-      {
-        "start": 61,
-        "end": 65,
-        "vocab_id": "th_9a4e15"
-      },
-      {
-        "start": 82,
-        "end": 86,
-        "vocab_id": "th_c1bfc3"
       },
       {
         "start": 92,
@@ -15461,11 +12510,6 @@
         "start": 18,
         "end": 27,
         "vocab_id": "th_8483be"
-      },
-      {
-        "start": 33,
-        "end": 36,
-        "vocab_id": "th_719e92"
       },
       {
         "start": 80,
@@ -15568,34 +12612,14 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 6,
-        "end": 9,
-        "vocab_id": "th_d6bbc5"
-      },
-      {
         "start": 10,
         "end": 22,
         "vocab_id": "th_7b8083"
       },
       {
-        "start": 45,
-        "end": 48,
-        "vocab_id": "th_ef241a"
-      },
-      {
-        "start": 48,
-        "end": 52,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
         "start": 52,
         "end": 56,
         "vocab_id": "th_880656"
-      },
-      {
-        "start": 56,
-        "end": 59,
-        "vocab_id": "th_b8df2f"
       },
       {
         "start": 71,
@@ -15621,11 +12645,6 @@
         "start": 102,
         "end": 105,
         "vocab_id": "th_bc9418"
-      },
-      {
-        "start": 106,
-        "end": 109,
-        "vocab_id": "th_aa8756"
       },
       {
         "start": 115,
@@ -15663,11 +12682,6 @@
         "vocab_id": "th_627024"
       },
       {
-        "start": 33,
-        "end": 36,
-        "vocab_id": "th_fac3b6"
-      },
-      {
         "start": 44,
         "end": 50,
         "vocab_id": "th_8bc313"
@@ -15676,11 +12690,6 @@
         "start": 52,
         "end": 56,
         "vocab_id": "th_3c6e4b"
-      },
-      {
-        "start": 76,
-        "end": 80,
-        "vocab_id": "th_46dd5b"
       },
       {
         "start": 86,
@@ -15708,11 +12717,6 @@
         "vocab_id": "th_f27937"
       },
       {
-        "start": 147,
-        "end": 151,
-        "vocab_id": "th_9a4e15"
-      },
-      {
         "start": 152,
         "end": 161,
         "vocab_id": "th_f19a38"
@@ -15736,11 +12740,6 @@
         "start": 2,
         "end": 5,
         "vocab_id": "th_c9b40e"
-      },
-      {
-        "start": 34,
-        "end": 37,
-        "vocab_id": "th_13f14f"
       },
       {
         "start": 50,
@@ -15796,11 +12795,6 @@
         "start": 12,
         "end": 15,
         "vocab_id": "th_95ac5e"
-      },
-      {
-        "start": 24,
-        "end": 28,
-        "vocab_id": "th_c1bfc3"
       },
       {
         "start": 28,
@@ -15873,11 +12867,6 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 6,
-        "end": 11,
-        "vocab_id": "th_7d1517"
-      },
-      {
         "start": 38,
         "end": 43,
         "vocab_id": "th_4946e4"
@@ -15891,11 +12880,6 @@
         "start": 82,
         "end": 85,
         "vocab_id": "th_399c53"
-      },
-      {
-        "start": 85,
-        "end": 88,
-        "vocab_id": "th_d6bbc5"
       },
       {
         "start": 94,
@@ -15923,19 +12907,9 @@
         "vocab_id": "th_8bc313"
       },
       {
-        "start": 45,
-        "end": 48,
-        "vocab_id": "th_13f14f"
-      },
-      {
         "start": 51,
         "end": 56,
         "vocab_id": "th_a42b89"
-      },
-      {
-        "start": 56,
-        "end": 60,
-        "vocab_id": "th_313977"
       },
       {
         "start": 65,
@@ -15993,39 +12967,14 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 3,
-        "end": 6,
-        "vocab_id": "th_13f14f"
-      },
-      {
-        "start": 6,
-        "end": 9,
-        "vocab_id": "th_fac3b6"
-      },
-      {
         "start": 18,
         "end": 21,
         "vocab_id": "th_1277eb"
       },
       {
-        "start": 22,
-        "end": 26,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
-        "start": 36,
-        "end": 40,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
         "start": 87,
         "end": 90,
         "vocab_id": "th_b29d66"
-      },
-      {
-        "start": 95,
-        "end": 98,
-        "vocab_id": "th_aa8756"
       },
       {
         "start": 98,
@@ -16176,11 +13125,6 @@
         "start": 89,
         "end": 92,
         "vocab_id": "th_dd6898"
-      },
-      {
-        "start": 92,
-        "end": 96,
-        "vocab_id": "th_9a4e15"
       }
     ],
     "is_highlight": false,
@@ -16213,11 +13157,6 @@
         "vocab_id": "th_5ed2f4"
       },
       {
-        "start": 37,
-        "end": 41,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
         "start": 47,
         "end": 52,
         "vocab_id": "th_4946e4"
@@ -16241,16 +13180,6 @@
         "start": 109,
         "end": 112,
         "vocab_id": "th_2b01dc"
-      },
-      {
-        "start": 116,
-        "end": 119,
-        "vocab_id": "th_ef241a"
-      },
-      {
-        "start": 121,
-        "end": 124,
-        "vocab_id": "th_13f14f"
       }
     ],
     "is_highlight": false,
@@ -16273,11 +13202,6 @@
         "vocab_id": "th_0fa373"
       },
       {
-        "start": 8,
-        "end": 12,
-        "vocab_id": "th_b3156f"
-      },
-      {
         "start": 18,
         "end": 22,
         "vocab_id": "th_90ad9a"
@@ -16296,11 +13220,6 @@
         "start": 34,
         "end": 39,
         "vocab_id": "th_81538f"
-      },
-      {
-        "start": 51,
-        "end": 56,
-        "vocab_id": "th_422f43"
       },
       {
         "start": 59,
@@ -16363,11 +13282,6 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 0,
-        "end": 4,
-        "vocab_id": "th_9a4e15"
-      },
-      {
         "start": 10,
         "end": 15,
         "vocab_id": "th_cdd890"
@@ -16383,11 +13297,6 @@
         "vocab_id": "th_b97c11"
       },
       {
-        "start": 35,
-        "end": 40,
-        "vocab_id": "th_422f43"
-      },
-      {
         "start": 40,
         "end": 43,
         "vocab_id": "th_399c53"
@@ -16401,11 +13310,6 @@
         "start": 56,
         "end": 63,
         "vocab_id": "th_b7c663"
-      },
-      {
-        "start": 63,
-        "end": 67,
-        "vocab_id": "th_b3156f"
       },
       {
         "start": 83,
@@ -16443,19 +13347,9 @@
         "vocab_id": "th_df7a40"
       },
       {
-        "start": 20,
-        "end": 24,
-        "vocab_id": "th_9a4e15"
-      },
-      {
         "start": 25,
         "end": 31,
         "vocab_id": "th_ecbc37"
-      },
-      {
-        "start": 43,
-        "end": 46,
-        "vocab_id": "th_421c39"
       },
       {
         "start": 56,
@@ -16468,24 +13362,9 @@
         "vocab_id": "th_d05232"
       },
       {
-        "start": 66,
-        "end": 70,
-        "vocab_id": "th_b3156f"
-      },
-      {
         "start": 76,
         "end": 80,
         "vocab_id": "th_90ad9a"
-      },
-      {
-        "start": 80,
-        "end": 84,
-        "vocab_id": "th_1b85bc"
-      },
-      {
-        "start": 84,
-        "end": 88,
-        "vocab_id": "th_1b85bc"
       },
       {
         "start": 89,
@@ -16518,19 +13397,9 @@
         "vocab_id": "th_b42c56"
       },
       {
-        "start": 149,
-        "end": 153,
-        "vocab_id": "th_b3156f"
-      },
-      {
         "start": 165,
         "end": 171,
         "vocab_id": "th_4041dd"
-      },
-      {
-        "start": 178,
-        "end": 181,
-        "vocab_id": "th_56a178"
       },
       {
         "start": 181,
@@ -16541,11 +13410,6 @@
         "start": 188,
         "end": 194,
         "vocab_id": "th_28ad60"
-      },
-      {
-        "start": 195,
-        "end": 198,
-        "vocab_id": "th_aa8756"
       },
       {
         "start": 198,
@@ -16561,11 +13425,6 @@
         "start": 207,
         "end": 213,
         "vocab_id": "th_204887"
-      },
-      {
-        "start": 220,
-        "end": 224,
-        "vocab_id": "th_b3156f"
       },
       {
         "start": 227,
@@ -16588,11 +13447,6 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 6,
-        "end": 9,
-        "vocab_id": "th_56a178"
-      },
-      {
         "start": 9,
         "end": 12,
         "vocab_id": "th_6bb39d"
@@ -16608,11 +13462,6 @@
         "vocab_id": "th_28ad60"
       },
       {
-        "start": 29,
-        "end": 32,
-        "vocab_id": "th_aa8756"
-      },
-      {
         "start": 32,
         "end": 35,
         "vocab_id": "th_3deebc"
@@ -16626,11 +13475,6 @@
         "start": 41,
         "end": 47,
         "vocab_id": "th_204887"
-      },
-      {
-        "start": 54,
-        "end": 58,
-        "vocab_id": "th_b3156f"
       },
       {
         "start": 61,
@@ -16706,16 +13550,6 @@
         "start": 13,
         "end": 16,
         "vocab_id": "th_f0c16c"
-      },
-      {
-        "start": 29,
-        "end": 32,
-        "vocab_id": "th_ef0610"
-      },
-      {
-        "start": 32,
-        "end": 36,
-        "vocab_id": "th_b3156f"
       },
       {
         "start": 47,
@@ -16806,11 +13640,6 @@
         "start": 21,
         "end": 26,
         "vocab_id": "th_dd422b"
-      },
-      {
-        "start": 26,
-        "end": 29,
-        "vocab_id": "th_fac3b6"
       }
     ],
     "is_highlight": false,
@@ -16846,11 +13675,6 @@
         "start": 38,
         "end": 46,
         "vocab_id": "th_1dd5e4"
-      },
-      {
-        "start": 46,
-        "end": 50,
-        "vocab_id": "th_b3156f"
       },
       {
         "start": 56,
@@ -16913,29 +13737,14 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 18,
-        "end": 22,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
         "start": 22,
         "end": 26,
         "vocab_id": "th_723e80"
       },
       {
-        "start": 30,
-        "end": 33,
-        "vocab_id": "th_b8df2f"
-      },
-      {
         "start": 33,
         "end": 41,
         "vocab_id": "th_9f87d1"
-      },
-      {
-        "start": 61,
-        "end": 65,
-        "vocab_id": "th_b3156f"
       },
       {
         "start": 74,
@@ -16946,16 +13755,6 @@
         "start": 106,
         "end": 112,
         "vocab_id": "th_fc2487"
-      },
-      {
-        "start": 112,
-        "end": 117,
-        "vocab_id": "th_7d1517"
-      },
-      {
-        "start": 125,
-        "end": 129,
-        "vocab_id": "th_b3156f"
       },
       {
         "start": 129,
@@ -16986,11 +13785,6 @@
         "start": 166,
         "end": 174,
         "vocab_id": "th_342b24"
-      },
-      {
-        "start": 174,
-        "end": 178,
-        "vocab_id": "th_b3156f"
       },
       {
         "start": 180,
@@ -17078,29 +13872,14 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 0,
-        "end": 3,
-        "vocab_id": "th_ef0610"
-      },
-      {
         "start": 9,
         "end": 12,
         "vocab_id": "th_f0c16c"
       },
       {
-        "start": 18,
-        "end": 21,
-        "vocab_id": "th_aa8756"
-      },
-      {
         "start": 23,
         "end": 29,
         "vocab_id": "th_1f630b"
-      },
-      {
-        "start": 39,
-        "end": 43,
-        "vocab_id": "th_b3156f"
       },
       {
         "start": 49,
@@ -17126,16 +13905,6 @@
         "start": 86,
         "end": 91,
         "vocab_id": "th_f82983"
-      },
-      {
-        "start": 95,
-        "end": 99,
-        "vocab_id": "th_b3156f"
-      },
-      {
-        "start": 106,
-        "end": 109,
-        "vocab_id": "th_ef241a"
       },
       {
         "start": 109,
@@ -17263,11 +14032,6 @@
         "vocab_id": "th_6bb39d"
       },
       {
-        "start": 8,
-        "end": 12,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
         "start": 24,
         "end": 35,
         "vocab_id": "th_a47bdd"
@@ -17343,11 +14107,6 @@
         "vocab_id": "th_552778"
       },
       {
-        "start": 26,
-        "end": 31,
-        "vocab_id": "th_422f43"
-      },
-      {
         "start": 35,
         "end": 38,
         "vocab_id": "th_399c53"
@@ -17388,11 +14147,6 @@
         "vocab_id": "th_ad6aa5"
       },
       {
-        "start": 115,
-        "end": 118,
-        "vocab_id": "th_ef241a"
-      },
-      {
         "start": 118,
         "end": 123,
         "vocab_id": "th_690979"
@@ -17401,11 +14155,6 @@
         "start": 133,
         "end": 140,
         "vocab_id": "th_32e8be"
-      },
-      {
-        "start": 140,
-        "end": 145,
-        "vocab_id": "th_7d1517"
       },
       {
         "start": 150,
@@ -17427,16 +14176,6 @@
     "romanization": "",
     "vocab_ids": [],
     "annotations": [
-      {
-        "start": 10,
-        "end": 13,
-        "vocab_id": "th_ef0610"
-      },
-      {
-        "start": 19,
-        "end": 23,
-        "vocab_id": "th_b3156f"
-      },
       {
         "start": 30,
         "end": 36,
@@ -17498,11 +14237,6 @@
         "vocab_id": "th_dd2434"
       },
       {
-        "start": 24,
-        "end": 27,
-        "vocab_id": "th_b8df2f"
-      },
-      {
         "start": 27,
         "end": 35,
         "vocab_id": "th_ac5d5b"
@@ -17513,19 +14247,9 @@
         "vocab_id": "th_b97c11"
       },
       {
-        "start": 47,
-        "end": 50,
-        "vocab_id": "th_ef241a"
-      },
-      {
         "start": 63,
         "end": 71,
         "vocab_id": "th_1dd5e4"
-      },
-      {
-        "start": 74,
-        "end": 78,
-        "vocab_id": "th_b3156f"
       },
       {
         "start": 84,
@@ -17578,11 +14302,6 @@
         "vocab_id": "th_a23f66"
       },
       {
-        "start": 172,
-        "end": 175,
-        "vocab_id": "th_13f14f"
-      },
-      {
         "start": 179,
         "end": 185,
         "vocab_id": "th_52905a"
@@ -17623,11 +14342,6 @@
         "vocab_id": "th_f62e0b"
       },
       {
-        "start": 22,
-        "end": 25,
-        "vocab_id": "th_fac3b6"
-      },
-      {
         "start": 29,
         "end": 34,
         "vocab_id": "th_81538f"
@@ -17636,11 +14350,6 @@
         "start": 37,
         "end": 40,
         "vocab_id": "th_3d6967"
-      },
-      {
-        "start": 40,
-        "end": 45,
-        "vocab_id": "th_422f43"
       },
       {
         "start": 48,
@@ -17718,11 +14427,6 @@
         "vocab_id": "th_457c3c"
       },
       {
-        "start": 37,
-        "end": 41,
-        "vocab_id": "th_b3156f"
-      },
-      {
         "start": 57,
         "end": 64,
         "vocab_id": "th_64802b"
@@ -17756,11 +14460,6 @@
         "start": 123,
         "end": 132,
         "vocab_id": "th_a62583"
-      },
-      {
-        "start": 132,
-        "end": 136,
-        "vocab_id": "th_1b85bc"
       },
       {
         "start": 137,
@@ -17808,11 +14507,6 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 0,
-        "end": 4,
-        "vocab_id": "th_b3156f"
-      },
-      {
         "start": 10,
         "end": 15,
         "vocab_id": "th_f82983"
@@ -17821,11 +14515,6 @@
         "start": 15,
         "end": 19,
         "vocab_id": "th_b68665"
-      },
-      {
-        "start": 19,
-        "end": 23,
-        "vocab_id": "th_9a4e15"
       },
       {
         "start": 24,
@@ -17903,11 +14592,6 @@
         "vocab_id": "th_f82983"
       },
       {
-        "start": 14,
-        "end": 18,
-        "vocab_id": "th_b3156f"
-      },
-      {
         "start": 21,
         "end": 28,
         "vocab_id": "th_f58190"
@@ -17926,11 +14610,6 @@
         "start": 46,
         "end": 52,
         "vocab_id": "v_prathet"
-      },
-      {
-        "start": 62,
-        "end": 67,
-        "vocab_id": "th_a82c82"
       },
       {
         "start": 73,
@@ -17961,16 +14640,6 @@
         "start": 8,
         "end": 19,
         "vocab_id": "th_127e3c"
-      },
-      {
-        "start": 22,
-        "end": 26,
-        "vocab_id": "th_b3156f"
-      },
-      {
-        "start": 37,
-        "end": 42,
-        "vocab_id": "th_422f43"
       },
       {
         "start": 42,
@@ -18028,11 +14697,6 @@
         "vocab_id": "th_da232f"
       },
       {
-        "start": 147,
-        "end": 151,
-        "vocab_id": "th_b3156f"
-      },
-      {
         "start": 154,
         "end": 163,
         "vocab_id": "th_79319a"
@@ -18063,19 +14727,9 @@
         "vocab_id": "th_f09b21"
       },
       {
-        "start": 19,
-        "end": 23,
-        "vocab_id": "th_1b85bc"
-      },
-      {
         "start": 24,
         "end": 27,
         "vocab_id": "th_5bae05"
-      },
-      {
-        "start": 32,
-        "end": 36,
-        "vocab_id": "th_b3156f"
       },
       {
         "start": 39,
@@ -18148,11 +14802,6 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 2,
-        "end": 6,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
         "start": 22,
         "end": 27,
         "vocab_id": "th_6eca68"
@@ -18168,11 +14817,6 @@
         "vocab_id": "th_5ed2f4"
       },
       {
-        "start": 64,
-        "end": 68,
-        "vocab_id": "th_9a4e15"
-      },
-      {
         "start": 72,
         "end": 76,
         "vocab_id": "th_8da13b"
@@ -18186,11 +14830,6 @@
         "start": 88,
         "end": 91,
         "vocab_id": "th_2564e9"
-      },
-      {
-        "start": 97,
-        "end": 102,
-        "vocab_id": "th_422f43"
       },
       {
         "start": 102,
@@ -18218,24 +14857,9 @@
         "vocab_id": "th_cd2186"
       },
       {
-        "start": 140,
-        "end": 143,
-        "vocab_id": "th_ef0610"
-      },
-      {
         "start": 147,
         "end": 155,
         "vocab_id": "th_68d57e"
-      },
-      {
-        "start": 161,
-        "end": 165,
-        "vocab_id": "th_9a4e15"
-      },
-      {
-        "start": 168,
-        "end": 171,
-        "vocab_id": "th_13f14f"
       },
       {
         "start": 176,
@@ -18278,11 +14902,6 @@
         "vocab_id": "th_3deebc"
       },
       {
-        "start": 42,
-        "end": 47,
-        "vocab_id": "th_a82c82"
-      },
-      {
         "start": 49,
         "end": 52,
         "vocab_id": "th_744c7d"
@@ -18306,11 +14925,6 @@
         "start": 138,
         "end": 145,
         "vocab_id": "th_633e1c"
-      },
-      {
-        "start": 145,
-        "end": 148,
-        "vocab_id": "th_56a178"
       }
     ],
     "is_highlight": false,
@@ -18363,11 +14977,6 @@
         "vocab_id": "th_880656"
       },
       {
-        "start": 106,
-        "end": 110,
-        "vocab_id": "th_b3156f"
-      },
-      {
         "start": 115,
         "end": 120,
         "vocab_id": "th_f82983"
@@ -18376,11 +14985,6 @@
         "start": 120,
         "end": 127,
         "vocab_id": "th_f58190"
-      },
-      {
-        "start": 127,
-        "end": 131,
-        "vocab_id": "th_b3156f"
       },
       {
         "start": 142,
@@ -18448,11 +15052,6 @@
         "vocab_id": "th_880656"
       },
       {
-        "start": 66,
-        "end": 70,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
         "start": 70,
         "end": 73,
         "vocab_id": "th_ce0949"
@@ -18466,16 +15065,6 @@
         "start": 85,
         "end": 93,
         "vocab_id": "th_ac5d5b"
-      },
-      {
-        "start": 94,
-        "end": 98,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
-        "start": 102,
-        "end": 106,
-        "vocab_id": "th_313977"
       },
       {
         "start": 116,
@@ -18538,11 +15127,6 @@
         "vocab_id": "th_9ddb38"
       },
       {
-        "start": 8,
-        "end": 11,
-        "vocab_id": "th_ef241a"
-      },
-      {
         "start": 11,
         "end": 16,
         "vocab_id": "th_690979"
@@ -18558,19 +15142,9 @@
         "vocab_id": "th_28cb1f"
       },
       {
-        "start": 43,
-        "end": 47,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
         "start": 61,
         "end": 65,
         "vocab_id": "th_cd2186"
-      },
-      {
-        "start": 65,
-        "end": 68,
-        "vocab_id": "th_ef0610"
       },
       {
         "start": 72,
@@ -18603,11 +15177,6 @@
         "vocab_id": "th_8af7eb"
       },
       {
-        "start": 16,
-        "end": 21,
-        "vocab_id": "th_a82c82"
-      },
-      {
         "start": 25,
         "end": 29,
         "vocab_id": "th_68aa2b"
@@ -18621,11 +15190,6 @@
         "start": 49,
         "end": 54,
         "vocab_id": "th_a42b89"
-      },
-      {
-        "start": 59,
-        "end": 64,
-        "vocab_id": "th_7d1517"
       }
     ],
     "is_highlight": false,
@@ -18656,11 +15220,6 @@
         "start": 16,
         "end": 19,
         "vocab_id": "th_30319c"
-      },
-      {
-        "start": 25,
-        "end": 30,
-        "vocab_id": "th_422f43"
       },
       {
         "start": 32,
@@ -18708,19 +15267,9 @@
         "vocab_id": "th_bd5d57"
       },
       {
-        "start": 40,
-        "end": 43,
-        "vocab_id": "th_fac3b6"
-      },
-      {
         "start": 55,
         "end": 58,
         "vocab_id": "th_5bae05"
-      },
-      {
-        "start": 67,
-        "end": 71,
-        "vocab_id": "th_b3156f"
       },
       {
         "start": 77,
@@ -18743,11 +15292,6 @@
         "vocab_id": "th_b4278c"
       },
       {
-        "start": 112,
-        "end": 117,
-        "vocab_id": "th_422f43"
-      },
-      {
         "start": 136,
         "end": 141,
         "vocab_id": "th_8c4ab1"
@@ -18761,11 +15305,6 @@
         "start": 154,
         "end": 160,
         "vocab_id": "th_1c4fba"
-      },
-      {
-        "start": 160,
-        "end": 164,
-        "vocab_id": "th_1b85bc"
       },
       {
         "start": 166,
@@ -18793,11 +15332,6 @@
         "vocab_id": "th_b97c11"
       },
       {
-        "start": 7,
-        "end": 12,
-        "vocab_id": "th_422f43"
-      },
-      {
         "start": 12,
         "end": 15,
         "vocab_id": "th_399c53"
@@ -18813,11 +15347,6 @@
         "vocab_id": "th_b7c663"
       },
       {
-        "start": 35,
-        "end": 39,
-        "vocab_id": "th_b3156f"
-      },
-      {
         "start": 55,
         "end": 58,
         "vocab_id": "th_30319c"
@@ -18826,11 +15355,6 @@
         "start": 64,
         "end": 68,
         "vocab_id": "th_b97c11"
-      },
-      {
-        "start": 68,
-        "end": 71,
-        "vocab_id": "th_b8df2f"
       },
       {
         "start": 71,
@@ -18868,16 +15392,6 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 3,
-        "end": 7,
-        "vocab_id": "th_b3156f"
-      },
-      {
-        "start": 10,
-        "end": 15,
-        "vocab_id": "th_422f43"
-      },
-      {
         "start": 22,
         "end": 26,
         "vocab_id": "th_b1b916"
@@ -18886,11 +15400,6 @@
         "start": 31,
         "end": 35,
         "vocab_id": "th_b97c11"
-      },
-      {
-        "start": 35,
-        "end": 40,
-        "vocab_id": "th_422f43"
       },
       {
         "start": 40,
@@ -18916,11 +15425,6 @@
         "start": 87,
         "end": 94,
         "vocab_id": "th_286e73"
-      },
-      {
-        "start": 97,
-        "end": 101,
-        "vocab_id": "th_b3156f"
       },
       {
         "start": 105,
@@ -18958,11 +15462,6 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 9,
-        "end": 13,
-        "vocab_id": "th_b3156f"
-      },
-      {
         "start": 16,
         "end": 21,
         "vocab_id": "th_9ddb38"
@@ -18981,16 +15480,6 @@
         "start": 50,
         "end": 61,
         "vocab_id": "th_a47bdd"
-      },
-      {
-        "start": 75,
-        "end": 78,
-        "vocab_id": "th_ef0610"
-      },
-      {
-        "start": 78,
-        "end": 82,
-        "vocab_id": "th_b3156f"
       },
       {
         "start": 104,
@@ -19031,16 +15520,6 @@
         "start": 6,
         "end": 11,
         "vocab_id": "th_f20d05"
-      },
-      {
-        "start": 15,
-        "end": 19,
-        "vocab_id": "th_1b85bc"
-      },
-      {
-        "start": 26,
-        "end": 30,
-        "vocab_id": "th_b3156f"
       },
       {
         "start": 48,
@@ -19218,11 +15697,6 @@
         "vocab_id": "th_cbe392"
       },
       {
-        "start": 63,
-        "end": 66,
-        "vocab_id": "th_fac3b6"
-      },
-      {
         "start": 96,
         "end": 105,
         "vocab_id": "th_cbe392"
@@ -19236,11 +15710,6 @@
         "start": 113,
         "end": 118,
         "vocab_id": "th_6eca68"
-      },
-      {
-        "start": 129,
-        "end": 133,
-        "vocab_id": "th_c1bfc3"
       },
       {
         "start": 145,
@@ -19283,11 +15752,6 @@
         "vocab_id": "th_91c892"
       },
       {
-        "start": 96,
-        "end": 99,
-        "vocab_id": "th_b8df2f"
-      },
-      {
         "start": 112,
         "end": 121,
         "vocab_id": "th_775be6"
@@ -19301,11 +15765,6 @@
         "start": 129,
         "end": 137,
         "vocab_id": "th_d887d2"
-      },
-      {
-        "start": 137,
-        "end": 141,
-        "vocab_id": "th_9a4e15"
       }
     ],
     "is_highlight": false,
@@ -19343,11 +15802,6 @@
         "vocab_id": "th_b97c11"
       },
       {
-        "start": 58,
-        "end": 62,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
         "start": 62,
         "end": 69,
         "vocab_id": "th_5ed2f4"
@@ -19381,11 +15835,6 @@
         "start": 118,
         "end": 124,
         "vocab_id": "th_e1459f"
-      },
-      {
-        "start": 131,
-        "end": 135,
-        "vocab_id": "th_b3156f"
       },
       {
         "start": 141,
@@ -19428,11 +15877,6 @@
         "vocab_id": "th_bd2531"
       },
       {
-        "start": 27,
-        "end": 31,
-        "vocab_id": "th_1b85bc"
-      },
-      {
         "start": 42,
         "end": 47,
         "vocab_id": "th_28cb1f"
@@ -19453,11 +15897,6 @@
         "vocab_id": "th_72363b"
       },
       {
-        "start": 97,
-        "end": 101,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
         "start": 104,
         "end": 109,
         "vocab_id": "th_8c4ab1"
@@ -19471,11 +15910,6 @@
         "start": 151,
         "end": 156,
         "vocab_id": "th_f20d05"
-      },
-      {
-        "start": 160,
-        "end": 163,
-        "vocab_id": "th_ef0610"
       }
     ],
     "is_highlight": false,
@@ -19493,19 +15927,9 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 4,
-        "end": 7,
-        "vocab_id": "th_aa8756"
-      },
-      {
         "start": 9,
         "end": 12,
         "vocab_id": "th_6bb39d"
-      },
-      {
-        "start": 12,
-        "end": 15,
-        "vocab_id": "th_fac3b6"
       },
       {
         "start": 15,
@@ -19533,34 +15957,14 @@
         "vocab_id": "th_9efdb4"
       },
       {
-        "start": 100,
-        "end": 103,
-        "vocab_id": "th_13f14f"
-      },
-      {
         "start": 108,
         "end": 111,
         "vocab_id": "th_04da82"
       },
       {
-        "start": 142,
-        "end": 147,
-        "vocab_id": "th_7d1517"
-      },
-      {
-        "start": 158,
-        "end": 162,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
         "start": 168,
         "end": 176,
         "vocab_id": "th_1dd5e4"
-      },
-      {
-        "start": 176,
-        "end": 181,
-        "vocab_id": "th_7d1517"
       },
       {
         "start": 188,
@@ -19586,11 +15990,6 @@
         "start": 5,
         "end": 9,
         "vocab_id": "th_1d31fb"
-      },
-      {
-        "start": 9,
-        "end": 13,
-        "vocab_id": "th_c1bfc3"
       },
       {
         "start": 27,
@@ -19628,19 +16027,9 @@
         "vocab_id": "th_cbe392"
       },
       {
-        "start": 126,
-        "end": 129,
-        "vocab_id": "th_aa8756"
-      },
-      {
         "start": 129,
         "end": 132,
         "vocab_id": "th_6018a4"
-      },
-      {
-        "start": 141,
-        "end": 144,
-        "vocab_id": "th_719e92"
       },
       {
         "start": 144,
@@ -19683,11 +16072,6 @@
         "vocab_id": "th_9f87d1"
       },
       {
-        "start": 53,
-        "end": 56,
-        "vocab_id": "th_13f14f"
-      },
-      {
         "start": 80,
         "end": 83,
         "vocab_id": "th_26212c"
@@ -19696,11 +16080,6 @@
         "start": 106,
         "end": 111,
         "vocab_id": "th_57042b"
-      },
-      {
-        "start": 126,
-        "end": 129,
-        "vocab_id": "th_aa8756"
       },
       {
         "start": 146,
@@ -19838,11 +16217,6 @@
         "vocab_id": "th_d887d2"
       },
       {
-        "start": 191,
-        "end": 195,
-        "vocab_id": "th_9a4e15"
-      },
-      {
         "start": 196,
         "end": 199,
         "vocab_id": "th_467721"
@@ -19868,16 +16242,6 @@
         "vocab_id": "th_f62e0b"
       },
       {
-        "start": 20,
-        "end": 24,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
-        "start": 31,
-        "end": 35,
-        "vocab_id": "th_1b85bc"
-      },
-      {
         "start": 38,
         "end": 46,
         "vocab_id": "th_ca4e6d"
@@ -19891,11 +16255,6 @@
         "start": 58,
         "end": 65,
         "vocab_id": "th_8424e5"
-      },
-      {
-        "start": 69,
-        "end": 72,
-        "vocab_id": "th_ef241a"
       },
       {
         "start": 81,
@@ -19916,11 +16275,6 @@
         "start": 110,
         "end": 115,
         "vocab_id": "th_c1065e"
-      },
-      {
-        "start": 115,
-        "end": 119,
-        "vocab_id": "th_9a4e15"
       },
       {
         "start": 120,
@@ -19993,11 +16347,6 @@
         "vocab_id": "th_bd2531"
       },
       {
-        "start": 57,
-        "end": 61,
-        "vocab_id": "th_1b85bc"
-      },
-      {
         "start": 69,
         "end": 72,
         "vocab_id": "th_373b18"
@@ -20026,11 +16375,6 @@
         "start": 113,
         "end": 121,
         "vocab_id": "th_ca4e6d"
-      },
-      {
-        "start": 124,
-        "end": 128,
-        "vocab_id": "th_9a4e15"
       },
       {
         "start": 149,
@@ -20113,11 +16457,6 @@
         "vocab_id": "th_127e3c"
       },
       {
-        "start": 83,
-        "end": 87,
-        "vocab_id": "th_1b85bc"
-      },
-      {
         "start": 90,
         "end": 94,
         "vocab_id": "th_f51410"
@@ -20178,11 +16517,6 @@
         "vocab_id": "th_f62e0b"
       },
       {
-        "start": 11,
-        "end": 14,
-        "vocab_id": "th_ef241a"
-      },
-      {
         "start": 46,
         "end": 52,
         "vocab_id": "v_prathet"
@@ -20201,11 +16535,6 @@
         "start": 66,
         "end": 74,
         "vocab_id": "th_9f87d1"
-      },
-      {
-        "start": 78,
-        "end": 81,
-        "vocab_id": "th_304e24"
       },
       {
         "start": 82,
@@ -20228,11 +16557,6 @@
         "vocab_id": "th_294c5c"
       },
       {
-        "start": 122,
-        "end": 125,
-        "vocab_id": "th_fac3b6"
-      },
-      {
         "start": 129,
         "end": 136,
         "vocab_id": "th_d3e89b"
@@ -20251,11 +16575,6 @@
         "start": 152,
         "end": 156,
         "vocab_id": "th_b68665"
-      },
-      {
-        "start": 156,
-        "end": 160,
-        "vocab_id": "th_9a4e15"
       },
       {
         "start": 161,
@@ -20303,39 +16622,14 @@
         "vocab_id": "th_5d843d"
       },
       {
-        "start": 59,
-        "end": 62,
-        "vocab_id": "th_13f14f"
-      },
-      {
         "start": 67,
         "end": 70,
         "vocab_id": "th_1277eb"
       },
       {
-        "start": 89,
-        "end": 92,
-        "vocab_id": "th_ef241a"
-      },
-      {
-        "start": 101,
-        "end": 105,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
-        "start": 115,
-        "end": 118,
-        "vocab_id": "th_b8df2f"
-      },
-      {
         "start": 118,
         "end": 126,
         "vocab_id": "th_9f87d1"
-      },
-      {
-        "start": 139,
-        "end": 143,
-        "vocab_id": "th_b3156f"
       },
       {
         "start": 145,
@@ -20356,11 +16650,6 @@
         "start": 169,
         "end": 174,
         "vocab_id": "v_ookaat"
-      },
-      {
-        "start": 184,
-        "end": 187,
-        "vocab_id": "th_fac3b6"
       }
     ],
     "is_highlight": false,
@@ -20377,16 +16666,6 @@
     "romanization": "",
     "vocab_ids": [],
     "annotations": [
-      {
-        "start": 0,
-        "end": 6,
-        "vocab_id": "th_f762e4"
-      },
-      {
-        "start": 13,
-        "end": 16,
-        "vocab_id": "th_9cf8a2"
-      },
       {
         "start": 20,
         "end": 28,
@@ -20418,11 +16697,6 @@
         "vocab_id": "th_d3e89b"
       },
       {
-        "start": 90,
-        "end": 93,
-        "vocab_id": "th_b8df2f"
-      },
-      {
         "start": 93,
         "end": 101,
         "vocab_id": "th_9f87d1"
@@ -20433,24 +16707,9 @@
         "vocab_id": "th_ffa43f"
       },
       {
-        "start": 117,
-        "end": 120,
-        "vocab_id": "th_fac3b6"
-      },
-      {
-        "start": 120,
-        "end": 124,
-        "vocab_id": "th_9a4e15"
-      },
-      {
         "start": 125,
         "end": 131,
         "vocab_id": "th_ecbc37"
-      },
-      {
-        "start": 154,
-        "end": 157,
-        "vocab_id": "th_fac3b6"
       }
     ],
     "is_highlight": false,
@@ -20467,11 +16726,6 @@
     "romanization": "",
     "vocab_ids": [],
     "annotations": [
-      {
-        "start": 3,
-        "end": 6,
-        "vocab_id": "th_ef241a"
-      },
       {
         "start": 12,
         "end": 16,
@@ -20491,16 +16745,6 @@
         "start": 45,
         "end": 48,
         "vocab_id": "th_5ffe2a"
-      },
-      {
-        "start": 56,
-        "end": 60,
-        "vocab_id": "th_9a4e15"
-      },
-      {
-        "start": 72,
-        "end": 75,
-        "vocab_id": "th_56a178"
       },
       {
         "start": 76,
@@ -20536,11 +16780,6 @@
         "start": 138,
         "end": 145,
         "vocab_id": "th_13ea42"
-      },
-      {
-        "start": 145,
-        "end": 148,
-        "vocab_id": "th_ef241a"
       },
       {
         "start": 154,
@@ -20603,16 +16842,6 @@
         "vocab_id": "th_1277eb"
       },
       {
-        "start": 29,
-        "end": 33,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
-        "start": 37,
-        "end": 41,
-        "vocab_id": "th_1b85bc"
-      },
-      {
         "start": 42,
         "end": 50,
         "vocab_id": "th_9fea90"
@@ -20626,11 +16855,6 @@
         "start": 84,
         "end": 90,
         "vocab_id": "th_a1ce06"
-      },
-      {
-        "start": 94,
-        "end": 97,
-        "vocab_id": "th_9cf8a2"
       },
       {
         "start": 101,
@@ -20676,11 +16900,6 @@
         "start": 157,
         "end": 160,
         "vocab_id": "th_04da82"
-      },
-      {
-        "start": 170,
-        "end": 175,
-        "vocab_id": "th_422f43"
       }
     ],
     "is_highlight": false,
@@ -20708,11 +16927,6 @@
         "vocab_id": "th_1cda84"
       },
       {
-        "start": 25,
-        "end": 28,
-        "vocab_id": "th_719e92"
-      },
-      {
         "start": 49,
         "end": 52,
         "vocab_id": "th_5ffe2a"
@@ -20728,11 +16942,6 @@
         "vocab_id": "th_127e3c"
       },
       {
-        "start": 99,
-        "end": 104,
-        "vocab_id": "th_422f43"
-      },
-      {
         "start": 114,
         "end": 119,
         "vocab_id": "th_57042b"
@@ -20746,11 +16955,6 @@
         "start": 136,
         "end": 139,
         "vocab_id": "th_f1f91b"
-      },
-      {
-        "start": 145,
-        "end": 148,
-        "vocab_id": "th_fac3b6"
       }
     ],
     "is_highlight": false,
@@ -20823,11 +17027,6 @@
         "vocab_id": "th_a1c071"
       },
       {
-        "start": 152,
-        "end": 158,
-        "vocab_id": "th_a3c09a"
-      },
-      {
         "start": 161,
         "end": 166,
         "vocab_id": "th_745e59"
@@ -20898,34 +17097,14 @@
         "vocab_id": "th_91c892"
       },
       {
-        "start": 79,
-        "end": 83,
-        "vocab_id": "th_1b85bc"
-      },
-      {
-        "start": 86,
-        "end": 89,
-        "vocab_id": "th_13f14f"
-      },
-      {
         "start": 99,
         "end": 104,
         "vocab_id": "th_3d61bf"
       },
       {
-        "start": 110,
-        "end": 114,
-        "vocab_id": "th_b3156f"
-      },
-      {
         "start": 121,
         "end": 126,
         "vocab_id": "th_30c59c"
-      },
-      {
-        "start": 129,
-        "end": 133,
-        "vocab_id": "th_b3156f"
       },
       {
         "start": 136,
@@ -20963,11 +17142,6 @@
         "vocab_id": "th_5343f2"
       },
       {
-        "start": 52,
-        "end": 55,
-        "vocab_id": "th_421c39"
-      },
-      {
         "start": 58,
         "end": 64,
         "vocab_id": "th_c7450f"
@@ -20988,16 +17162,6 @@
         "vocab_id": "th_b97c11"
       },
       {
-        "start": 87,
-        "end": 91,
-        "vocab_id": "th_b3156f"
-      },
-      {
-        "start": 91,
-        "end": 96,
-        "vocab_id": "th_422f43"
-      },
-      {
         "start": 96,
         "end": 103,
         "vocab_id": "th_853a6d"
@@ -21011,11 +17175,6 @@
         "start": 112,
         "end": 119,
         "vocab_id": "th_b7c663"
-      },
-      {
-        "start": 119,
-        "end": 123,
-        "vocab_id": "th_b3156f"
       },
       {
         "start": 129,
@@ -21073,29 +17232,9 @@
         "vocab_id": "th_f1f91b"
       },
       {
-        "start": 82,
-        "end": 86,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
-        "start": 86,
-        "end": 90,
-        "vocab_id": "th_1b85bc"
-      },
-      {
         "start": 90,
         "end": 93,
         "vocab_id": "th_c547d1"
-      },
-      {
-        "start": 93,
-        "end": 96,
-        "vocab_id": "th_b8df2f"
-      },
-      {
-        "start": 100,
-        "end": 103,
-        "vocab_id": "th_56a178"
       },
       {
         "start": 105,
@@ -21111,16 +17250,6 @@
         "start": 141,
         "end": 146,
         "vocab_id": "th_6fbe96"
-      },
-      {
-        "start": 148,
-        "end": 151,
-        "vocab_id": "th_ef0610"
-      },
-      {
-        "start": 151,
-        "end": 155,
-        "vocab_id": "th_b3156f"
       }
     ],
     "is_highlight": false,
@@ -21158,11 +17287,6 @@
         "vocab_id": "th_da232f"
       },
       {
-        "start": 63,
-        "end": 66,
-        "vocab_id": "th_56a178"
-      },
-      {
         "start": 66,
         "end": 70,
         "vocab_id": "th_cd2186"
@@ -21173,29 +17297,9 @@
         "vocab_id": "th_7a9c16"
       },
       {
-        "start": 74,
-        "end": 78,
-        "vocab_id": "th_9a4e15"
-      },
-      {
-        "start": 82,
-        "end": 86,
-        "vocab_id": "th_1b85bc"
-      },
-      {
         "start": 93,
         "end": 99,
         "vocab_id": "th_56e87c"
-      },
-      {
-        "start": 102,
-        "end": 106,
-        "vocab_id": "th_b3156f"
-      },
-      {
-        "start": 110,
-        "end": 114,
-        "vocab_id": "th_1b85bc"
       },
       {
         "start": 123,
@@ -21238,11 +17342,6 @@
         "vocab_id": "th_30319c"
       },
       {
-        "start": 30,
-        "end": 33,
-        "vocab_id": "th_13f14f"
-      },
-      {
         "start": 38,
         "end": 46,
         "vocab_id": "th_9f87d1"
@@ -21258,11 +17357,6 @@
         "vocab_id": "th_acf13e"
       },
       {
-        "start": 68,
-        "end": 72,
-        "vocab_id": "th_9a4e15"
-      },
-      {
         "start": 99,
         "end": 104,
         "vocab_id": "th_f20d05"
@@ -21271,11 +17365,6 @@
         "start": 114,
         "end": 119,
         "vocab_id": "th_d317fd"
-      },
-      {
-        "start": 129,
-        "end": 133,
-        "vocab_id": "th_b3156f"
       },
       {
         "start": 142,
@@ -21338,19 +17427,9 @@
         "vocab_id": "th_1c4fba"
       },
       {
-        "start": 69,
-        "end": 73,
-        "vocab_id": "th_1b85bc"
-      },
-      {
         "start": 77,
         "end": 81,
         "vocab_id": "th_cfe94d"
-      },
-      {
-        "start": 84,
-        "end": 87,
-        "vocab_id": "th_b8df2f"
       },
       {
         "start": 87,
@@ -21388,11 +17467,6 @@
         "vocab_id": "th_a1ce06"
       },
       {
-        "start": 140,
-        "end": 143,
-        "vocab_id": "th_a3e77e"
-      },
-      {
         "start": 143,
         "end": 149,
         "vocab_id": "th_e66be8"
@@ -21417,11 +17491,6 @@
     "romanization": "",
     "vocab_ids": [],
     "annotations": [
-      {
-        "start": 7,
-        "end": 10,
-        "vocab_id": "th_719e92"
-      },
       {
         "start": 13,
         "end": 16,
@@ -21448,19 +17517,9 @@
         "vocab_id": "th_9fea90"
       },
       {
-        "start": 90,
-        "end": 94,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
         "start": 102,
         "end": 109,
         "vocab_id": "th_853a6d"
-      },
-      {
-        "start": 120,
-        "end": 123,
-        "vocab_id": "th_719e92"
       },
       {
         "start": 129,
@@ -21491,16 +17550,6 @@
         "start": 5,
         "end": 11,
         "vocab_id": "th_a1ce06"
-      },
-      {
-        "start": 28,
-        "end": 32,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
-        "start": 39,
-        "end": 43,
-        "vocab_id": "th_1b85bc"
       },
       {
         "start": 46,
@@ -21548,19 +17597,9 @@
         "vocab_id": "th_04148b"
       },
       {
-        "start": 122,
-        "end": 127,
-        "vocab_id": "th_a82c82"
-      },
-      {
         "start": 130,
         "end": 135,
         "vocab_id": "th_cdd890"
-      },
-      {
-        "start": 141,
-        "end": 144,
-        "vocab_id": "th_fac3b6"
       },
       {
         "start": 147,
@@ -21598,11 +17637,6 @@
         "vocab_id": "th_57042b"
       },
       {
-        "start": 10,
-        "end": 15,
-        "vocab_id": "th_a82c82"
-      },
-      {
         "start": 18,
         "end": 26,
         "vocab_id": "th_9f87d1"
@@ -21623,29 +17657,9 @@
         "vocab_id": "th_8af7eb"
       },
       {
-        "start": 66,
-        "end": 70,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
-        "start": 70,
-        "end": 74,
-        "vocab_id": "th_1b85bc"
-      },
-      {
         "start": 87,
         "end": 92,
         "vocab_id": "th_c1065e"
-      },
-      {
-        "start": 103,
-        "end": 106,
-        "vocab_id": "th_b8df2f"
-      },
-      {
-        "start": 115,
-        "end": 120,
-        "vocab_id": "th_422f43"
       },
       {
         "start": 120,
@@ -21688,11 +17702,6 @@
         "vocab_id": "th_d3e89b"
       },
       {
-        "start": 16,
-        "end": 20,
-        "vocab_id": "th_b3156f"
-      },
-      {
         "start": 25,
         "end": 32,
         "vocab_id": "th_64802b"
@@ -21718,24 +17727,9 @@
         "vocab_id": "th_03a2ea"
       },
       {
-        "start": 76,
-        "end": 79,
-        "vocab_id": "th_ef0610"
-      },
-      {
-        "start": 79,
-        "end": 83,
-        "vocab_id": "th_b3156f"
-      },
-      {
         "start": 83,
         "end": 91,
         "vocab_id": "th_55af90"
-      },
-      {
-        "start": 92,
-        "end": 95,
-        "vocab_id": "th_aa8756"
       },
       {
         "start": 95,
@@ -21756,11 +17750,6 @@
         "start": 112,
         "end": 120,
         "vocab_id": "th_603c52"
-      },
-      {
-        "start": 123,
-        "end": 127,
-        "vocab_id": "th_b3156f"
       },
       {
         "start": 133,
@@ -21828,11 +17817,6 @@
         "vocab_id": "th_d05232"
       },
       {
-        "start": 90,
-        "end": 94,
-        "vocab_id": "th_b3156f"
-      },
-      {
         "start": 94,
         "end": 99,
         "vocab_id": "th_438d03"
@@ -21856,26 +17840,6 @@
         "start": 134,
         "end": 138,
         "vocab_id": "th_b97c11"
-      },
-      {
-        "start": 143,
-        "end": 147,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
-        "start": 157,
-        "end": 160,
-        "vocab_id": "th_b8df2f"
-      },
-      {
-        "start": 160,
-        "end": 163,
-        "vocab_id": "th_719e92"
-      },
-      {
-        "start": 163,
-        "end": 168,
-        "vocab_id": "th_7d1517"
       },
       {
         "start": 177,
@@ -21933,14 +17897,9 @@
         "vocab_id": "th_965ed0"
       },
       {
-        "start": 74,
-        "end": 77,
-        "vocab_id": "th_13f14f"
-      },
-      {
-        "start": 98,
-        "end": 102,
-        "vocab_id": "th_b3156f"
+        "start": 75,
+        "end": 79,
+        "vocab_id": "th_7a9c16"
       },
       {
         "start": 103,
@@ -21958,11 +17917,6 @@
         "vocab_id": "th_b42c56"
       },
       {
-        "start": 120,
-        "end": 124,
-        "vocab_id": "th_b3156f"
-      },
-      {
         "start": 138,
         "end": 146,
         "vocab_id": "th_3fd751"
@@ -21971,11 +17925,6 @@
         "start": 147,
         "end": 155,
         "vocab_id": "th_1e6ea3"
-      },
-      {
-        "start": 155,
-        "end": 159,
-        "vocab_id": "th_b3156f"
       },
       {
         "start": 165,
@@ -21988,19 +17937,9 @@
         "vocab_id": "th_1e6ea3"
       },
       {
-        "start": 196,
-        "end": 200,
-        "vocab_id": "th_b3156f"
-      },
-      {
         "start": 206,
         "end": 214,
         "vocab_id": "th_68d57e"
-      },
-      {
-        "start": 227,
-        "end": 230,
-        "vocab_id": "th_13f14f"
       },
       {
         "start": 238,
@@ -22021,11 +17960,6 @@
         "start": 262,
         "end": 271,
         "vocab_id": "th_775be6"
-      },
-      {
-        "start": 274,
-        "end": 278,
-        "vocab_id": "th_1b85bc"
       }
     ],
     "is_highlight": false,
@@ -22046,16 +17980,6 @@
         "start": 0,
         "end": 3,
         "vocab_id": "th_b29d66"
-      },
-      {
-        "start": 19,
-        "end": 22,
-        "vocab_id": "th_ef0610"
-      },
-      {
-        "start": 25,
-        "end": 29,
-        "vocab_id": "th_b3156f"
       },
       {
         "start": 50,
@@ -22101,16 +18025,6 @@
         "start": 132,
         "end": 135,
         "vocab_id": "th_9ef815"
-      },
-      {
-        "start": 151,
-        "end": 154,
-        "vocab_id": "th_b8df2f"
-      },
-      {
-        "start": 158,
-        "end": 161,
-        "vocab_id": "th_56a178"
       }
     ],
     "is_highlight": false,
@@ -22133,11 +18047,6 @@
         "vocab_id": "th_a1c071"
       },
       {
-        "start": 5,
-        "end": 8,
-        "vocab_id": "th_aa8756"
-      },
-      {
         "start": 14,
         "end": 23,
         "vocab_id": "th_8483be"
@@ -22151,11 +18060,6 @@
         "start": 41,
         "end": 49,
         "vocab_id": "th_9f87d1"
-      },
-      {
-        "start": 50,
-        "end": 53,
-        "vocab_id": "th_aa8756"
       },
       {
         "start": 81,
@@ -22176,11 +18080,6 @@
         "start": 132,
         "end": 139,
         "vocab_id": "th_d3e89b"
-      },
-      {
-        "start": 142,
-        "end": 146,
-        "vocab_id": "th_c1bfc3"
       },
       {
         "start": 146,
@@ -22213,19 +18112,9 @@
     "vocab_ids": [],
     "annotations": [
       {
-        "start": 9,
-        "end": 13,
-        "vocab_id": "th_c1bfc3"
-      },
-      {
         "start": 13,
         "end": 22,
         "vocab_id": "th_f19a38"
-      },
-      {
-        "start": 28,
-        "end": 32,
-        "vocab_id": "th_c1bfc3"
       },
       {
         "start": 32,
@@ -22273,29 +18162,14 @@
         "vocab_id": "th_f9b5fb"
       },
       {
-        "start": 108,
-        "end": 112,
-        "vocab_id": "th_b3156f"
-      },
-      {
         "start": 115,
         "end": 119,
         "vocab_id": "th_b97c11"
       },
       {
-        "start": 119,
-        "end": 124,
-        "vocab_id": "th_422f43"
-      },
-      {
         "start": 125,
         "end": 129,
         "vocab_id": "th_b97c11"
-      },
-      {
-        "start": 129,
-        "end": 133,
-        "vocab_id": "th_313977"
       },
       {
         "start": 136,
@@ -22328,24 +18202,9 @@
         "vocab_id": "th_acf13e"
       },
       {
-        "start": 24,
-        "end": 28,
-        "vocab_id": "th_b3156f"
-      },
-      {
         "start": 55,
         "end": 62,
         "vocab_id": "th_5ed2f4"
-      },
-      {
-        "start": 62,
-        "end": 66,
-        "vocab_id": "th_1b85bc"
-      },
-      {
-        "start": 75,
-        "end": 79,
-        "vocab_id": "th_b3156f"
       },
       {
         "start": 79,
@@ -22408,19 +18267,9 @@
         "vocab_id": "th_e50d3f"
       },
       {
-        "start": 6,
-        "end": 9,
-        "vocab_id": "th_a3e77e"
-      },
-      {
         "start": 44,
         "end": 51,
         "vocab_id": "th_5ed2f4"
-      },
-      {
-        "start": 51,
-        "end": 55,
-        "vocab_id": "th_c1bfc3"
       },
       {
         "start": 59,
@@ -22436,11 +18285,6 @@
         "start": 76,
         "end": 82,
         "vocab_id": "th_c9432b"
-      },
-      {
-        "start": 85,
-        "end": 89,
-        "vocab_id": "th_9a4e15"
       },
       {
         "start": 90,
@@ -22466,11 +18310,6 @@
         "start": 3,
         "end": 6,
         "vocab_id": "th_f537b5"
-      },
-      {
-        "start": 19,
-        "end": 23,
-        "vocab_id": "th_9a4e15"
       },
       {
         "start": 63,

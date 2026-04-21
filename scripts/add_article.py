@@ -279,6 +279,7 @@ def annotate_sentences(sentences):
 THAI_TOKEN_RE = re.compile(r"^[\u0E00-\u0E7F]{3,}$")
 
 STOPWORDS = {
+    # Particles / conjunctions / prepositions
     "ที่", "ว่า", "ไม่", "มัน", "คือ", "เรา", "ก็", "ครับ", "เป็น", "ใน",
     "มี", "ได้", "แล้ว", "ไป", "เลย", "เขา", "แต่", "ของ", "การ", "กับ",
     "ต้อง", "ใช่", "จะ", "มาก", "นี้", "และ", "อะไร", "แบบ", "ให้",
@@ -290,6 +291,16 @@ STOPWORDS = {
     "ยัง", "หลาย", "เดียว", "เลย", "แค่", "ส่วน", "เวลา", "ตอน", "วัน",
     "ปี", "ก็ได้", "ทั้ง", "หมด", "ต่อ", "ตาม", "อะ", "นะคะ", "นะครับ",
     "เพราะว่า", "เพราะฉะนั้น", "ดังนั้น", "แน่นอน", "ไทย",
+    # High-frequency basic words (auto-detected)
+    "อย่า", "ความ", "จริง", "กัน", "ตัว", "เรียน", "ยาก", "มือ",
+    "สาว", "ต่าง", "คุณ", "เหมือน", "งาน", "หนึ่ง", "เข้า", "ฉัน",
+    "สุด", "อันนี้", "นี่", "ทาง", "สาม", "ตัวเอง", "วันนี้", "โลก",
+    "อาจ", "ไหม", "ใส่", "สามารถ", "แรก", "จุด", "เกิด", "ภาพ",
+    "เปลี่ยน", "เมื่อ", "เยอะ", "ลูก", "อาจจะ", "ทุกคน",
+    # Pronouns
+    "ผม", "ฉัน", "เขา", "เธอ", "มัน", "พวกเขา", "เรา", "คุณ",
+    # Very short / common
+    "ยิ่ง", "สูง", "ต่ำ", "ดี", "ใหม่", "ใหญ่", "เล็ก", "เร็ว", "ช้า",
 }
 
 
@@ -320,7 +331,8 @@ def expand_vocab(article_id: str, min_freq: int = 2):
             if THAI_TOKEN_RE.match(t) and t not in STOPWORDS:
                 counter[t] += 1
 
-    new_words = [(w, f) for w, f in counter.most_common() if f >= min_freq and w not in existing]
+    new_words = [(w, f) for w, f in counter.most_common()
+                 if min_freq <= f <= 30 and w not in existing]
     if not new_words:
         print("  ↳ no new vocab to add")
         return

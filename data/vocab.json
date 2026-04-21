@@ -1,135 +1,5 @@
 [
   {
-    "id": "th_9a4e15",
-    "thai": "อย่า",
-    "romanization": "",
-    "translation": "",
-    "english": "Don't",
-    "part_of_speech": "",
-    "frequency": 103,
-    "tags": []
-  },
-  {
-    "id": "th_c1bfc3",
-    "thai": "ความ",
-    "romanization": "",
-    "translation": "",
-    "english": "The",
-    "part_of_speech": "",
-    "frequency": 102,
-    "tags": []
-  },
-  {
-    "id": "th_13f14f",
-    "thai": "ประ",
-    "romanization": "",
-    "translation": "",
-    "english": "dash",
-    "part_of_speech": "",
-    "frequency": 88,
-    "tags": []
-  },
-  {
-    "id": "th_1b85bc",
-    "thai": "จริง",
-    "romanization": "",
-    "translation": "",
-    "english": "true",
-    "part_of_speech": "",
-    "frequency": 70,
-    "tags": []
-  },
-  {
-    "id": "th_fac3b6",
-    "thai": "กัน",
-    "romanization": "",
-    "translation": "",
-    "english": "together",
-    "part_of_speech": "",
-    "frequency": 69,
-    "tags": []
-  },
-  {
-    "id": "th_ef0610",
-    "thai": "ตัว",
-    "romanization": "",
-    "translation": "",
-    "english": "body",
-    "part_of_speech": "",
-    "frequency": 67,
-    "tags": []
-  },
-  {
-    "id": "th_422f43",
-    "thai": "เรียน",
-    "romanization": "",
-    "translation": "",
-    "english": "study",
-    "part_of_speech": "",
-    "frequency": 63,
-    "tags": []
-  },
-  {
-    "id": "th_9cf8a2",
-    "thai": "ยาก",
-    "romanization": "",
-    "translation": "",
-    "english": "difficult",
-    "part_of_speech": "",
-    "frequency": 58,
-    "tags": []
-  },
-  {
-    "id": "th_b3156f",
-    "thai": "เด็ก",
-    "romanization": "",
-    "translation": "",
-    "english": "child",
-    "part_of_speech": "",
-    "frequency": 57,
-    "tags": []
-  },
-  {
-    "id": "th_56a178",
-    "thai": "มือ",
-    "romanization": "",
-    "translation": "",
-    "english": "hand",
-    "part_of_speech": "",
-    "frequency": 55,
-    "tags": []
-  },
-  {
-    "id": "th_c6e22a",
-    "thai": "สาว",
-    "romanization": "",
-    "translation": "",
-    "english": "girl",
-    "part_of_speech": "",
-    "frequency": 46,
-    "tags": []
-  },
-  {
-    "id": "th_304e24",
-    "thai": "ข้า",
-    "romanization": "",
-    "translation": "",
-    "english": "I",
-    "part_of_speech": "",
-    "frequency": 44,
-    "tags": []
-  },
-  {
-    "id": "th_313977",
-    "thai": "ต่าง",
-    "romanization": "",
-    "translation": "",
-    "english": "different",
-    "part_of_speech": "",
-    "frequency": 43,
-    "tags": []
-  },
-  {
     "id": "v_braen",
     "thai": "แบรนด์",
     "romanization": "braen",
@@ -139,66 +9,6 @@
       "business"
     ],
     "frequency": 40
-  },
-  {
-    "id": "th_a3e77e",
-    "thai": "คุณ",
-    "romanization": "",
-    "translation": "",
-    "english": "you",
-    "part_of_speech": "",
-    "frequency": 40,
-    "tags": []
-  },
-  {
-    "id": "th_a3c09a",
-    "thai": "เหมือน",
-    "romanization": "",
-    "translation": "",
-    "english": "like",
-    "part_of_speech": "",
-    "frequency": 39,
-    "tags": []
-  },
-  {
-    "id": "th_aa8756",
-    "thai": "ลาย",
-    "romanization": "",
-    "translation": "",
-    "english": "pattern",
-    "part_of_speech": "",
-    "frequency": 37,
-    "tags": []
-  },
-  {
-    "id": "th_719e92",
-    "thai": "งาน",
-    "romanization": "",
-    "translation": "",
-    "english": "work",
-    "part_of_speech": "",
-    "frequency": 36,
-    "tags": []
-  },
-  {
-    "id": "th_a82c82",
-    "thai": "หนึ่ง",
-    "romanization": "",
-    "translation": "",
-    "english": "one",
-    "part_of_speech": "",
-    "frequency": 35,
-    "tags": []
-  },
-  {
-    "id": "th_46dd5b",
-    "thai": "เข้า",
-    "romanization": "",
-    "translation": "",
-    "english": "enter",
-    "part_of_speech": "",
-    "frequency": 35,
-    "tags": []
   },
   {
     "id": "v_prathet",
@@ -212,66 +22,6 @@
     "frequency": 34
   },
   {
-    "id": "th_a1c0cc",
-    "thai": "ฉัน",
-    "romanization": "",
-    "translation": "",
-    "english": "I",
-    "part_of_speech": "",
-    "frequency": 34,
-    "tags": []
-  },
-  {
-    "id": "th_d6bbc5",
-    "thai": "สุด",
-    "romanization": "",
-    "translation": "",
-    "english": "The best",
-    "part_of_speech": "",
-    "frequency": 32,
-    "tags": []
-  },
-  {
-    "id": "th_f762e4",
-    "thai": "อันนี้",
-    "romanization": "",
-    "translation": "",
-    "english": "This one",
-    "part_of_speech": "",
-    "frequency": 31,
-    "tags": []
-  },
-  {
-    "id": "th_421c39",
-    "thai": "นี่",
-    "romanization": "",
-    "translation": "",
-    "english": "This",
-    "part_of_speech": "",
-    "frequency": 31,
-    "tags": []
-  },
-  {
-    "id": "th_b8df2f",
-    "thai": "ทาง",
-    "romanization": "",
-    "translation": "",
-    "english": "way",
-    "part_of_speech": "",
-    "frequency": 31,
-    "tags": []
-  },
-  {
-    "id": "th_7d1517",
-    "thai": "ศึกษา",
-    "romanization": "",
-    "translation": "",
-    "english": "study",
-    "part_of_speech": "",
-    "frequency": 31,
-    "tags": []
-  },
-  {
     "id": "th_a81341",
     "thai": "สาม",
     "romanization": "",
@@ -279,16 +29,6 @@
     "english": "three",
     "part_of_speech": "",
     "frequency": 30,
-    "tags": []
-  },
-  {
-    "id": "th_ef241a",
-    "thai": "ข้อ",
-    "romanization": "",
-    "translation": "",
-    "english": "clause",
-    "part_of_speech": "",
-    "frequency": 29,
     "tags": []
   },
   {
@@ -339,26 +79,6 @@
     "english": "education",
     "part_of_speech": "",
     "frequency": 27,
-    "tags": []
-  },
-  {
-    "id": "th_511484",
-    "thai": "ไหม",
-    "romanization": "",
-    "translation": "",
-    "english": "silk",
-    "part_of_speech": "",
-    "frequency": 27,
-    "tags": []
-  },
-  {
-    "id": "th_835a47",
-    "thai": "ใส่",
-    "romanization": "",
-    "translation": "",
-    "english": "put",
-    "part_of_speech": "",
-    "frequency": 25,
     "tags": []
   },
   {
@@ -417,16 +137,6 @@
     "romanization": "",
     "translation": "",
     "english": "change",
-    "part_of_speech": "",
-    "frequency": 23,
-    "tags": []
-  },
-  {
-    "id": "th_f7acd4",
-    "thai": "มาย",
-    "romanization": "",
-    "translation": "",
-    "english": "My",
     "part_of_speech": "",
     "frequency": 23,
     "tags": []
@@ -4011,16 +3721,6 @@
     "romanization": "",
     "translation": "",
     "english": "decision",
-    "part_of_speech": "",
-    "frequency": 3,
-    "tags": []
-  },
-  {
-    "id": "th_2b1ee0",
-    "thai": "ร่างกาย",
-    "romanization": "",
-    "translation": "",
-    "english": "body",
     "part_of_speech": "",
     "frequency": 3,
     "tags": []
