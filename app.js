@@ -195,7 +195,7 @@ const App = {
       type: 'sentence',
       thai: s.thai,
       romanization: s.romanization || '',
-      translation: s.translation || '',
+      translation: s.translation || s.english || '',
       audio_url: s.audio_url,
       annotations: s.annotations || [],
       sentence: s,
