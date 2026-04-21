@@ -29,7 +29,7 @@
       items = items.filter(v =>
         (v.thai || '').toLowerCase().includes(q) ||
         (v.romanization || '').toLowerCase().includes(q) ||
-        (v.translation || '').toLowerCase().includes(q)
+        (v.translation || v.english || '').toLowerCase().includes(q)
       );
     }
     if (tag) items = items.filter(v => (v.tags || []).includes(tag));
@@ -55,7 +55,7 @@
       <div class="vocab-row">
         <div class="thai">${escapeHtml(v.thai)}</div>
         <div class="rom">${escapeHtml(v.romanization || '')}</div>
-        <div class="trans">${escapeHtml(v.translation || '')}</div>
+        <div class="trans">${escapeHtml(v.translation || v.english || '')}</div>
         ${v.frequency ? `<div class="freq">${v.frequency}×</div>` : '<div></div>'}
       </div>
     `).join('');

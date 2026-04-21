@@ -179,10 +179,10 @@ const App = {
       vocab,
       thai: vocab.thai,
       romanization: vocab.romanization,
-      translation: vocab.translation,
+      translation: vocab.translation || vocab.english || '',
       audio_url: example ? example.audio_url : null,
       example_thai: example ? example.thai : null,
-      example_trans: example ? example.translation : null,
+      example_trans: example ? (example.translation || example.english || '') : null,
     };
   },
 

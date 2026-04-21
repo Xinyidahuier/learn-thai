@@ -69,7 +69,7 @@
       audioBigEl.style.display = 'none';
       frontHint.innerHTML = `
         <div style="color:var(--text);font-size:${isSentence ? 16 : 22}px;${isSentence ? '' : 'font-weight:600;'}margin-bottom:8px;line-height:1.6">
-          ${escapeHtml(card.translation || '')}
+          ${escapeHtml(card.translation || card.english || '')}
         </div>
         <div style="color:var(--text-dim);font-size:14px">${isSentence ? '尝试用泰语说出这段话' : '尝试用泰语说出这个词'}</div>
       `;
@@ -95,7 +95,7 @@
     thaiEl.style.fontSize = isSentence ? '18px' : '26px';
     thaiEl.style.textAlign = isSentence ? 'left' : 'center';
     romEl.textContent = card.romanization || '';
-    transEl.textContent = card.translation || '';
+    transEl.textContent = card.translation || card.english || '';
 
     if (card.example_thai) {
       const highlighted = highlightWord(card.example_thai, card.thai);
