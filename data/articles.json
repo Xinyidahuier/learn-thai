@@ -22,5 +22,17 @@
     "status": "studying",
     "favorite": false,
     "created_at": "2026-04-21T16:32:45.320281+00:00"
+  },
+  {
+    "id": "2yLMqdu8eYc",
+    "title": "เด็กไทยไม่ได้โง่ แต่ระบบการศึกษาไทยกำลังทำให้เด็กตามโลกไม่ทัน (EN CC) | KEY MESSAGES #254",
+    "type": "youtube",
+    "source_url": "https://www.youtube.com/watch?v=2yLMqdu8eYc",
+    "duration_sec": 958.171438,
+    "duration_str": "15:58",
+    "sentence_count": 72,
+    "status": "studying",
+    "favorite": false,
+    "created_at": "2026-04-21T16:57:18.461038+00:00"
   }
 ]

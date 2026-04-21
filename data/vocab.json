@@ -19,7 +19,7 @@
     "tags": [
       "general"
     ],
-    "frequency": 27
+    "frequency": 34
   },
   {
     "id": "v_luukkhaa",
@@ -52,7 +52,18 @@
     "tags": [
       "business"
     ],
-    "frequency": 9
+    "frequency": 10
+  },
+  {
+    "id": "v_khayaai",
+    "thai": "ขยาย",
+    "romanization": "khà-yǎai",
+    "translation": "扩张、扩大 (to expand)",
+    "part_of_speech": "v.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 10
   },
   {
     "id": "v_disney",
@@ -66,17 +77,6 @@
     "frequency": 9
   },
   {
-    "id": "v_khayaai",
-    "thai": "ขยาย",
-    "romanization": "khà-yǎai",
-    "translation": "扩张、扩大 (to expand)",
-    "part_of_speech": "v.",
-    "tags": [
-      "business"
-    ],
-    "frequency": 8
-  },
-  {
     "id": "v_khwaammaai",
     "thai": "ความหมาย",
     "romanization": "khwaam-mǎai",
@@ -85,7 +85,7 @@
     "tags": [
       "general"
     ],
-    "frequency": 8
+    "frequency": 9
   },
   {
     "id": "v_botrian",
@@ -132,17 +132,6 @@
     "frequency": 5
   },
   {
-    "id": "v_ig",
-    "thai": "ไอจี",
-    "romanization": "ai-jii",
-    "translation": "Instagram — loanword",
-    "part_of_speech": "n.",
-    "tags": [
-      "marketing"
-    ],
-    "frequency": 4
-  },
-  {
     "id": "v_longthun",
     "thai": "ลงทุน",
     "romanization": "long-thun",
@@ -151,7 +140,7 @@
     "tags": [
       "business"
     ],
-    "frequency": 4
+    "frequency": 5
   },
   {
     "id": "v_tittam",
@@ -161,6 +150,17 @@
     "part_of_speech": "v.",
     "tags": [
       "general"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "v_ig",
+    "thai": "ไอจี",
+    "romanization": "ai-jii",
+    "translation": "Instagram — loanword",
+    "part_of_speech": "n.",
+    "tags": [
+      "marketing"
     ],
     "frequency": 4
   },
@@ -173,7 +173,7 @@
     "tags": [
       "business"
     ],
-    "frequency": 3
+    "frequency": 4
   },
   {
     "id": "v_waeluu",
@@ -240,7 +240,7 @@
     "tags": [
       "business"
     ],
-    "frequency": 2
+    "frequency": 3
   },
   {
     "id": "v_prasopsamret",
@@ -251,7 +251,7 @@
     "tags": [
       "business"
     ],
-    "frequency": 2
+    "frequency": 3
   },
   {
     "id": "v_phalit",
@@ -262,7 +262,18 @@
     "tags": [
       "business"
     ],
-    "frequency": 2
+    "frequency": 3
+  },
+  {
+    "id": "v_khunnaphaap",
+    "thai": "คุณภาพ",
+    "romanization": "khun-na-phâap",
+    "translation": "质量、品质 (quality)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 3
   },
   {
     "id": "v_diisai",
@@ -558,17 +569,6 @@
     "part_of_speech": "n.",
     "tags": [
       "general"
-    ],
-    "frequency": 1
-  },
-  {
-    "id": "v_khunnaphaap",
-    "thai": "คุณภาพ",
-    "romanization": "khun-na-phâap",
-    "translation": "质量、品质 (quality)",
-    "part_of_speech": "n.",
-    "tags": [
-      "business"
     ],
     "frequency": 1
   },
