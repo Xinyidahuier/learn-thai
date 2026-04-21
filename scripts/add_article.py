@@ -26,6 +26,7 @@ import re
 import shutil
 import subprocess
 import sys
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import parse_qs, urlparse
@@ -271,6 +272,125 @@ def annotate_sentences(sentences):
 # Article registry updates
 # ---------------------------------------------------------------------------
 
+# ---------------------------------------------------------------------------
+# Vocab expansion — extract new words from article, translate, re-annotate
+# ---------------------------------------------------------------------------
+
+THAI_TOKEN_RE = re.compile(r"^[\u0E00-\u0E7F]{3,}$")
+
+STOPWORDS = {
+    "ที่", "ว่า", "ไม่", "มัน", "คือ", "เรา", "ก็", "ครับ", "เป็น", "ใน",
+    "มี", "ได้", "แล้ว", "ไป", "เลย", "เขา", "แต่", "ของ", "การ", "กับ",
+    "ต้อง", "ใช่", "จะ", "มาก", "นี้", "และ", "อะไร", "แบบ", "ให้",
+    "อยู่", "มา", "นะ", "กว่า", "แล้วก็", "ค่ะ", "คน", "อย่าง", "แต่ว่า",
+    "ทำ", "พวก", "ขึ้น", "โดย", "เพื่อ", "เพราะ", "ถ้า", "หรือ",
+    "ออก", "เอา", "ก่อน", "ก็คือ", "ด้วย", "จาก", "ซึ่ง", "แบบนี้", "นั้น",
+    "ถึง", "บาง", "อีก", "ทุก", "เอง", "นั่น", "อยาก", "ต้องการ", "ทำให้",
+    "สิ่ง", "สิ่งที่", "เรื่อง", "บอก", "พูด", "เห็น", "รู้", "คิด",
+    "ยัง", "หลาย", "เดียว", "เลย", "แค่", "ส่วน", "เวลา", "ตอน", "วัน",
+    "ปี", "ก็ได้", "ทั้ง", "หมด", "ต่อ", "ตาม", "อะ", "นะคะ", "นะครับ",
+    "เพราะว่า", "เพราะฉะนั้น", "ดังนั้น", "แน่นอน", "ไทย",
+}
+
+
+def _vocab_id(word: str) -> str:
+    return "th_" + hashlib.md5(word.encode()).hexdigest()[:6]
+
+
+def expand_vocab(article_id: str, min_freq: int = 2):
+    try:
+        from pythainlp import word_tokenize
+    except ImportError:
+        print("  ↳ pythainlp not found, skipping vocab expansion")
+        return
+
+    sentences_file = DATA / "sentences.json"
+    vocab_file = DATA / "vocab.json"
+    sents = json.loads(sentences_file.read_text())
+    vocab = json.loads(vocab_file.read_text()) if vocab_file.exists() else []
+    existing = {v["thai"] for v in vocab}
+
+    # Count tokens in the new article only
+    article_sents = [s for s in sents if s.get("article_id") == article_id]
+    from collections import Counter
+    counter = Counter()
+    for s in article_sents:
+        for t in word_tokenize(s["thai"], engine="newmm"):
+            t = t.strip()
+            if THAI_TOKEN_RE.match(t) and t not in STOPWORDS:
+                counter[t] += 1
+
+    new_words = [(w, f) for w, f in counter.most_common() if f >= min_freq and w not in existing]
+    if not new_words:
+        print("  ↳ no new vocab to add")
+        return
+
+    print(f"  ↳ translating {len(new_words)} new words…")
+    try:
+        import warnings; warnings.filterwarnings("ignore")
+        from deep_translator import GoogleTranslator
+        translator = GoogleTranslator(source="th", target="en")
+        batch_size = 20
+        translations: dict[str, str] = {}
+        for i in range(0, len(new_words), batch_size):
+            batch = new_words[i:i + batch_size]
+            try:
+                result = translator.translate("\n".join(w for w, _ in batch))
+                parts = result.split("\n")
+                for j, (word, _) in enumerate(batch):
+                    if j < len(parts) and parts[j].strip():
+                        translations[word] = parts[j].strip()
+            except Exception:
+                pass
+            time.sleep(0.3)
+    except ImportError:
+        print("  ↳ deep-translator not found, adding words without translation")
+        translations = {}
+
+    for word, freq in new_words:
+        vocab.append({
+            "id": _vocab_id(word),
+            "thai": word,
+            "romanization": "",
+            "translation": "",
+            "english": translations.get(word, ""),
+            "part_of_speech": "",
+            "frequency": freq,
+            "tags": [],
+        })
+
+    # Re-annotate all sentences with updated vocab
+    for v in vocab:
+        v["frequency"] = 0
+    for s in sents:
+        anns = []
+        for v in vocab:
+            needle = v["thai"]
+            if not needle:
+                continue
+            start = 0
+            while True:
+                idx = s["thai"].find(needle, start)
+                if idx == -1:
+                    break
+                anns.append({"start": idx, "end": idx + len(needle), "vocab_id": v["id"]})
+                v["frequency"] += 1
+                start = idx + 1
+        anns.sort(key=lambda x: (x["start"], -(x["end"] - x["start"])))
+        merged, last_end = [], -1
+        for a in anns:
+            if a["start"] >= last_end:
+                merged.append(a); last_end = a["end"]
+        s["annotations"] = merged
+
+    vocab.sort(key=lambda v: -v.get("frequency", 0))
+    vocab_file.write_text(json.dumps(vocab, ensure_ascii=False, indent=2))
+    sentences_file.write_text(json.dumps(sents, ensure_ascii=False, indent=2))
+    print(f"  ↳ vocab: +{len(new_words)} words (total {len(vocab)}), all sentences re-annotated")
+
+
+# ---------------------------------------------------------------------------
+
 def save_article(article, sentences):
     articles_file = DATA / "articles.json"
     sentences_file = DATA / "sentences.json"
@@ -339,6 +459,8 @@ def process_from_audio(wav: Path, article_id: str, title: str, source_url: str, 
         if p.exists():
             p.unlink()
             print(f"  ↳ deleted {p.name}")
+
+    expand_vocab(article_id)
 
 
 def process_youtube(url: str, title: "str | None"):
@@ -428,6 +550,7 @@ def process_text_file(path: Path, title: str, audio_path):
     }
     save_article(article, sentences)
     print(f"✅ Added text article: {article_id} — {len(sentences)} paragraphs")
+    expand_vocab(article_id)
 
 
 # ---------------------------------------------------------------------------
