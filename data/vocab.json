@@ -1,0 +1,971 @@
+[
+  {
+    "id": "v_braen",
+    "thai": "แบรนด์",
+    "romanization": "braen",
+    "translation": "品牌 (brand)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 40
+  },
+  {
+    "id": "v_prathet",
+    "thai": "ประเทศ",
+    "romanization": "prà-thêet",
+    "translation": "国家 (country)",
+    "part_of_speech": "n.",
+    "tags": [
+      "general"
+    ],
+    "frequency": 27
+  },
+  {
+    "id": "v_luukkhaa",
+    "thai": "ลูกค้า",
+    "romanization": "lûuk-kháa",
+    "translation": "顾客、客户 (customer)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 18
+  },
+  {
+    "id": "v_tangprathet",
+    "thai": "ต่างประเทศ",
+    "romanization": "tàang prà-thêet",
+    "translation": "国外、海外 (foreign, abroad)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 11
+  },
+  {
+    "id": "v_ookaat",
+    "thai": "โอกาส",
+    "romanization": "oo-kàat",
+    "translation": "机会 (opportunity)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 9
+  },
+  {
+    "id": "v_disney",
+    "thai": "Disney",
+    "romanization": "dít-nîi",
+    "translation": "迪士尼",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 9
+  },
+  {
+    "id": "v_khayaai",
+    "thai": "ขยาย",
+    "romanization": "khà-yǎai",
+    "translation": "扩张、扩大 (to expand)",
+    "part_of_speech": "v.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 8
+  },
+  {
+    "id": "v_khwaammaai",
+    "thai": "ความหมาย",
+    "romanization": "khwaam-mǎai",
+    "translation": "含义、意义 (meaning)",
+    "part_of_speech": "n.",
+    "tags": [
+      "general"
+    ],
+    "frequency": 8
+  },
+  {
+    "id": "v_botrian",
+    "thai": "บทเรียน",
+    "romanization": "bòt-rian",
+    "translation": "经验教训 (lesson)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 7
+  },
+  {
+    "id": "v_tangchaat",
+    "thai": "ต่างชาติ",
+    "romanization": "tàang-châat",
+    "translation": "外国人、外国的 (foreign, foreigner)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 6
+  },
+  {
+    "id": "v_yɔɔmpɛɛ",
+    "thai": "ยอมแพ้",
+    "romanization": "yɔɔm-pɛ́ɛ",
+    "translation": "放弃、认输 (to give up)",
+    "part_of_speech": "v.",
+    "tags": [
+      "general"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "v_design",
+    "thai": "design",
+    "romanization": "dii-sai",
+    "translation": "设计 (design)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "v_ig",
+    "thai": "ไอจี",
+    "romanization": "ai-jii",
+    "translation": "Instagram — loanword",
+    "part_of_speech": "n.",
+    "tags": [
+      "marketing"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "v_longthun",
+    "thai": "ลงทุน",
+    "romanization": "long-thun",
+    "translation": "投资 (invest)",
+    "part_of_speech": "v.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "v_tittam",
+    "thai": "ติดตาม",
+    "romanization": "tìt-taam",
+    "translation": "追随、关注 (follow)",
+    "part_of_speech": "v.",
+    "tags": [
+      "general"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "v_senthaang",
+    "thai": "เส้นทาง",
+    "romanization": "sên-thaang",
+    "translation": "路径、历程 (path, journey)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "v_waeluu",
+    "thai": "แวลู",
+    "romanization": "wɛɛ-luu",
+    "translation": "价值 (value) — loanword",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "v_designer",
+    "thai": "designer",
+    "romanization": "dii-sai-nəə",
+    "translation": "设计师 (designer)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "v_saakha",
+    "thai": "สาขา",
+    "romanization": "sǎa-khǎa",
+    "translation": "分店、分公司 (branch)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "v_sme",
+    "thai": "SME",
+    "romanization": "ɛs em ii",
+    "translation": "中小企业",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "v_minimal",
+    "thai": "minimal",
+    "romanization": "mí-ní-mân",
+    "translation": "极简 (minimal)",
+    "part_of_speech": "adj.",
+    "tags": [
+      "business",
+      "design"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "v_təəptoo",
+    "thai": "เติบโต",
+    "romanization": "təə̀p-too",
+    "translation": "成长、发展 (to grow)",
+    "part_of_speech": "v.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "v_prasopsamret",
+    "thai": "ประสบความสำเร็จ",
+    "romanization": "prà-sòp khwaam-sǎm-rèt",
+    "translation": "成功 (to succeed)",
+    "part_of_speech": "v.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "v_phalit",
+    "thai": "ผลิต",
+    "romanization": "phà-lìt",
+    "translation": "生产、制造 (produce)",
+    "part_of_speech": "v.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "v_diisai",
+    "thai": "ดีไซน์",
+    "romanization": "dii-sai",
+    "translation": "设计 (design) — loanword",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "v_raangwan",
+    "thai": "รางวัล",
+    "romanization": "raang-wan",
+    "translation": "奖项 (award)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "v_tɔɔyɔɔt",
+    "thai": "ต่อยอด",
+    "romanization": "tɔ̀ɔ-yɔ̂ɔt",
+    "translation": "延展、扩展 (build upon)",
+    "part_of_speech": "v.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "v_jutpliian",
+    "thai": "จุดเปลี่ยน",
+    "romanization": "jùt-pliàn",
+    "translation": "转折点 (turning point)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "v_tarlaat",
+    "thai": "ตลาด",
+    "romanization": "tà-làat",
+    "translation": "市场 (market)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "v_yokradap",
+    "thai": "ยกระดับ",
+    "romanization": "yók rá-dàp",
+    "translation": "升级、提升 (upgrade, raise level)",
+    "part_of_speech": "v.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "v_patiseet",
+    "thai": "ปฏิเสธ",
+    "romanization": "pà-tì-sèet",
+    "translation": "拒绝 (refuse, reject)",
+    "part_of_speech": "v.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "v_oodəə",
+    "thai": "ออเดอร์",
+    "romanization": "ɔ̀ɔ-dəə",
+    "translation": "订单 (order) — loanword",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "v_positioning",
+    "thai": "Positioning",
+    "romanization": "phɔ-sí-chân-ning",
+    "translation": "定位 (positioning)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "v_localize",
+    "thai": "โลโคลายซ์",
+    "romanization": "loo-khoo-lai",
+    "translation": "本地化 (localize)",
+    "part_of_speech": "v.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "v_softpower",
+    "thai": "Soft Power",
+    "romanization": "sɔ́f pá-wə̂ə",
+    "translation": "软实力 (soft power)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "v_creativity",
+    "thai": "creativity",
+    "romanization": "khrii-ee-tí-wí-tîi",
+    "translation": "创造力 (creativity)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "v_standard",
+    "thai": "standard",
+    "romanization": "sà-tɛn-dàat",
+    "translation": "标准 (standard)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "v_believe",
+    "thai": "believe",
+    "romanization": "bi-líiv",
+    "translation": "相信 (believe) — loanword",
+    "part_of_speech": "v.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "v_adapt",
+    "thai": "Adapt",
+    "romanization": "á-dǎep",
+    "translation": "适应、改造 (adapt)",
+    "part_of_speech": "v.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "v_multibrand",
+    "thai": "Multi Brand",
+    "romanization": "mân-ti brɛn",
+    "translation": "集合店 (multi-brand retail)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "v_recharge",
+    "thai": "take a break",
+    "romanization": "théek-ə-breek",
+    "translation": "休息、充电 (take a break)",
+    "part_of_speech": "v.",
+    "tags": [
+      "general"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "v_saangbraen",
+    "thai": "สร้างแบรนด์",
+    "romanization": "sâang braen",
+    "translation": "打造品牌 (build a brand)",
+    "part_of_speech": "v.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_ongkɔɔn",
+    "thai": "องค์กร",
+    "romanization": "ong-kɔɔn",
+    "translation": "组织、机构 (organization)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_oem",
+    "thai": "OEM",
+    "romanization": "oo-ii-em",
+    "translation": "代工生产 (Original Equipment Manufacturing)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_diisainəə",
+    "thai": "ดีไซเนอร์",
+    "romanization": "dii-sai-nəə",
+    "translation": "设计师 (designer)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_kruithaang",
+    "thai": "กรุยทาง",
+    "romanization": "krui-thaang",
+    "translation": "开路、铺路 (pave the way)",
+    "part_of_speech": "v.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_global",
+    "thai": "global",
+    "romanization": "glôo-bɔɔn",
+    "translation": "全球的 (global) — loanword",
+    "part_of_speech": "adj.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_online",
+    "thai": "ออไลน์",
+    "romanization": "ɔɔn-lai",
+    "translation": "线上 (online) — loanword",
+    "part_of_speech": "adj.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_popup",
+    "thai": "ป๊อปอัป",
+    "romanization": "pɔ́p-àp",
+    "translation": "快闪店 (pop-up)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_patjai",
+    "thai": "ปัจจัย",
+    "romanization": "pàt-jai",
+    "translation": "因素 (factor)",
+    "part_of_speech": "n.",
+    "tags": [
+      "general"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_khɔɔngkhwan",
+    "thai": "ของขวัญ",
+    "romanization": "khɔ̌ɔng-khwǎn",
+    "translation": "礼物 (gift)",
+    "part_of_speech": "n.",
+    "tags": [
+      "general"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_khunnaphaap",
+    "thai": "คุณภาพ",
+    "romanization": "khun-na-phâap",
+    "translation": "质量、品质 (quality)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_collab",
+    "thai": "Collab",
+    "romanization": "khɔɔn-lɛ̂ɛp",
+    "translation": "合作 (collaboration) — loanword",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_prakuat",
+    "thai": "ประกวด",
+    "romanization": "prà-kùat",
+    "translation": "参赛、竞赛 (compete, enter contest)",
+    "part_of_speech": "v.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_phuumjai",
+    "thai": "ภูมิใจ",
+    "romanization": "phuum-jai",
+    "translation": "自豪、引以为荣 (proud)",
+    "part_of_speech": "v.",
+    "tags": [
+      "general"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_qc",
+    "thai": "QC",
+    "romanization": "khiu-sii",
+    "translation": "质量控制 (Quality Control)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_takeoff",
+    "thai": "take-off",
+    "romanization": "théek-ɔ́f",
+    "translation": "起飞 (take-off)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_investor",
+    "thai": "อินเวสเตอร์",
+    "romanization": "in-wét-təə",
+    "translation": "投资人 (investor)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_investment",
+    "thai": "เงินเวสเมนต์",
+    "romanization": "ngən-wét-mên",
+    "translation": "投资款 (investment)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_approach",
+    "thai": "approach",
+    "romanization": "áp-prôot",
+    "translation": "接洽 (approach)",
+    "part_of_speech": "v.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_pricepoint",
+    "thai": "price point",
+    "romanization": "phrái-phɔi",
+    "translation": "价格带 (price point)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_sellingpoint",
+    "thai": "Selling Point",
+    "romanization": "sel-ling pɔi",
+    "translation": "卖点 (selling point)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_exclusivity",
+    "thai": "Exclusivity",
+    "romanization": "ik-sà-khluu-sí-wí-tîi",
+    "translation": "独家性 (exclusivity)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_exclusive",
+    "thai": "Exclusive",
+    "romanization": "ik-sà-khluu-sîp",
+    "translation": "独家 (exclusive)",
+    "part_of_speech": "adj.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_lifestyle",
+    "thai": "Lifestyle",
+    "romanization": "lái-sà-tai",
+    "translation": "生活方式 (lifestyle)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_valueadded",
+    "thai": "value added",
+    "romanization": "wɛɛ-luu-ét-dìt",
+    "translation": "附加值 (value added)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_brandidentity",
+    "thai": "brand identity",
+    "romanization": "brɛn ai-dɛn-tí-tîi",
+    "translation": "品牌识别 (brand identity)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_vision",
+    "thai": "Vision",
+    "romanization": "wí-chân",
+    "translation": "愿景 (vision)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_passion",
+    "thai": "แปชชั่น",
+    "romanization": "phɛɛt-chân",
+    "translation": "热情 (passion)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_recruiting",
+    "thai": "ริคูตติง",
+    "romanization": "rí-khrûu-tîng",
+    "translation": "招聘 (recruiting)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_regulation",
+    "thai": "Regulation",
+    "romanization": "rek-kìu-lee-chân",
+    "translation": "法规 (regulation)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_styleguide",
+    "thai": "Style Guide",
+    "romanization": "sà-tai-gáai",
+    "translation": "设计规范 (style guide)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_inspiration",
+    "thai": "Inspiration",
+    "romanization": "in-sà-pi-ree-chân",
+    "translation": "灵感 (inspiration)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_thinkbeyond",
+    "thai": "think beyond",
+    "romanization": "thíng bi-yón",
+    "translation": "超前思考 (think beyond)",
+    "part_of_speech": "v.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_fastmoney",
+    "thai": "fast money",
+    "romanization": "fâst mán-ni",
+    "translation": "快钱 (fast money)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_daara",
+    "thai": "ดารา",
+    "romanization": "daa-raa",
+    "translation": "明星 (celebrity, star)",
+    "part_of_speech": "n.",
+    "tags": [
+      "general"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_tiisi",
+    "thai": "เทียร์",
+    "romanization": "thiàa",
+    "translation": "层级、梯队 (tier)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_buyer",
+    "thai": "buyer",
+    "romanization": "bai-yə̂ə",
+    "translation": "买手 (buyer)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_collaboration",
+    "thai": "คลาบเบอร์เฟรชัน",
+    "romanization": "khɔn-læp-ə-ree-chân",
+    "translation": "合作 (collaboration)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_challenge",
+    "thai": "challenge",
+    "romanization": "chɛɛn-lén",
+    "translation": "挑战 (challenge)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_unique",
+    "thai": "unique",
+    "romanization": "yuu-níik",
+    "translation": "独特 (unique)",
+    "part_of_speech": "adj.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_combine",
+    "thai": "combine",
+    "romanization": "khɔm-bai",
+    "translation": "结合 (combine)",
+    "part_of_speech": "v.",
+    "tags": [
+      "general"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "v_jiwənrii",
+    "thai": "จิวเวลรี่",
+    "romanization": "jiu-wəl-rîi",
+    "translation": "珠宝 (jewelry) — loanword",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 0
+  },
+  {
+    "id": "v_ip",
+    "thai": "intellectual property",
+    "romanization": "in-ter-lék-chuân prɔ́ɔ-pəə-tîi",
+    "translation": "知识产权 (IP)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 0
+  },
+  {
+    "id": "v_enduser",
+    "thai": "End user",
+    "romanization": "en-yuu-sə̂ə",
+    "translation": "终端用户 (end user)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 0
+  },
+  {
+    "id": "v_bukbəək",
+    "thai": "บุกเบิก",
+    "romanization": "bùk-bə̀ək",
+    "translation": "开拓、开创 (pioneer)",
+    "part_of_speech": "v.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 0
+  },
+  {
+    "id": "v_collection",
+    "thai": "Collection",
+    "romanization": "khɔɔn-lék-chân",
+    "translation": "系列 (collection) — loanword",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 0
+  },
+  {
+    "id": "v_training",
+    "thai": "เทรนนิง",
+    "romanization": "treen-ning",
+    "translation": "培训 (training)",
+    "part_of_speech": "n.",
+    "tags": [
+      "business"
+    ],
+    "frequency": 0
+  }
+]
