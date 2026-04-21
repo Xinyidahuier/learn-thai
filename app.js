@@ -202,6 +202,21 @@ const App = {
     };
   },
 
+  // All saved cards (for browsing total collection)
+  getAllCards() {
+    const p = this.loadProgress();
+    const cards = [];
+    for (const vid of Object.keys(p.savedVocab || {})) {
+      const c = this._buildVocabCard(vid);
+      if (c) cards.push(c);
+    }
+    for (const sid of Object.keys(p.savedSentences || {})) {
+      const c = this._buildSentenceCard(sid);
+      if (c) cards.push(c);
+    }
+    return cards;
+  },
+
   // Review queue combines saved vocab + saved sentences
   getReviewQueue(limit = 50) {
     const p = this.loadProgress();

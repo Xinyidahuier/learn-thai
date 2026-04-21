@@ -4,7 +4,8 @@
   await App.loadData();
   App.loadProgress();
 
-  const queue = App.getReviewQueue(50);
+  const showAll = new URLSearchParams(location.search).get('all') === '1';
+  const queue = showAll ? App.getAllCards() : App.getReviewQueue(50);
   const total = queue.length;
   let idx = 0;
   let correct = 0, again = 0;
@@ -27,12 +28,16 @@
   const modeLabel = document.getElementById('modeLabel');
   const audioBigEl = document.getElementById('audioBig');
 
+  if (showAll) {
+    document.getElementById('modeLabel').textContent = '全部卡片';
+  }
+
   if (!total) {
     cardArea.hidden = true;
     emptyArea.hidden = false;
     const emptyHeading = emptyArea.querySelector('h2');
     const emptyText = emptyArea.querySelector('p');
-    if (emptyHeading) emptyHeading.textContent = '没有待复习的内容';
+    if (emptyHeading) emptyHeading.textContent = showAll ? '还没有保存任何卡片' : '没有待复习的内容';
     if (emptyText) emptyText.innerHTML = '去 <a href="index.html" style="color:var(--accent)">阅读器</a> 里点击单词或句子旁的 ☆，下次它们就会出现在这里。';
     return;
   }
