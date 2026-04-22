@@ -79,13 +79,21 @@
         <div style="color:var(--text-dim);font-size:14px">${isSentence ? '尝试用泰语说出这段话' : '尝试用泰语说出这个词'}</div>
       `;
     } else {
-      audioBigEl.style.display = '';
       if (!card.audio_url) {
-        frontHint.textContent = '（此卡片没有音频）';
-      } else if (isSentence) {
-        frontHint.textContent = '听音频，理解整段话';
+        audioBigEl.style.display = 'none';
+        frontHint.innerHTML = `
+          <div style="color:var(--text);font-size:${isSentence ? 16 : 22}px;${isSentence ? '' : 'font-weight:600;'}margin-bottom:8px;line-height:1.6">
+            ${escapeHtml(card.thai || '')}
+          </div>
+          <div style="color:var(--text-dim);font-size:13px">（此卡片没有音频）</div>
+        `;
       } else {
-        frontHint.textContent = '听音频里的例句，猜这个词的意思';
+        audioBigEl.style.display = '';
+        if (isSentence) {
+          frontHint.textContent = '听音频，理解整段话';
+        } else {
+          frontHint.textContent = '听音频里的例句，猜这个词的意思';
+        }
       }
     }
   }

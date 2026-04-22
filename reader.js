@@ -103,14 +103,17 @@
   function renderSentence(s) {
     const thaiHtml = highlightVocab(s.thai, s.annotations || []);
     const isHl = s.is_highlight ? 'is-highlight' : '';
-    const hasAudio = s.audio_url ? 'data-has-audio' : '';
     const saved = App.isSavedSentence(s.id);
     const starClass = saved ? 'star-sm saved' : 'star-sm';
     const starIcon = saved ? '★' : '☆';
+    const playBtn = s.audio_url
+      ? `<button class="play-sm" data-id="${s.id}">▶</button>`
+      : '';
+    const noAudioClass = s.audio_url ? '' : 'no-audio';
     return `
-      <div class="sentence ${isHl}" id="s-${s.id}" data-id="${s.id}">
+      <div class="sentence ${isHl} ${noAudioClass}" id="s-${s.id}" data-id="${s.id}">
         <div class="sentence-row">
-          <button class="play-sm" data-id="${s.id}" ${hasAudio}>▶</button>
+          ${playBtn}
           <div class="sentence-body">
             <div class="sentence-thai">${thaiHtml}</div>
             ${s.romanization ? `<div class="sentence-rom">${escapeHtml(s.romanization)}</div>` : ''}
