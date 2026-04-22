@@ -2,6 +2,7 @@
 
 (async () => {
   await App.loadData();
+  await Sync.startAndWait();
   App.loadProgress();
   const counts = App.getCounts();
   animateCount(document.getElementById('dueCount'), counts.due, 600);

@@ -2,6 +2,7 @@
 
 (async () => {
   await App.loadData();
+  await Sync.startAndWait();
   App.loadProgress();
 
   const searchInput = document.getElementById('searchInput');

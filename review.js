@@ -2,6 +2,7 @@
 
 (async () => {
   await App.loadData();
+  await Sync.startAndWait();
   App.loadProgress();
 
   const showAll = new URLSearchParams(location.search).get('all') === '1';

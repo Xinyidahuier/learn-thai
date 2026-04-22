@@ -2,6 +2,7 @@
 
 (async () => {
   await App.loadData();
+  await Sync.startAndWait();
   App.loadProgress();
 
   const params = new URLSearchParams(location.search);
