@@ -50,6 +50,7 @@ body {
 }
 
 /* Home body — soft background with hero glow */
+html, body { overflow-x: hidden; max-width: 100vw; }
 .home-body { background: #fafafa; position: relative; overflow-x: hidden; }
 .hero-bg {
   position: absolute;
@@ -405,6 +406,7 @@ a.stat-pill:hover {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+  min-width: 0;
 }
 .video-card .meta {
   color: var(--text-dim);
@@ -807,9 +809,19 @@ a.stat-pill:hover {
   .pill-icon { width: 32px; height: 32px; font-size: 16px; border-radius: 10px; }
   .pill-num { font-size: 20px; letter-spacing: -0.5px; }
   .pill-label { font-size: 11px; }
-  .video-card { padding: 14px 16px; gap: 12px; }
-  .card-type-badge { width: 40px; height: 40px; font-size: 16px; }
-  .video-card .title { font-size: 14px; }
+  .video-card { padding: 14px 14px; gap: 10px; }
+  .card-type-badge { width: 36px; height: 36px; font-size: 15px; border-radius: 10px; }
+  .video-card-arrow { font-size: 20px; }
+  .video-card .title {
+    font-size: 14px;
+    white-space: normal;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    word-break: break-word;
+    overflow-wrap: anywhere;
+    line-height: 1.35;
+  }
   .video-card .meta { font-size: 12px; }
   .thai-text { font-size: 22px; }
   .rate { font-size: 14px; padding: 12px 2px; }
