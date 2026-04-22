@@ -35,7 +35,7 @@
   function renderArticleCard(a) {
     const sents = App.data.sentences.filter(s => (s.article_id || s.video_id) === a.id).length;
     const highlights = App.data.sentences.filter(s => (s.article_id || s.video_id) === a.id && s.is_highlight).length;
-    const typeIcon = { youtube: '▶', audio: '🎧', text: '📄' }[a.type] || '📖';
+    const typeIcon = { youtube: '▶', audio: '🎵', text: '📄' }[a.type] || '📖';
     const statusBadge = a.status === 'finished' ? '<span class="badge-finished">已学完</span>' : '';
     return `
       <a class="video-card video-card-link" href="reader.html?a=${encodeURIComponent(a.id)}">
