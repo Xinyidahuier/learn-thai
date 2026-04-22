@@ -34,5 +34,17 @@
     "status": "studying",
     "favorite": false,
     "created_at": "2026-04-21T16:57:18.461038+00:00"
+  },
+  {
+    "id": "article-df1d3211",
+    "title": "ไมโครพลาสติกจากกล่องกระดาษ",
+    "type": "text",
+    "source_url": "file:///Users/xinyi/学习/Thai/learn-thai/scripts/sanook_9885030.txt",
+    "duration_sec": 0,
+    "duration_str": "",
+    "sentence_count": 13,
+    "status": "studying",
+    "favorite": false,
+    "created_at": "2026-04-22T02:25:54.299916+00:00"
   }
 ]

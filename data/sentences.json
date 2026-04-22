@@ -283,6 +283,11 @@
         "start": 2,
         "end": 8,
         "vocab_id": "th_93e2ea"
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "vocab_id": "th_c2e847"
       }
     ],
     "is_highlight": false,
@@ -328,6 +333,11 @@
         "start": 2,
         "end": 8,
         "vocab_id": "th_93e2ea"
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "vocab_id": "th_c2e847"
       }
     ],
     "is_highlight": false,
@@ -523,6 +533,11 @@
         "start": 11,
         "end": 15,
         "vocab_id": "th_3baadf"
+      },
+      {
+        "start": 29,
+        "end": 32,
+        "vocab_id": "th_c2e847"
       }
     ],
     "is_highlight": false,
@@ -780,9 +795,19 @@
         "vocab_id": "th_ad6c8d"
       },
       {
+        "start": 34,
+        "end": 37,
+        "vocab_id": "th_aba420"
+      },
+      {
         "start": 37,
         "end": 42,
         "vocab_id": "th_dc1d87"
+      },
+      {
+        "start": 48,
+        "end": 51,
+        "vocab_id": "th_aba420"
       },
       {
         "start": 54,
@@ -860,6 +885,11 @@
         "vocab_id": "th_55d14e"
       },
       {
+        "start": 60,
+        "end": 63,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 67,
         "end": 73,
         "vocab_id": "th_0491ea"
@@ -873,6 +903,11 @@
         "start": 90,
         "end": 93,
         "vocab_id": "th_4ef9c3"
+      },
+      {
+        "start": 100,
+        "end": 103,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 114,
@@ -1030,9 +1065,24 @@
         "vocab_id": "th_47fb55"
       },
       {
+        "start": 96,
+        "end": 99,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 103,
         "end": 108,
         "vocab_id": "th_3b71a2"
+      },
+      {
+        "start": 112,
+        "end": 115,
+        "vocab_id": "th_c2e847"
+      },
+      {
+        "start": 136,
+        "end": 139,
+        "vocab_id": "th_c2e847"
       }
     ],
     "is_highlight": true,
@@ -1050,6 +1100,11 @@
     "vocab_ids": [],
     "annotations": [
       {
+        "start": 16,
+        "end": 19,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 63,
         "end": 70,
         "vocab_id": "th_989b38"
@@ -1058,6 +1113,11 @@
         "start": 82,
         "end": 88,
         "vocab_id": "v_disney"
+      },
+      {
+        "start": 103,
+        "end": 106,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 149,
@@ -1395,6 +1455,11 @@
         "vocab_id": "th_78eb6c"
       },
       {
+        "start": 82,
+        "end": 85,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 97,
         "end": 102,
         "vocab_id": "th_54b69b"
@@ -1500,6 +1565,11 @@
         "vocab_id": "th_342b24"
       },
       {
+        "start": 45,
+        "end": 48,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 55,
         "end": 60,
         "vocab_id": "th_a298c5"
@@ -1568,6 +1638,11 @@
         "start": 2,
         "end": 8,
         "vocab_id": "th_4ee810"
+      },
+      {
+        "start": 35,
+        "end": 38,
+        "vocab_id": "th_c2e847"
       }
     ],
     "is_highlight": false,
@@ -1593,6 +1668,11 @@
         "start": 38,
         "end": 44,
         "vocab_id": "th_e50d3f"
+      },
+      {
+        "start": 45,
+        "end": 48,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 61,
@@ -1715,6 +1795,11 @@
     "vocab_ids": [],
     "annotations": [
       {
+        "start": 14,
+        "end": 17,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 33,
         "end": 39,
         "vocab_id": "th_a68075"
@@ -1763,6 +1848,11 @@
         "start": 167,
         "end": 173,
         "vocab_id": "th_b5769b"
+      },
+      {
+        "start": 180,
+        "end": 183,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 189,
@@ -1818,6 +1908,11 @@
         "start": 0,
         "end": 4,
         "vocab_id": "th_36806d"
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 21,
@@ -2097,6 +2192,11 @@
         "start": 18,
         "end": 26,
         "vocab_id": "th_19fe70"
+      },
+      {
+        "start": 27,
+        "end": 30,
+        "vocab_id": "th_c2e847"
       }
     ],
     "is_highlight": false,
@@ -2131,6 +2231,11 @@
         "start": 5,
         "end": 9,
         "vocab_id": "th_c2f5bd"
+      },
+      {
+        "start": 22,
+        "end": 25,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 37,
@@ -2217,6 +2322,16 @@
     "translation": "——对对，她作为 Designer，设计很强。然后从 Sa 本人那里得到了任务：想要有意义的东西。",
     "vocab_ids": [],
     "annotations": [
+      {
+        "start": 6,
+        "end": 9,
+        "vocab_id": "th_c2e847"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "vocab_id": "th_c2e847"
+      },
       {
         "start": 37,
         "end": 41,
@@ -2348,6 +2463,11 @@
         "vocab_id": "th_6f1080"
       },
       {
+        "start": 22,
+        "end": 25,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 28,
         "end": 34,
         "vocab_id": "th_3bc538"
@@ -2463,6 +2583,11 @@
         "vocab_id": "th_a150ac"
       },
       {
+        "start": 57,
+        "end": 60,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 67,
         "end": 70,
         "vocab_id": "th_a150ac"
@@ -2476,6 +2601,11 @@
         "start": 86,
         "end": 89,
         "vocab_id": "th_a150ac"
+      },
+      {
+        "start": 94,
+        "end": 97,
+        "vocab_id": "th_c2e847"
       }
     ],
     "is_highlight": false,
@@ -2506,6 +2636,11 @@
         "start": 15,
         "end": 19,
         "vocab_id": "th_36806d"
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 24,
@@ -2643,6 +2778,11 @@
         "vocab_id": "th_32e8be"
       },
       {
+        "start": 64,
+        "end": 67,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 87,
         "end": 90,
         "vocab_id": "th_8b4b34"
@@ -2661,6 +2801,11 @@
         "start": 112,
         "end": 120,
         "vocab_id": "v_takeoff"
+      },
+      {
+        "start": 147,
+        "end": 150,
+        "vocab_id": "th_c2e847"
       }
     ],
     "is_highlight": true,
@@ -2721,6 +2866,11 @@
         "start": 126,
         "end": 129,
         "vocab_id": "th_f09b21"
+      },
+      {
+        "start": 139,
+        "end": 142,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 143,
@@ -2843,9 +2993,19 @@
         "vocab_id": "th_acf13e"
       },
       {
+        "start": 101,
+        "end": 104,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 115,
         "end": 119,
         "vocab_id": "th_fd30b1"
+      },
+      {
+        "start": 123,
+        "end": 126,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 127,
@@ -2941,6 +3101,11 @@
         "start": 149,
         "end": 156,
         "vocab_id": "th_08c1d6"
+      },
+      {
+        "start": 157,
+        "end": 160,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 166,
@@ -3248,9 +3413,19 @@
         "vocab_id": "th_3b76e7"
       },
       {
+        "start": 140,
+        "end": 143,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 148,
         "end": 155,
         "vocab_id": "th_bc14de"
+      },
+      {
+        "start": 158,
+        "end": 161,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 167,
@@ -3708,6 +3883,11 @@
         "vocab_id": "th_280f37"
       },
       {
+        "start": 119,
+        "end": 122,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 126,
         "end": 130,
         "vocab_id": "th_c2f5bd"
@@ -3876,6 +4056,11 @@
         "start": 2,
         "end": 5,
         "vocab_id": "th_280f37"
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 24,
@@ -4133,6 +4318,11 @@
         "vocab_id": "th_60d300"
       },
       {
+        "start": 14,
+        "end": 17,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 21,
         "end": 28,
         "vocab_id": "th_bc14de"
@@ -4213,9 +4403,9 @@
         "vocab_id": "th_1bb5c0"
       },
       {
-        "start": 162,
-        "end": 165,
-        "vocab_id": "th_3d6967"
+        "start": 160,
+        "end": 163,
+        "vocab_id": "th_aba420"
       },
       {
         "start": 174,
@@ -4416,6 +4606,11 @@
         "start": 158,
         "end": 161,
         "vocab_id": "th_cf6f85"
+      },
+      {
+        "start": 180,
+        "end": 183,
+        "vocab_id": "th_c2e847"
       }
     ],
     "is_highlight": true,
@@ -4436,6 +4631,11 @@
         "start": 8,
         "end": 20,
         "vocab_id": "v_thinkbeyond"
+      },
+      {
+        "start": 22,
+        "end": 25,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 38,
@@ -4503,6 +4703,11 @@
         "vocab_id": "th_098ff2"
       },
       {
+        "start": 33,
+        "end": 36,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 50,
         "end": 56,
         "vocab_id": "th_c9db6e"
@@ -4522,6 +4727,11 @@
     "translation": "——对，Adapt Design 怎么做到「不雷同」。因为全球做 Disney 联名（Brand JV）的品牌太多了。当时 Sa 把方案送去 Cool Branding 评审——他们把资料送到美国——问这个品牌你们接不接？",
     "vocab_ids": [],
     "annotations": [
+      {
+        "start": 6,
+        "end": 9,
+        "vocab_id": "th_c2e847"
+      },
       {
         "start": 10,
         "end": 15,
@@ -4566,6 +4776,11 @@
         "start": 176,
         "end": 182,
         "vocab_id": "v_braen"
+      },
+      {
+        "start": 190,
+        "end": 193,
+        "vocab_id": "th_c2e847"
       }
     ],
     "is_highlight": true,
@@ -4582,6 +4797,11 @@
     "translation": "因为 GVW（Global Vertical Window）全球只接几个品牌。当时里面全是大牌——所有大家耳熟能详的品牌都在做。那为什么 Ravipa 能入选？为什么要让一个泰国的品牌进来？",
     "vocab_ids": [],
     "annotations": [
+      {
+        "start": 19,
+        "end": 22,
+        "vocab_id": "th_c2e847"
+      },
       {
         "start": 31,
         "end": 34,
@@ -4738,6 +4958,11 @@
         "vocab_id": "th_4ee810"
       },
       {
+        "start": 62,
+        "end": 65,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 76,
         "end": 84,
         "vocab_id": "th_342b24"
@@ -4797,6 +5022,11 @@
     "translation": "——可以。就拿这款 Mickey，因为是第一个 collection。Disney Style Guide 里的这款 Mickey，你看他好像在 paint（画画）什么东西。但 Sa 说：以它的这个姿态，我想改成他在挂一个 Infinity——诶，我刚注意到！对，就是这样。",
     "vocab_ids": [],
     "annotations": [
+      {
+        "start": 6,
+        "end": 9,
+        "vocab_id": "th_c2e847"
+      },
       {
         "start": 10,
         "end": 15,
@@ -4943,6 +5173,11 @@
         "vocab_id": "th_c9b40e"
       },
       {
+        "start": 147,
+        "end": 150,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 156,
         "end": 160,
         "vocab_id": "th_78eb6c"
@@ -5011,6 +5246,11 @@
         "start": 43,
         "end": 49,
         "vocab_id": "th_e50d3f"
+      },
+      {
+        "start": 56,
+        "end": 59,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 75,
@@ -5183,6 +5423,11 @@
         "vocab_id": "th_0491ea"
       },
       {
+        "start": 78,
+        "end": 81,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 85,
         "end": 91,
         "vocab_id": "th_0491ea"
@@ -5278,6 +5523,11 @@
     "vocab_ids": [],
     "annotations": [
       {
+        "start": 4,
+        "end": 7,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 23,
         "end": 30,
         "vocab_id": "th_989b38"
@@ -5316,6 +5566,11 @@
         "start": 137,
         "end": 144,
         "vocab_id": "th_5ed2f4"
+      },
+      {
+        "start": 151,
+        "end": 154,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 162,
@@ -5431,6 +5686,11 @@
         "start": 154,
         "end": 160,
         "vocab_id": "th_8ea1c5"
+      },
+      {
+        "start": 187,
+        "end": 190,
+        "vocab_id": "th_c2e847"
       }
     ],
     "is_highlight": true,
@@ -5542,6 +5802,11 @@
     "translation": "——对，那团队内部怎么培训？Sa 觉得最挑战的可能是培训海外的销售员。因为这是跨国了、沟通方式都不一样。但我们要建立同样的 believe（信念）、同样的 value（价值观），跟泰国的同事保持一致。",
     "vocab_ids": [],
     "annotations": [
+      {
+        "start": 6,
+        "end": 9,
+        "vocab_id": "th_c2e847"
+      },
       {
         "start": 28,
         "end": 35,
@@ -5843,6 +6108,11 @@
     "vocab_ids": [],
     "annotations": [
       {
+        "start": 1,
+        "end": 4,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 7,
         "end": 10,
         "vocab_id": "th_05cabc"
@@ -5913,6 +6183,11 @@
     "vocab_ids": [],
     "annotations": [
       {
+        "start": 6,
+        "end": 9,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 25,
         "end": 28,
         "vocab_id": "th_37eb77"
@@ -5942,6 +6217,11 @@
     "translation": "——对，就是过去那种参展。",
     "vocab_ids": [],
     "annotations": [
+      {
+        "start": 6,
+        "end": 9,
+        "vocab_id": "th_c2e847"
+      },
       {
         "start": 9,
         "end": 12,
@@ -6051,6 +6331,11 @@
         "start": 25,
         "end": 29,
         "vocab_id": "th_6fc1cf"
+      },
+      {
+        "start": 30,
+        "end": 33,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 47,
@@ -6306,6 +6591,11 @@
         "start": 9,
         "end": 13,
         "vocab_id": "th_4446ab"
+      },
+      {
+        "start": 34,
+        "end": 37,
+        "vocab_id": "th_6a3466"
       },
       {
         "start": 48,
@@ -6828,6 +7118,11 @@
     "vocab_ids": [],
     "annotations": [
       {
+        "start": 13,
+        "end": 16,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 53,
         "end": 58,
         "vocab_id": "th_761546"
@@ -6951,6 +7246,11 @@
         "start": 207,
         "end": 211,
         "vocab_id": "th_56bb31"
+      },
+      {
+        "start": 218,
+        "end": 221,
+        "vocab_id": "th_c2e847"
       }
     ],
     "is_highlight": true,
@@ -7111,6 +7411,16 @@
         "start": 157,
         "end": 163,
         "vocab_id": "th_e42d6e"
+      },
+      {
+        "start": 168,
+        "end": 171,
+        "vocab_id": "th_c2e847"
+      },
+      {
+        "start": 219,
+        "end": 222,
+        "vocab_id": "th_c2e847"
       }
     ],
     "is_highlight": true,
@@ -7156,6 +7466,11 @@
         "start": 97,
         "end": 101,
         "vocab_id": "th_59fcb4"
+      },
+      {
+        "start": 110,
+        "end": 113,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 133,
@@ -7561,6 +7876,11 @@
         "start": 136,
         "end": 141,
         "vocab_id": "th_3f8725"
+      },
+      {
+        "start": 146,
+        "end": 149,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 173,
@@ -8016,6 +8336,11 @@
         "start": 24,
         "end": 30,
         "vocab_id": "th_1376c0"
+      },
+      {
+        "start": 42,
+        "end": 45,
+        "vocab_id": "th_c2e847"
       }
     ],
     "is_highlight": false,
@@ -8046,6 +8371,11 @@
         "start": 55,
         "end": 60,
         "vocab_id": "th_dc1d87"
+      },
+      {
+        "start": 64,
+        "end": 67,
+        "vocab_id": "th_aba420"
       },
       {
         "start": 68,
@@ -8113,6 +8443,11 @@
         "vocab_id": "th_19fe70"
       },
       {
+        "start": 109,
+        "end": 112,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 124,
         "end": 133,
         "vocab_id": "th_361ae6"
@@ -8176,6 +8511,11 @@
         "start": 164,
         "end": 170,
         "vocab_id": "v_prathet"
+      },
+      {
+        "start": 171,
+        "end": 174,
+        "vocab_id": "th_c2e847"
       }
     ],
     "is_highlight": true,
@@ -8221,6 +8561,11 @@
         "start": 67,
         "end": 73,
         "vocab_id": "th_4ee810"
+      },
+      {
+        "start": 74,
+        "end": 77,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 86,
@@ -8348,6 +8693,11 @@
         "vocab_id": "th_e50d3f"
       },
       {
+        "start": 57,
+        "end": 60,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 61,
         "end": 64,
         "vocab_id": "th_05cabc"
@@ -8463,6 +8813,11 @@
         "vocab_id": "th_b85cb8"
       },
       {
+        "start": 115,
+        "end": 118,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 150,
         "end": 155,
         "vocab_id": "th_9e476a"
@@ -8503,6 +8858,11 @@
         "vocab_id": "th_965ed0"
       },
       {
+        "start": 20,
+        "end": 23,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 84,
         "end": 88,
         "vocab_id": "th_11ecc3"
@@ -8541,6 +8901,11 @@
         "start": 205,
         "end": 211,
         "vocab_id": "th_ee09d3"
+      },
+      {
+        "start": 229,
+        "end": 232,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 238,
@@ -8638,6 +9003,11 @@
         "vocab_id": "th_3b76e7"
       },
       {
+        "start": 55,
+        "end": 58,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 83,
         "end": 90,
         "vocab_id": "th_209257"
@@ -8676,6 +9046,11 @@
         "start": 161,
         "end": 168,
         "vocab_id": "v_minimal"
+      },
+      {
+        "start": 172,
+        "end": 175,
+        "vocab_id": "th_ad7388"
       },
       {
         "start": 196,
@@ -8745,6 +9120,11 @@
         "start": 5,
         "end": 9,
         "vocab_id": "th_6fc1cf"
+      },
+      {
+        "start": 10,
+        "end": 13,
+        "vocab_id": "th_c2e847"
       }
     ],
     "is_highlight": false,
@@ -8761,6 +9141,11 @@
     "translation": "——对，日本有他们的 license、他们的 material、他们的 uniqueness。比如泰式线纹（Line Print）跟和服的线纹就非常不同——线条的「质感」也大大不同。",
     "vocab_ids": [],
     "annotations": [
+      {
+        "start": 6,
+        "end": 9,
+        "vocab_id": "th_c2e847"
+      },
       {
         "start": 16,
         "end": 23,
@@ -8801,6 +9186,11 @@
     "translation": "对，Sa 认为我们必须把自己的 Uniqueness（独特性）拿出来用。我特别喜欢一点：今天大家都在谈 Soft Power——但在设计层面真正的 Soft Power 就是「拿出我们的独特性，调整后变成世界的语言」。",
     "vocab_ids": [],
     "annotations": [
+      {
+        "start": 4,
+        "end": 7,
+        "vocab_id": "th_c2e847"
+      },
       {
         "start": 53,
         "end": 56,
@@ -8895,6 +9285,11 @@
         "start": 17,
         "end": 22,
         "vocab_id": "th_d317fd"
+      },
+      {
+        "start": 27,
+        "end": 30,
+        "vocab_id": "th_c2e847"
       }
     ],
     "is_highlight": true,
@@ -9065,6 +9460,11 @@
         "start": 19,
         "end": 24,
         "vocab_id": "th_d317fd"
+      },
+      {
+        "start": 29,
+        "end": 32,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 33,
@@ -9267,6 +9667,11 @@
         "vocab_id": "th_c9432b"
       },
       {
+        "start": 161,
+        "end": 164,
+        "vocab_id": "th_aba420"
+      },
+      {
         "start": 169,
         "end": 173,
         "vocab_id": "th_872c63"
@@ -9275,6 +9680,11 @@
         "start": 181,
         "end": 185,
         "vocab_id": "th_8da13b"
+      },
+      {
+        "start": 192,
+        "end": 195,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 208,
@@ -9296,6 +9706,11 @@
     "translation": "——哦——是。因为海外投资比泰国要大得多。从 Day 1 到今天，Sa 一直没借过钱——都用自有资金投资。所以（扩张速度）可能没那么——",
     "vocab_ids": [],
     "annotations": [
+      {
+        "start": 14,
+        "end": 17,
+        "vocab_id": "th_c2e847"
+      },
       {
         "start": 26,
         "end": 31,
@@ -9347,6 +9762,16 @@
         "vocab_id": "th_864157"
       },
       {
+        "start": 182,
+        "end": 185,
+        "vocab_id": "th_c2e847"
+      },
+      {
+        "start": 190,
+        "end": 193,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 218,
         "end": 223,
         "vocab_id": "th_c5f89e"
@@ -9372,6 +9797,11 @@
         "vocab_id": "v_khayaai"
       },
       {
+        "start": 24,
+        "end": 27,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 28,
         "end": 32,
         "vocab_id": "th_4446ab"
@@ -9391,6 +9821,11 @@
     "translation": "——对，那你想那样吗？——我觉得我还——其实有 investor（投资人）来找过，肯定的。但我心里还是觉得：我想让这个「孩子」按我们现在养它的方式长大。",
     "vocab_ids": [],
     "annotations": [
+      {
+        "start": 6,
+        "end": 9,
+        "vocab_id": "th_c2e847"
+      },
       {
         "start": 20,
         "end": 29,
@@ -9420,6 +9855,16 @@
         "start": 93,
         "end": 101,
         "vocab_id": "th_b38db1"
+      },
+      {
+        "start": 102,
+        "end": 105,
+        "vocab_id": "th_c2e847"
+      },
+      {
+        "start": 119,
+        "end": 122,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 134,
@@ -9480,6 +9925,11 @@
         "start": 89,
         "end": 92,
         "vocab_id": "th_4ef9c3"
+      },
+      {
+        "start": 93,
+        "end": 96,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 115,
@@ -9692,6 +10142,11 @@
         "vocab_id": "th_b1e66e"
       },
       {
+        "start": 203,
+        "end": 206,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 221,
         "end": 225,
         "vocab_id": "th_c2f5bd"
@@ -9730,6 +10185,11 @@
         "start": 20,
         "end": 24,
         "vocab_id": "th_78eb6c"
+      },
+      {
+        "start": 35,
+        "end": 38,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 41,
@@ -9850,6 +10310,11 @@
         "start": 115,
         "end": 119,
         "vocab_id": "th_c21893"
+      },
+      {
+        "start": 124,
+        "end": 127,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 139,
@@ -9975,6 +10440,11 @@
         "start": 15,
         "end": 20,
         "vocab_id": "th_c48219"
+      },
+      {
+        "start": 34,
+        "end": 37,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 49,
@@ -10247,6 +10717,11 @@
         "vocab_id": "th_a64277"
       },
       {
+        "start": 17,
+        "end": 20,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 20,
         "end": 23,
         "vocab_id": "th_a7a844"
@@ -10355,6 +10830,11 @@
         "start": 134,
         "end": 142,
         "vocab_id": "th_68d57e"
+      },
+      {
+        "start": 163,
+        "end": 166,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 180,
@@ -10475,6 +10955,11 @@
         "start": 16,
         "end": 20,
         "vocab_id": "th_ee0793"
+      },
+      {
+        "start": 25,
+        "end": 28,
+        "vocab_id": "th_c2e847"
       }
     ],
     "is_highlight": true,
@@ -10737,6 +11222,11 @@
         "vocab_id": "th_438d03"
       },
       {
+        "start": 64,
+        "end": 67,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 81,
         "end": 89,
         "vocab_id": "th_19fe70"
@@ -10747,6 +11237,11 @@
         "vocab_id": "th_d018e3"
       },
       {
+        "start": 125,
+        "end": 128,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 175,
         "end": 183,
         "vocab_id": "th_19fe70"
@@ -10755,6 +11250,11 @@
         "start": 183,
         "end": 186,
         "vocab_id": "th_5d843d"
+      },
+      {
+        "start": 190,
+        "end": 197,
+        "vocab_id": "th_2b1ee0"
       }
     ],
     "is_highlight": true,
@@ -10797,6 +11297,11 @@
         "vocab_id": "th_bc14de"
       },
       {
+        "start": 116,
+        "end": 123,
+        "vocab_id": "th_2b1ee0"
+      },
+      {
         "start": 126,
         "end": 129,
         "vocab_id": "th_f27937"
@@ -10805,6 +11310,11 @@
         "start": 133,
         "end": 139,
         "vocab_id": "th_d018e3"
+      },
+      {
+        "start": 148,
+        "end": 155,
+        "vocab_id": "th_2b1ee0"
       }
     ],
     "is_highlight": true,
@@ -10847,6 +11357,11 @@
         "vocab_id": "th_b8239c"
       },
       {
+        "start": 94,
+        "end": 97,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 101,
         "end": 106,
         "vocab_id": "th_92a5d3"
@@ -10855,6 +11370,11 @@
         "start": 145,
         "end": 152,
         "vocab_id": "th_5ed2f4"
+      },
+      {
+        "start": 180,
+        "end": 183,
+        "vocab_id": "th_6a3466"
       }
     ],
     "is_highlight": true,
@@ -10875,6 +11395,16 @@
         "start": 0,
         "end": 7,
         "vocab_id": "th_209257"
+      },
+      {
+        "start": 7,
+        "end": 10,
+        "vocab_id": "th_6a3466"
+      },
+      {
+        "start": 17,
+        "end": 20,
+        "vocab_id": "th_6a3466"
       },
       {
         "start": 30,
@@ -11070,7 +11600,13 @@
     "romanization": "",
     "translation": "如果给想「打造品牌」的人一句建议——",
     "vocab_ids": [],
-    "annotations": [],
+    "annotations": [
+      {
+        "start": 9,
+        "end": 16,
+        "vocab_id": "th_90b0c5"
+      }
+    ],
     "is_highlight": false,
     "audio_url": "audio-local/Nf-KbZ0XHMU/0188.mp3",
     "article_id": "Nf-KbZ0XHMU"
@@ -11189,6 +11725,11 @@
         "start": 11,
         "end": 15,
         "vocab_id": "th_5480c4"
+      },
+      {
+        "start": 15,
+        "end": 20,
+        "vocab_id": "th_acf212"
       },
       {
         "start": 20,
@@ -11319,6 +11860,11 @@
         "start": 72,
         "end": 77,
         "vocab_id": "th_6664e0"
+      },
+      {
+        "start": 113,
+        "end": 116,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 119,
@@ -11601,6 +12147,11 @@
         "vocab_id": "v_prathet"
       },
       {
+        "start": 120,
+        "end": 123,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 134,
         "end": 140,
         "vocab_id": "th_864157"
@@ -11609,6 +12160,11 @@
         "start": 149,
         "end": 154,
         "vocab_id": "th_745e59"
+      },
+      {
+        "start": 155,
+        "end": 158,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 158,
@@ -11761,6 +12317,11 @@
         "vocab_id": "th_b1e66e"
       },
       {
+        "start": 115,
+        "end": 118,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 156,
         "end": 164,
         "vocab_id": "th_dbf3b0"
@@ -11774,6 +12335,11 @@
         "start": 177,
         "end": 181,
         "vocab_id": "th_878224"
+      },
+      {
+        "start": 187,
+        "end": 190,
+        "vocab_id": "th_c2e847"
       }
     ],
     "is_highlight": true,
@@ -11921,6 +12487,11 @@
         "vocab_id": "th_68aa2b"
       },
       {
+        "start": 173,
+        "end": 176,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 193,
         "end": 198,
         "vocab_id": "th_c5f89e"
@@ -11966,9 +12537,19 @@
         "vocab_id": "th_c2f5bd"
       },
       {
+        "start": 105,
+        "end": 108,
+        "vocab_id": "th_6a3466"
+      },
+      {
         "start": 114,
         "end": 120,
         "vocab_id": "th_f3c25a"
+      },
+      {
+        "start": 168,
+        "end": 171,
+        "vocab_id": "th_c2e847"
       }
     ],
     "is_highlight": true,
@@ -12386,6 +12967,11 @@
         "vocab_id": "th_eba5e8"
       },
       {
+        "start": 27,
+        "end": 30,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 31,
         "end": 37,
         "vocab_id": "th_0491ea"
@@ -12394,6 +12980,11 @@
         "start": 37,
         "end": 43,
         "vocab_id": "th_e50d3f"
+      },
+      {
+        "start": 46,
+        "end": 49,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 50,
@@ -12877,6 +13468,11 @@
         "vocab_id": "th_373b18"
       },
       {
+        "start": 71,
+        "end": 74,
+        "vocab_id": "th_6a3466"
+      },
+      {
         "start": 82,
         "end": 85,
         "vocab_id": "th_399c53"
@@ -12967,6 +13563,11 @@
     "vocab_ids": [],
     "annotations": [
       {
+        "start": 0,
+        "end": 3,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 18,
         "end": 21,
         "vocab_id": "th_1277eb"
@@ -13051,6 +13652,11 @@
     "romanization": "",
     "vocab_ids": [],
     "annotations": [
+      {
+        "start": 0,
+        "end": 3,
+        "vocab_id": "th_aba420"
+      },
       {
         "start": 4,
         "end": 9,
@@ -13247,6 +13853,11 @@
         "vocab_id": "th_6018a4"
       },
       {
+        "start": 113,
+        "end": 116,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 122,
         "end": 129,
         "vocab_id": "th_f58190"
@@ -13350,6 +13961,11 @@
         "start": 25,
         "end": 31,
         "vocab_id": "th_ecbc37"
+      },
+      {
+        "start": 36,
+        "end": 39,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 56,
@@ -13490,6 +14106,11 @@
         "start": 77,
         "end": 80,
         "vocab_id": "th_cc62e1"
+      },
+      {
+        "start": 81,
+        "end": 84,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 94,
@@ -13640,6 +14261,11 @@
         "start": 21,
         "end": 26,
         "vocab_id": "th_dd422b"
+      },
+      {
+        "start": 44,
+        "end": 47,
+        "vocab_id": "th_c2e847"
       }
     ],
     "is_highlight": false,
@@ -13707,6 +14333,11 @@
         "vocab_id": "th_19cb85"
       },
       {
+        "start": 96,
+        "end": 99,
+        "vocab_id": "th_6a3466"
+      },
+      {
         "start": 129,
         "end": 139,
         "vocab_id": "th_72363b"
@@ -13747,9 +14378,19 @@
         "vocab_id": "th_9f87d1"
       },
       {
+        "start": 55,
+        "end": 58,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 74,
         "end": 78,
         "vocab_id": "th_b1b916"
+      },
+      {
+        "start": 90,
+        "end": 93,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 106,
@@ -13847,6 +14488,11 @@
         "vocab_id": "th_f82983"
       },
       {
+        "start": 96,
+        "end": 99,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 108,
         "end": 115,
         "vocab_id": "th_dd2434"
@@ -13880,6 +14526,11 @@
         "start": 23,
         "end": 29,
         "vocab_id": "th_1f630b"
+      },
+      {
+        "start": 32,
+        "end": 35,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 49,
@@ -13925,6 +14576,11 @@
         "start": 132,
         "end": 135,
         "vocab_id": "th_cc62e1"
+      },
+      {
+        "start": 136,
+        "end": 139,
+        "vocab_id": "th_c2e847"
       }
     ],
     "is_highlight": false,
@@ -14112,6 +14768,11 @@
         "vocab_id": "th_399c53"
       },
       {
+        "start": 43,
+        "end": 46,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 47,
         "end": 56,
         "vocab_id": "th_28a28f"
@@ -14137,6 +14798,11 @@
         "vocab_id": "th_ff4296"
       },
       {
+        "start": 86,
+        "end": 89,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 93,
         "end": 101,
         "vocab_id": "th_55af90"
@@ -14150,6 +14816,11 @@
         "start": 118,
         "end": 123,
         "vocab_id": "th_690979"
+      },
+      {
+        "start": 124,
+        "end": 133,
+        "vocab_id": "th_eb6e31"
       },
       {
         "start": 133,
@@ -14180,6 +14851,11 @@
         "start": 30,
         "end": 36,
         "vocab_id": "v_prathet"
+      },
+      {
+        "start": 36,
+        "end": 42,
+        "vocab_id": "th_9d4e35"
       },
       {
         "start": 46,
@@ -14265,6 +14941,11 @@
         "start": 103,
         "end": 110,
         "vocab_id": "th_853a6d"
+      },
+      {
+        "start": 111,
+        "end": 114,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 121,
@@ -14380,6 +15061,11 @@
         "start": 87,
         "end": 90,
         "vocab_id": "th_6018a4"
+      },
+      {
+        "start": 97,
+        "end": 100,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 107,
@@ -14570,6 +15256,11 @@
         "start": 111,
         "end": 116,
         "vocab_id": "th_f82983"
+      },
+      {
+        "start": 117,
+        "end": 120,
+        "vocab_id": "th_c2e847"
       }
     ],
     "is_highlight": false,
@@ -14802,6 +15493,11 @@
     "vocab_ids": [],
     "annotations": [
       {
+        "start": 18,
+        "end": 21,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 22,
         "end": 27,
         "vocab_id": "th_6eca68"
@@ -14917,6 +15613,11 @@
         "vocab_id": "th_5480c4"
       },
       {
+        "start": 124,
+        "end": 127,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 135,
         "end": 138,
         "vocab_id": "th_f09b21"
@@ -15010,6 +15711,11 @@
         "start": 174,
         "end": 179,
         "vocab_id": "th_294c5c"
+      },
+      {
+        "start": 184,
+        "end": 187,
+        "vocab_id": "th_c2e847"
       }
     ],
     "is_highlight": false,
@@ -15212,6 +15918,11 @@
         "vocab_id": "th_80a95a"
       },
       {
+        "start": 6,
+        "end": 9,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 10,
         "end": 16,
         "vocab_id": "th_8bc313"
@@ -15367,9 +16078,19 @@
         "vocab_id": "th_853a6d"
       },
       {
+        "start": 92,
+        "end": 95,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 104,
         "end": 109,
         "vocab_id": "th_cdd890"
+      },
+      {
+        "start": 115,
+        "end": 118,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 130,
@@ -15432,6 +16153,16 @@
         "vocab_id": "th_467721"
       },
       {
+        "start": 125,
+        "end": 128,
+        "vocab_id": "th_c2e847"
+      },
+      {
+        "start": 129,
+        "end": 132,
+        "vocab_id": "th_ad7388"
+      },
+      {
         "start": 137,
         "end": 142,
         "vocab_id": "th_f82983"
@@ -15480,6 +16211,11 @@
         "start": 50,
         "end": 61,
         "vocab_id": "th_a47bdd"
+      },
+      {
+        "start": 86,
+        "end": 89,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 104,
@@ -15605,6 +16341,11 @@
         "start": 14,
         "end": 21,
         "vocab_id": "th_ba84b9"
+      },
+      {
+        "start": 30,
+        "end": 33,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 44,
@@ -15742,6 +16483,11 @@
         "vocab_id": "th_d887d2"
       },
       {
+        "start": 54,
+        "end": 57,
+        "vocab_id": "th_aba420"
+      },
+      {
         "start": 69,
         "end": 73,
         "vocab_id": "th_862cf0"
@@ -15765,6 +16511,11 @@
         "start": 129,
         "end": 137,
         "vocab_id": "th_d887d2"
+      },
+      {
+        "start": 148,
+        "end": 151,
+        "vocab_id": "th_c2e847"
       }
     ],
     "is_highlight": false,
@@ -15845,6 +16596,11 @@
         "start": 150,
         "end": 154,
         "vocab_id": "th_90ad9a"
+      },
+      {
+        "start": 165,
+        "end": 168,
+        "vocab_id": "th_c2e847"
       }
     ],
     "is_highlight": false,
@@ -15882,6 +16638,11 @@
         "vocab_id": "th_28cb1f"
       },
       {
+        "start": 54,
+        "end": 57,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 65,
         "end": 70,
         "vocab_id": "th_28cb1f"
@@ -15900,6 +16661,11 @@
         "start": 104,
         "end": 109,
         "vocab_id": "th_8c4ab1"
+      },
+      {
+        "start": 122,
+        "end": 125,
+        "vocab_id": "th_aba420"
       },
       {
         "start": 129,
@@ -15997,6 +16763,11 @@
         "vocab_id": "th_dec645"
       },
       {
+        "start": 63,
+        "end": 66,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 70,
         "end": 74,
         "vocab_id": "th_7a9c16"
@@ -16040,6 +16811,11 @@
         "start": 154,
         "end": 158,
         "vocab_id": "th_b68665"
+      },
+      {
+        "start": 162,
+        "end": 165,
+        "vocab_id": "th_c2e847"
       }
     ],
     "is_highlight": false,
@@ -16080,6 +16856,11 @@
         "start": 106,
         "end": 111,
         "vocab_id": "th_57042b"
+      },
+      {
+        "start": 136,
+        "end": 139,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 146,
@@ -16295,6 +17076,11 @@
         "start": 143,
         "end": 151,
         "vocab_id": "th_ca4e6d"
+      },
+      {
+        "start": 152,
+        "end": 155,
+        "vocab_id": "th_c2e847"
       }
     ],
     "is_highlight": false,
@@ -16395,6 +17181,11 @@
         "start": 183,
         "end": 190,
         "vocab_id": "th_bd5d57"
+      },
+      {
+        "start": 196,
+        "end": 199,
+        "vocab_id": "th_c2e847"
       }
     ],
     "is_highlight": false,
@@ -16515,6 +17306,11 @@
         "start": 3,
         "end": 8,
         "vocab_id": "th_f62e0b"
+      },
+      {
+        "start": 31,
+        "end": 34,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 46,
@@ -16710,6 +17506,11 @@
         "start": 125,
         "end": 131,
         "vocab_id": "th_ecbc37"
+      },
+      {
+        "start": 132,
+        "end": 135,
+        "vocab_id": "th_c2e847"
       }
     ],
     "is_highlight": false,
@@ -16810,6 +17611,11 @@
         "start": 192,
         "end": 198,
         "vocab_id": "v_khunnaphaap"
+      },
+      {
+        "start": 199,
+        "end": 202,
+        "vocab_id": "th_c2e847"
       }
     ],
     "is_highlight": false,
@@ -16835,6 +17641,11 @@
         "start": 11,
         "end": 15,
         "vocab_id": "th_db4928"
+      },
+      {
+        "start": 16,
+        "end": 19,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 26,
@@ -16897,6 +17708,11 @@
         "vocab_id": "th_04da82"
       },
       {
+        "start": 153,
+        "end": 156,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 157,
         "end": 160,
         "vocab_id": "th_04da82"
@@ -16927,6 +17743,11 @@
         "vocab_id": "th_1cda84"
       },
       {
+        "start": 18,
+        "end": 21,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 49,
         "end": 52,
         "vocab_id": "th_5ffe2a"
@@ -16955,6 +17776,11 @@
         "start": 136,
         "end": 139,
         "vocab_id": "th_f1f91b"
+      },
+      {
+        "start": 151,
+        "end": 154,
+        "vocab_id": "th_c2e847"
       }
     ],
     "is_highlight": false,
@@ -16990,6 +17816,11 @@
         "start": 64,
         "end": 68,
         "vocab_id": "th_7a9c16"
+      },
+      {
+        "start": 69,
+        "end": 72,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 76,
@@ -17082,6 +17913,11 @@
         "vocab_id": "th_4d0411"
       },
       {
+        "start": 48,
+        "end": 51,
+        "vocab_id": "th_aba420"
+      },
+      {
         "start": 51,
         "end": 57,
         "vocab_id": "th_c260f4"
@@ -17140,6 +17976,11 @@
         "start": 19,
         "end": 23,
         "vocab_id": "th_5343f2"
+      },
+      {
+        "start": 45,
+        "end": 48,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 58,
@@ -17215,6 +18056,11 @@
         "start": 23,
         "end": 30,
         "vocab_id": "th_853a6d"
+      },
+      {
+        "start": 46,
+        "end": 49,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 60,
@@ -17295,6 +18141,11 @@
         "start": 70,
         "end": 74,
         "vocab_id": "th_7a9c16"
+      },
+      {
+        "start": 87,
+        "end": 90,
+        "vocab_id": "th_ad7388"
       },
       {
         "start": 93,
@@ -17522,6 +18373,11 @@
         "vocab_id": "th_853a6d"
       },
       {
+        "start": 110,
+        "end": 113,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 129,
         "end": 135,
         "vocab_id": "th_a48d00"
@@ -17655,6 +18511,11 @@
         "start": 60,
         "end": 66,
         "vocab_id": "th_8af7eb"
+      },
+      {
+        "start": 78,
+        "end": 81,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 87,
@@ -17797,9 +18658,9 @@
         "vocab_id": "th_3fd751"
       },
       {
-        "start": 62,
+        "start": 59,
         "end": 65,
-        "vocab_id": "th_1277eb"
+        "vocab_id": "th_73e7d3"
       },
       {
         "start": 69,
@@ -17885,6 +18746,11 @@
         "start": 39,
         "end": 42,
         "vocab_id": "th_5bae05"
+      },
+      {
+        "start": 48,
+        "end": 51,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 55,
@@ -18025,6 +18891,11 @@
         "start": 132,
         "end": 135,
         "vocab_id": "th_9ef815"
+      },
+      {
+        "start": 163,
+        "end": 166,
+        "vocab_id": "th_c2e847"
       }
     ],
     "is_highlight": false,
@@ -18085,6 +18956,11 @@
         "start": 146,
         "end": 153,
         "vocab_id": "th_5ed2f4"
+      },
+      {
+        "start": 161,
+        "end": 164,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 165,
@@ -18202,6 +19078,11 @@
         "vocab_id": "th_acf13e"
       },
       {
+        "start": 35,
+        "end": 38,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 55,
         "end": 62,
         "vocab_id": "th_5ed2f4"
@@ -18210,6 +19091,11 @@
         "start": 79,
         "end": 82,
         "vocab_id": "th_5d843d"
+      },
+      {
+        "start": 84,
+        "end": 87,
+        "vocab_id": "th_c2e847"
       },
       {
         "start": 97,
@@ -18267,6 +19153,11 @@
         "vocab_id": "th_e50d3f"
       },
       {
+        "start": 9,
+        "end": 12,
+        "vocab_id": "th_6a3466"
+      },
+      {
         "start": 44,
         "end": 51,
         "vocab_id": "th_5ed2f4"
@@ -18322,9 +19213,19 @@
         "vocab_id": "th_745e59"
       },
       {
+        "start": 105,
+        "end": 108,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 109,
         "end": 115,
         "vocab_id": "th_93e2ea"
+      },
+      {
+        "start": 116,
+        "end": 119,
+        "vocab_id": "th_c2e847"
       }
     ],
     "is_highlight": false,
@@ -18347,6 +19248,11 @@
         "vocab_id": "th_93e2ea"
       },
       {
+        "start": 7,
+        "end": 10,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 10,
         "end": 15,
         "vocab_id": "th_6f8415"
@@ -18357,6 +19263,11 @@
         "vocab_id": "th_926bc2"
       },
       {
+        "start": 22,
+        "end": 25,
+        "vocab_id": "th_c2e847"
+      },
+      {
         "start": 25,
         "end": 30,
         "vocab_id": "th_6f8415"
@@ -18364,5 +19275,1250 @@
     ],
     "is_highlight": false,
     "audio_url": "audio-local/2yLMqdu8eYc/0072.mp3"
+  },
+  {
+    "id": "article-df1d3211_0001",
+    "article_id": "article-df1d3211",
+    "start": 0,
+    "end": 0,
+    "thai": "อันตรายกว่าถุงพลาสติก!",
+    "translation": "",
+    "english": "",
+    "romanization": "",
+    "vocab_ids": [],
+    "annotations": [
+      {
+        "start": 0,
+        "end": 7,
+        "vocab_id": "th_02b321"
+      },
+      {
+        "start": 11,
+        "end": 21,
+        "vocab_id": "th_ef3b01"
+      }
+    ],
+    "is_highlight": false,
+    "audio_url": ""
+  },
+  {
+    "id": "article-df1d3211_0002",
+    "article_id": "article-df1d3211",
+    "start": 0,
+    "end": 0,
+    "thai": "กูรูเตือนห้ามนำภาชนะชนิดนี้เข้าไมโครเวฟ เสี่ยงไมโครพลาสติกสะสมในสมอง",
+    "translation": "",
+    "english": "",
+    "romanization": "",
+    "vocab_ids": [],
+    "annotations": [
+      {
+        "start": 4,
+        "end": 9,
+        "vocab_id": "th_b892f9"
+      },
+      {
+        "start": 15,
+        "end": 20,
+        "vocab_id": "th_470ecd"
+      },
+      {
+        "start": 20,
+        "end": 24,
+        "vocab_id": "th_e0e40b"
+      },
+      {
+        "start": 31,
+        "end": 36,
+        "vocab_id": "th_d65719"
+      },
+      {
+        "start": 46,
+        "end": 51,
+        "vocab_id": "th_d65719"
+      },
+      {
+        "start": 51,
+        "end": 58,
+        "vocab_id": "th_bf55bf"
+      },
+      {
+        "start": 60,
+        "end": 64,
+        "vocab_id": "th_ccaa15"
+      },
+      {
+        "start": 64,
+        "end": 68,
+        "vocab_id": "th_0a9dab"
+      }
+    ],
+    "is_highlight": false,
+    "audio_url": ""
+  },
+  {
+    "id": "article-df1d3211_0003",
+    "article_id": "article-df1d3211",
+    "start": 0,
+    "end": 0,
+    "thai": "พนักงานออฟฟิศและผู้ที่ใช้ชีวิตเร่งรีบมักคุ้นเคยกับการรับประทานอาหารนอกบ้าน และมองว่า \"กล่องกระดาษ\" เป็นทางเลือกที่ปลอดภัยกว่าภาชนะพลาสติก",
+    "translation": "",
+    "english": "",
+    "romanization": "",
+    "vocab_ids": [],
+    "annotations": [
+      {
+        "start": 0,
+        "end": 7,
+        "vocab_id": "th_f6e0a2"
+      },
+      {
+        "start": 7,
+        "end": 10,
+        "vocab_id": "th_73edaa"
+      },
+      {
+        "start": 16,
+        "end": 19,
+        "vocab_id": "th_6a3466"
+      },
+      {
+        "start": 22,
+        "end": 25,
+        "vocab_id": "th_f09b21"
+      },
+      {
+        "start": 25,
+        "end": 30,
+        "vocab_id": "th_bd2531"
+      },
+      {
+        "start": 44,
+        "end": 47,
+        "vocab_id": "th_0c5a48"
+      },
+      {
+        "start": 53,
+        "end": 56,
+        "vocab_id": "th_c2e847"
+      },
+      {
+        "start": 62,
+        "end": 67,
+        "vocab_id": "th_97b45f"
+      },
+      {
+        "start": 67,
+        "end": 74,
+        "vocab_id": "th_d7d221"
+      },
+      {
+        "start": 78,
+        "end": 84,
+        "vocab_id": "th_835387"
+      },
+      {
+        "start": 86,
+        "end": 91,
+        "vocab_id": "th_acf212"
+      },
+      {
+        "start": 91,
+        "end": 97,
+        "vocab_id": "th_fbab5a"
+      },
+      {
+        "start": 106,
+        "end": 111,
+        "vocab_id": "th_9045e4"
+      },
+      {
+        "start": 125,
+        "end": 130,
+        "vocab_id": "th_470ecd"
+      },
+      {
+        "start": 130,
+        "end": 137,
+        "vocab_id": "th_bf55bf"
+      }
+    ],
+    "is_highlight": false,
+    "audio_url": ""
+  },
+  {
+    "id": "article-df1d3211_0004",
+    "article_id": "article-df1d3211",
+    "start": 0,
+    "end": 0,
+    "thai": "อย่างไรก็ตาม ฉือตุนฉือ พยาบาลวิชาชีพชื่อดังและผู้เชี่ยวชาญด้านพิษวิทยาของไต้หวัน ได้ออกมาเตือนผ่านรายการสุขภาพ Wish You Health ว่ากล่องกระดาษใส่อาหารอาจปล่อยไมโครพลาสติกออกมาเมื่อถูกความร้อนสูง และหากนำเข้าเครื่องทำความร้อนโดยตรงอาจเพิ่มความเสี่ยงต่อสุขภาพอย่างคาดไม่ถึง",
+    "translation": "",
+    "english": "",
+    "romanization": "",
+    "vocab_ids": [],
+    "annotations": [
+      {
+        "start": 0,
+        "end": 12,
+        "vocab_id": "th_c17771"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "vocab_id": "th_d8569a"
+      },
+      {
+        "start": 16,
+        "end": 19,
+        "vocab_id": "th_a42397"
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "vocab_id": "th_d8569a"
+      },
+      {
+        "start": 46,
+        "end": 58,
+        "vocab_id": "th_922cd5"
+      },
+      {
+        "start": 58,
+        "end": 62,
+        "vocab_id": "th_03a2ea"
+      },
+      {
+        "start": 84,
+        "end": 89,
+        "vocab_id": "th_c1065e"
+      },
+      {
+        "start": 89,
+        "end": 94,
+        "vocab_id": "th_b892f9"
+      },
+      {
+        "start": 94,
+        "end": 98,
+        "vocab_id": "th_880656"
+      },
+      {
+        "start": 104,
+        "end": 110,
+        "vocab_id": "th_73e7d3"
+      },
+      {
+        "start": 130,
+        "end": 135,
+        "vocab_id": "th_acf212"
+      },
+      {
+        "start": 135,
+        "end": 141,
+        "vocab_id": "th_fbab5a"
+      },
+      {
+        "start": 144,
+        "end": 149,
+        "vocab_id": "th_97b45f"
+      },
+      {
+        "start": 149,
+        "end": 152,
+        "vocab_id": "th_f0c16c"
+      },
+      {
+        "start": 152,
+        "end": 157,
+        "vocab_id": "th_a1a742"
+      },
+      {
+        "start": 157,
+        "end": 162,
+        "vocab_id": "th_d65719"
+      },
+      {
+        "start": 162,
+        "end": 169,
+        "vocab_id": "th_bf55bf"
+      },
+      {
+        "start": 169,
+        "end": 174,
+        "vocab_id": "th_c1065e"
+      },
+      {
+        "start": 174,
+        "end": 179,
+        "vocab_id": "th_6eca68"
+      },
+      {
+        "start": 179,
+        "end": 182,
+        "vocab_id": "th_280f37"
+      },
+      {
+        "start": 182,
+        "end": 190,
+        "vocab_id": "th_29afa5"
+      },
+      {
+        "start": 190,
+        "end": 193,
+        "vocab_id": "th_399c53"
+      },
+      {
+        "start": 197,
+        "end": 200,
+        "vocab_id": "th_ad7388"
+      },
+      {
+        "start": 206,
+        "end": 213,
+        "vocab_id": "th_633e1c"
+      },
+      {
+        "start": 215,
+        "end": 223,
+        "vocab_id": "th_29afa5"
+      },
+      {
+        "start": 223,
+        "end": 229,
+        "vocab_id": "th_9d4e35"
+      },
+      {
+        "start": 229,
+        "end": 232,
+        "vocab_id": "th_f0c16c"
+      },
+      {
+        "start": 232,
+        "end": 237,
+        "vocab_id": "th_d317fd"
+      },
+      {
+        "start": 237,
+        "end": 247,
+        "vocab_id": "th_1a875c"
+      },
+      {
+        "start": 250,
+        "end": 256,
+        "vocab_id": "th_73e7d3"
+      }
+    ],
+    "is_highlight": false,
+    "audio_url": ""
+  },
+  {
+    "id": "article-df1d3211_0005",
+    "article_id": "article-df1d3211",
+    "start": 0,
+    "end": 0,
+    "thai": "ฉือตุนฉือ ระบุว่าในอดีตคนส่วนใหญ่กังวลเรื่องการใช้ถุงพลาสติกใส่แกงร้อนๆ จึงหันมาใช้กล่องกระดาษแทน แต่ผลการศึกษาในช่วงไม่กี่ปีที่ผ่านมาพบว่า ถ้วยกระดาษ ชามกระดาษ และกล่องกระดาษ อาจมีปริมาณไมโครพลาสติกสูงกว่าเสียอีก เนื่องจากกระดาษเองไม่มีคุณสมบัติกันน้ำ การที่มันสามารถใส่น้ำแกงหรืออาหารที่มีความมันได้ เป็นเพราะพื้นผิวด้านในถูกเคลือบด้วย \"ฟิล์มพลาสติก\" (Plastic Lining)",
+    "translation": "",
+    "english": "",
+    "romanization": "",
+    "vocab_ids": [],
+    "annotations": [
+      {
+        "start": 0,
+        "end": 3,
+        "vocab_id": "th_d8569a"
+      },
+      {
+        "start": 3,
+        "end": 6,
+        "vocab_id": "th_a42397"
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "vocab_id": "th_d8569a"
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "vocab_id": "th_db4928"
+      },
+      {
+        "start": 19,
+        "end": 23,
+        "vocab_id": "th_40e93e"
+      },
+      {
+        "start": 25,
+        "end": 33,
+        "vocab_id": "th_dff601"
+      },
+      {
+        "start": 47,
+        "end": 50,
+        "vocab_id": "th_f09b21"
+      },
+      {
+        "start": 50,
+        "end": 60,
+        "vocab_id": "th_ef3b01"
+      },
+      {
+        "start": 72,
+        "end": 75,
+        "vocab_id": "th_5bae05"
+      },
+      {
+        "start": 80,
+        "end": 83,
+        "vocab_id": "th_f09b21"
+      },
+      {
+        "start": 83,
+        "end": 88,
+        "vocab_id": "th_acf212"
+      },
+      {
+        "start": 88,
+        "end": 94,
+        "vocab_id": "th_fbab5a"
+      },
+      {
+        "start": 103,
+        "end": 111,
+        "vocab_id": "th_9f87d1"
+      },
+      {
+        "start": 113,
+        "end": 117,
+        "vocab_id": "th_322ef8"
+      },
+      {
+        "start": 120,
+        "end": 123,
+        "vocab_id": "th_744c7d"
+      },
+      {
+        "start": 125,
+        "end": 134,
+        "vocab_id": "th_8483be"
+      },
+      {
+        "start": 144,
+        "end": 150,
+        "vocab_id": "th_fbab5a"
+      },
+      {
+        "start": 154,
+        "end": 160,
+        "vocab_id": "th_fbab5a"
+      },
+      {
+        "start": 164,
+        "end": 169,
+        "vocab_id": "th_acf212"
+      },
+      {
+        "start": 169,
+        "end": 175,
+        "vocab_id": "th_fbab5a"
+      },
+      {
+        "start": 176,
+        "end": 179,
+        "vocab_id": "th_f0c16c"
+      },
+      {
+        "start": 187,
+        "end": 192,
+        "vocab_id": "th_d65719"
+      },
+      {
+        "start": 192,
+        "end": 199,
+        "vocab_id": "th_bf55bf"
+      },
+      {
+        "start": 199,
+        "end": 202,
+        "vocab_id": "th_399c53"
+      },
+      {
+        "start": 206,
+        "end": 210,
+        "vocab_id": "th_f613b7"
+      },
+      {
+        "start": 214,
+        "end": 223,
+        "vocab_id": "th_eb6e31"
+      },
+      {
+        "start": 223,
+        "end": 229,
+        "vocab_id": "th_fbab5a"
+      },
+      {
+        "start": 246,
+        "end": 252,
+        "vocab_id": "th_897419"
+      },
+      {
+        "start": 262,
+        "end": 268,
+        "vocab_id": "th_8ea1c5"
+      },
+      {
+        "start": 281,
+        "end": 286,
+        "vocab_id": "th_97b45f"
+      },
+      {
+        "start": 318,
+        "end": 322,
+        "vocab_id": "th_03a2ea"
+      },
+      {
+        "start": 324,
+        "end": 327,
+        "vocab_id": "th_280f37"
+      },
+      {
+        "start": 327,
+        "end": 333,
+        "vocab_id": "th_458a59"
+      },
+      {
+        "start": 344,
+        "end": 351,
+        "vocab_id": "th_bf55bf"
+      }
+    ],
+    "is_highlight": false,
+    "audio_url": ""
+  },
+  {
+    "id": "article-df1d3211_0006",
+    "article_id": "article-df1d3211",
+    "start": 0,
+    "end": 0,
+    "thai": "ความเสี่ยงต่อสมองและภาวะสมองเสื่อม",
+    "translation": "",
+    "english": "",
+    "romanization": "",
+    "vocab_ids": [],
+    "annotations": [
+      {
+        "start": 0,
+        "end": 10,
+        "vocab_id": "th_1a875c"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "vocab_id": "th_0a9dab"
+      },
+      {
+        "start": 24,
+        "end": 34,
+        "vocab_id": "th_0ff026"
+      }
+    ],
+    "is_highlight": false,
+    "audio_url": ""
+  },
+  {
+    "id": "article-df1d3211_0007",
+    "article_id": "article-df1d3211",
+    "start": 0,
+    "end": 0,
+    "thai": "สารเคลือบพลาสติกเหล่านี้สามารถปล่อยไมโครพลาสติกออกมาได้เมื่อสัมผัสกับความร้อนสูง ซึ่งสารดังกล่าวมีความอันตรายเนื่องจากสามารถทะลุผ่าน \"ตัวกั้นระหว่างเลือดและสมอง\" (Blood-Brain Barrier) เข้าไปสะสมในเนื้อเยื่อสมอง ซึ่งอาจเพิ่มความเสี่ยงต่อการเป็นโรคสมองเสื่อมในระยะยาว",
+    "translation": "",
+    "english": "",
+    "romanization": "",
+    "vocab_ids": [],
+    "annotations": [
+      {
+        "start": 0,
+        "end": 3,
+        "vocab_id": "th_aba420"
+      },
+      {
+        "start": 3,
+        "end": 9,
+        "vocab_id": "th_458a59"
+      },
+      {
+        "start": 9,
+        "end": 16,
+        "vocab_id": "th_bf55bf"
+      },
+      {
+        "start": 16,
+        "end": 24,
+        "vocab_id": "th_dbf3b0"
+      },
+      {
+        "start": 24,
+        "end": 30,
+        "vocab_id": "th_8ea1c5"
+      },
+      {
+        "start": 30,
+        "end": 35,
+        "vocab_id": "th_a1a742"
+      },
+      {
+        "start": 35,
+        "end": 40,
+        "vocab_id": "th_d65719"
+      },
+      {
+        "start": 40,
+        "end": 47,
+        "vocab_id": "th_bf55bf"
+      },
+      {
+        "start": 47,
+        "end": 52,
+        "vocab_id": "th_c1065e"
+      },
+      {
+        "start": 55,
+        "end": 60,
+        "vocab_id": "th_6eca68"
+      },
+      {
+        "start": 69,
+        "end": 77,
+        "vocab_id": "th_29afa5"
+      },
+      {
+        "start": 77,
+        "end": 80,
+        "vocab_id": "th_399c53"
+      },
+      {
+        "start": 85,
+        "end": 88,
+        "vocab_id": "th_aba420"
+      },
+      {
+        "start": 102,
+        "end": 109,
+        "vocab_id": "th_02b321"
+      },
+      {
+        "start": 109,
+        "end": 118,
+        "vocab_id": "th_eb6e31"
+      },
+      {
+        "start": 118,
+        "end": 124,
+        "vocab_id": "th_8ea1c5"
+      },
+      {
+        "start": 128,
+        "end": 132,
+        "vocab_id": "th_880656"
+      },
+      {
+        "start": 141,
+        "end": 148,
+        "vocab_id": "th_b7c663"
+      },
+      {
+        "start": 156,
+        "end": 160,
+        "vocab_id": "th_0a9dab"
+      },
+      {
+        "start": 184,
+        "end": 190,
+        "vocab_id": "th_66c44e"
+      },
+      {
+        "start": 192,
+        "end": 196,
+        "vocab_id": "th_ccaa15"
+      },
+      {
+        "start": 206,
+        "end": 210,
+        "vocab_id": "th_0a9dab"
+      },
+      {
+        "start": 215,
+        "end": 218,
+        "vocab_id": "th_f0c16c"
+      },
+      {
+        "start": 218,
+        "end": 223,
+        "vocab_id": "th_d317fd"
+      },
+      {
+        "start": 223,
+        "end": 233,
+        "vocab_id": "th_1a875c"
+      },
+      {
+        "start": 246,
+        "end": 256,
+        "vocab_id": "th_0ff026"
+      }
+    ],
+    "is_highlight": false,
+    "audio_url": ""
+  },
+  {
+    "id": "article-df1d3211_0008",
+    "article_id": "article-df1d3211",
+    "start": 0,
+    "end": 0,
+    "thai": "เธอยังได้อ้างถึงงานวิจัยในอดีตที่ทำการทดลองนำอาหารในกล่องกระดาษไปอุ่นซ้ำ พบว่าค่าของสารพลาสติกและไมโครพลาสติกพุ่งสูงขึ้นอย่างชัดเจน ดังนั้นจึงมีคำแนะนำสำหรับผู้ที่ซื้ออาหารนอกบ้านว่า หากจำเป็นต้องนำอาหารมาอุ่นร้อน ควรเปลี่ยนถ่ายอาหารใส่จานเซรามิกหรือภาชนะที่ออกแบบมาเพื่อใช้กับเตาไมโครเวฟโดยเฉพาะก่อนเสมอ เพื่อลดความเสี่ยงในการรับสารพิษเข้าสู่ร่างกาย",
+    "translation": "",
+    "english": "",
+    "romanization": "",
+    "vocab_ids": [],
+    "annotations": [
+      {
+        "start": 16,
+        "end": 24,
+        "vocab_id": "th_55af90"
+      },
+      {
+        "start": 26,
+        "end": 30,
+        "vocab_id": "th_40e93e"
+      },
+      {
+        "start": 45,
+        "end": 50,
+        "vocab_id": "th_97b45f"
+      },
+      {
+        "start": 52,
+        "end": 57,
+        "vocab_id": "th_acf212"
+      },
+      {
+        "start": 57,
+        "end": 63,
+        "vocab_id": "th_fbab5a"
+      },
+      {
+        "start": 65,
+        "end": 69,
+        "vocab_id": "th_471929"
+      },
+      {
+        "start": 84,
+        "end": 87,
+        "vocab_id": "th_aba420"
+      },
+      {
+        "start": 87,
+        "end": 94,
+        "vocab_id": "th_bf55bf"
+      },
+      {
+        "start": 97,
+        "end": 102,
+        "vocab_id": "th_d65719"
+      },
+      {
+        "start": 102,
+        "end": 109,
+        "vocab_id": "th_bf55bf"
+      },
+      {
+        "start": 113,
+        "end": 116,
+        "vocab_id": "th_399c53"
+      },
+      {
+        "start": 125,
+        "end": 131,
+        "vocab_id": "th_ecbc37"
+      },
+      {
+        "start": 139,
+        "end": 142,
+        "vocab_id": "th_5bae05"
+      },
+      {
+        "start": 144,
+        "end": 151,
+        "vocab_id": "th_90b0c5"
+      },
+      {
+        "start": 151,
+        "end": 157,
+        "vocab_id": "th_c9432b"
+      },
+      {
+        "start": 157,
+        "end": 160,
+        "vocab_id": "th_6a3466"
+      },
+      {
+        "start": 163,
+        "end": 167,
+        "vocab_id": "th_8965d5"
+      },
+      {
+        "start": 167,
+        "end": 172,
+        "vocab_id": "th_97b45f"
+      },
+      {
+        "start": 172,
+        "end": 179,
+        "vocab_id": "th_d7d221"
+      },
+      {
+        "start": 183,
+        "end": 186,
+        "vocab_id": "th_ad7388"
+      },
+      {
+        "start": 186,
+        "end": 192,
+        "vocab_id": "th_a48d00"
+      },
+      {
+        "start": 198,
+        "end": 203,
+        "vocab_id": "th_97b45f"
+      },
+      {
+        "start": 205,
+        "end": 209,
+        "vocab_id": "th_471929"
+      },
+      {
+        "start": 217,
+        "end": 224,
+        "vocab_id": "th_5ed2f4"
+      },
+      {
+        "start": 228,
+        "end": 233,
+        "vocab_id": "th_97b45f"
+      },
+      {
+        "start": 250,
+        "end": 255,
+        "vocab_id": "th_470ecd"
+      },
+      {
+        "start": 258,
+        "end": 264,
+        "vocab_id": "th_d5a9c8"
+      },
+      {
+        "start": 271,
+        "end": 274,
+        "vocab_id": "th_f09b21"
+      },
+      {
+        "start": 280,
+        "end": 285,
+        "vocab_id": "th_d65719"
+      },
+      {
+        "start": 288,
+        "end": 296,
+        "vocab_id": "th_d15ba2"
+      },
+      {
+        "start": 300,
+        "end": 304,
+        "vocab_id": "th_723e80"
+      },
+      {
+        "start": 312,
+        "end": 322,
+        "vocab_id": "th_1a875c"
+      },
+      {
+        "start": 327,
+        "end": 330,
+        "vocab_id": "th_c2e847"
+      },
+      {
+        "start": 330,
+        "end": 333,
+        "vocab_id": "th_aba420"
+      },
+      {
+        "start": 343,
+        "end": 350,
+        "vocab_id": "th_2b1ee0"
+      }
+    ],
+    "is_highlight": false,
+    "audio_url": ""
+  },
+  {
+    "id": "article-df1d3211_0009",
+    "article_id": "article-df1d3211",
+    "start": 0,
+    "end": 0,
+    "thai": "คำแนะนำจากผู้เชี่ยวชาญและหน่วยงานรัฐ",
+    "translation": "",
+    "english": "",
+    "romanization": "",
+    "vocab_ids": [],
+    "annotations": [
+      {
+        "start": 0,
+        "end": 7,
+        "vocab_id": "th_90b0c5"
+      },
+      {
+        "start": 10,
+        "end": 22,
+        "vocab_id": "th_922cd5"
+      }
+    ],
+    "is_highlight": false,
+    "audio_url": ""
+  },
+  {
+    "id": "article-df1d3211_0010",
+    "article_id": "article-df1d3211",
+    "start": 0,
+    "end": 0,
+    "thai": "นอกจากภาชนะกระดาษแล้ว นพ.",
+    "translation": "",
+    "english": "",
+    "romanization": "",
+    "vocab_ids": [],
+    "annotations": [
+      {
+        "start": 6,
+        "end": 11,
+        "vocab_id": "th_470ecd"
+      },
+      {
+        "start": 11,
+        "end": 17,
+        "vocab_id": "th_fbab5a"
+      }
+    ],
+    "is_highlight": false,
+    "audio_url": ""
+  },
+  {
+    "id": "article-df1d3211_0011",
+    "article_id": "article-df1d3211",
+    "start": 0,
+    "end": 0,
+    "thai": "อู๋ หงเฉียน แพทย์แผนจีนระบุว่า โดยปกติร่างกายสามารถขับไมโครพลาสติกบางส่วนออกได้ผ่านการดื่มน้ำที่เพียงพอ แต่หากมีการสัมผัสหรือรับเข้าร่างกายบ่อยครั้งเป็นเวลานาน ย่อมส่งผลเสียต่อสุขภาพอย่างแน่นอน",
+    "translation": "",
+    "english": "",
+    "romanization": "",
+    "vocab_ids": [],
+    "annotations": [
+      {
+        "start": 23,
+        "end": 27,
+        "vocab_id": "th_db4928"
+      },
+      {
+        "start": 38,
+        "end": 45,
+        "vocab_id": "th_2b1ee0"
+      },
+      {
+        "start": 45,
+        "end": 51,
+        "vocab_id": "th_8ea1c5"
+      },
+      {
+        "start": 54,
+        "end": 59,
+        "vocab_id": "th_d65719"
+      },
+      {
+        "start": 59,
+        "end": 66,
+        "vocab_id": "th_bf55bf"
+      },
+      {
+        "start": 79,
+        "end": 83,
+        "vocab_id": "th_880656"
+      },
+      {
+        "start": 107,
+        "end": 110,
+        "vocab_id": "th_ad7388"
+      },
+      {
+        "start": 125,
+        "end": 128,
+        "vocab_id": "th_c2e847"
+      },
+      {
+        "start": 132,
+        "end": 139,
+        "vocab_id": "th_2b1ee0"
+      },
+      {
+        "start": 164,
+        "end": 169,
+        "vocab_id": "th_30c59c"
+      },
+      {
+        "start": 169,
+        "end": 173,
+        "vocab_id": "th_f613b7"
+      },
+      {
+        "start": 176,
+        "end": 182,
+        "vocab_id": "th_73e7d3"
+      },
+      {
+        "start": 190,
+        "end": 193,
+        "vocab_id": "th_7f9449"
+      }
+    ],
+    "is_highlight": false,
+    "audio_url": ""
+  },
+  {
+    "id": "article-df1d3211_0012",
+    "article_id": "article-df1d3211",
+    "start": 0,
+    "end": 0,
+    "thai": "ทางด้านกระทรวงสาธารณสุขและสวัสดิการ (MOHW) เคยให้ข้อมูลว่า ภาชนะกระดาษในท้องตลาดส่วนใหญ่ใช้ไขผึ้งหรือพลาสติกเคลือบเพื่อกันน้ำและน้ำมัน ซึ่งมีความทนทานต่อความร้อนต่างกันตามชนิดวัสดุ เช่น พลาสติกชนิด LDPE ทนความร้อนได้ประมาณ 70°C ถึง 90°C และพลาสติกชนิด PP ทนความร้อนได้ประมาณ 100°C ถึง 140°C",
+    "translation": "",
+    "english": "",
+    "romanization": "",
+    "vocab_ids": [],
+    "annotations": [
+      {
+        "start": 3,
+        "end": 7,
+        "vocab_id": "th_03a2ea"
+      },
+      {
+        "start": 43,
+        "end": 46,
+        "vocab_id": "th_0c5a48"
+      },
+      {
+        "start": 49,
+        "end": 55,
+        "vocab_id": "th_28ad60"
+      },
+      {
+        "start": 59,
+        "end": 64,
+        "vocab_id": "th_470ecd"
+      },
+      {
+        "start": 64,
+        "end": 70,
+        "vocab_id": "th_fbab5a"
+      },
+      {
+        "start": 72,
+        "end": 75,
+        "vocab_id": "th_d05232"
+      },
+      {
+        "start": 76,
+        "end": 80,
+        "vocab_id": "v_tarlaat"
+      },
+      {
+        "start": 80,
+        "end": 88,
+        "vocab_id": "th_dff601"
+      },
+      {
+        "start": 88,
+        "end": 91,
+        "vocab_id": "th_f09b21"
+      },
+      {
+        "start": 101,
+        "end": 108,
+        "vocab_id": "th_bf55bf"
+      },
+      {
+        "start": 108,
+        "end": 114,
+        "vocab_id": "th_458a59"
+      },
+      {
+        "start": 119,
+        "end": 125,
+        "vocab_id": "th_897419"
+      },
+      {
+        "start": 153,
+        "end": 161,
+        "vocab_id": "th_29afa5"
+      },
+      {
+        "start": 171,
+        "end": 175,
+        "vocab_id": "th_e0e40b"
+      },
+      {
+        "start": 181,
+        "end": 185,
+        "vocab_id": "th_f51410"
+      },
+      {
+        "start": 186,
+        "end": 193,
+        "vocab_id": "th_bf55bf"
+      },
+      {
+        "start": 193,
+        "end": 197,
+        "vocab_id": "th_e0e40b"
+      },
+      {
+        "start": 205,
+        "end": 213,
+        "vocab_id": "th_29afa5"
+      },
+      {
+        "start": 216,
+        "end": 222,
+        "vocab_id": "th_e66be8"
+      },
+      {
+        "start": 240,
+        "end": 247,
+        "vocab_id": "th_bf55bf"
+      },
+      {
+        "start": 247,
+        "end": 251,
+        "vocab_id": "th_e0e40b"
+      },
+      {
+        "start": 257,
+        "end": 265,
+        "vocab_id": "th_29afa5"
+      },
+      {
+        "start": 268,
+        "end": 274,
+        "vocab_id": "th_e66be8"
+      }
+    ],
+    "is_highlight": false,
+    "audio_url": ""
+  },
+  {
+    "id": "article-df1d3211_0013",
+    "article_id": "article-df1d3211",
+    "start": 0,
+    "end": 0,
+    "thai": "อย่างไรก็ตาม หากความร้อนสูงเกินขอบเขตที่กำหนด สารเคลือบผิวมีโอกาสที่จะเสียหายและปนเปื้อนลงในอาหารได้ การป้องกันที่ดีที่สุดคือการหลีกเลี่ยงการใช้ความร้อนสูงกับภาชนะกระดาษเหล่านั้นโดยตรง",
+    "translation": "",
+    "english": "",
+    "romanization": "",
+    "vocab_ids": [],
+    "annotations": [
+      {
+        "start": 0,
+        "end": 12,
+        "vocab_id": "th_c17771"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "vocab_id": "th_ad7388"
+      },
+      {
+        "start": 16,
+        "end": 24,
+        "vocab_id": "th_29afa5"
+      },
+      {
+        "start": 24,
+        "end": 27,
+        "vocab_id": "th_399c53"
+      },
+      {
+        "start": 46,
+        "end": 49,
+        "vocab_id": "th_aba420"
+      },
+      {
+        "start": 49,
+        "end": 55,
+        "vocab_id": "th_458a59"
+      },
+      {
+        "start": 60,
+        "end": 65,
+        "vocab_id": "v_ookaat"
+      },
+      {
+        "start": 65,
+        "end": 70,
+        "vocab_id": "th_ad6c8d"
+      },
+      {
+        "start": 70,
+        "end": 74,
+        "vocab_id": "th_f613b7"
+      },
+      {
+        "start": 92,
+        "end": 97,
+        "vocab_id": "th_97b45f"
+      },
+      {
+        "start": 116,
+        "end": 122,
+        "vocab_id": "th_098ff2"
+      },
+      {
+        "start": 141,
+        "end": 144,
+        "vocab_id": "th_f09b21"
+      },
+      {
+        "start": 144,
+        "end": 152,
+        "vocab_id": "th_29afa5"
+      },
+      {
+        "start": 152,
+        "end": 155,
+        "vocab_id": "th_399c53"
+      },
+      {
+        "start": 158,
+        "end": 163,
+        "vocab_id": "th_470ecd"
+      },
+      {
+        "start": 163,
+        "end": 169,
+        "vocab_id": "th_fbab5a"
+      },
+      {
+        "start": 178,
+        "end": 184,
+        "vocab_id": "th_9d4e35"
+      }
+    ],
+    "is_highlight": false,
+    "audio_url": ""
   }
 ]
