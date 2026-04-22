@@ -26,7 +26,7 @@ const Sync = {
 
   _headers() {
     return {
-      'Authorization': `token ${this.getToken()}`,
+      'Authorization': `Bearer ${this.getToken()}`,
       'Accept': 'application/vnd.github+json',
       'Content-Type': 'application/json',
     };
