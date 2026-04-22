@@ -70,6 +70,18 @@ header .sub {
   font-size: 14px;
   font-weight: 600;
 }
+.header-logo {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.site-logo {
+  width: 52px;
+  height: 52px;
+  border-radius: 16px;
+  box-shadow: 0 4px 0 #3a9900;
+  flex-shrink: 0;
+}
 .back {
   color: var(--blue);
   text-decoration: none;
