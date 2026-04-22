@@ -9,6 +9,7 @@ const Sync = {
   SYNCED_AT_KEY: 'learn-thai-synced-at',
   PROGRESS_KEY: 'learn-thai-progress-v1',
   FILE_NAME: 'learn-thai-progress.json',
+  GIST_DESCRIPTION: 'Learn Thai · progress sync',
 
   getToken()   { return localStorage.getItem(this.TOKEN_KEY); },
   setToken(t)  { localStorage.setItem(this.TOKEN_KEY, t); },
@@ -46,6 +47,51 @@ const Sync = {
     return JSON.parse(file.content);
   },
 
+  // Scan the account's gists to find a pre-existing sync gist.
+  // Called on a fresh device so we don't create a second gist.
+  // If multiple match, pick the one with the newest syncedAt in its content
+  // (protects against earlier versions that could duplicate-seed).
+  async _findExistingGist() {
+    const r = await fetch('https://api.github.com/gists?per_page=100', {
+      headers: this._headers(),
+      cache: 'no-cache',
+    });
+    if (!r.ok) throw new Error(`list ${r.status}`);
+    const list = await r.json();
+    const matches = list.filter(g =>
+      g.description === this.GIST_DESCRIPTION &&
+      g.files && g.files[this.FILE_NAME]
+    );
+    if (!matches.length) return null;
+    if (matches.length === 1) return matches[0].id;
+
+    let bestId = null, bestScore = -1;
+    for (const g of matches) {
+      try {
+        const rr = await fetch(`https://api.github.com/gists/${g.id}`, {
+          headers: this._headers(),
+          cache: 'no-cache',
+        });
+        if (!rr.ok) continue;
+        const gg = await rr.json();
+        const file = gg.files && gg.files[this.FILE_NAME];
+        if (!file) continue;
+        const parsed = JSON.parse(file.content);
+        const p = parsed.progress || {};
+        // Score = total amount of real progress data. Prefer the non-empty gist
+        // when duplicates exist.
+        const score =
+          Object.keys(p.savedVocab || {}).length +
+          Object.keys(p.savedSentences || {}).length +
+          Object.keys(p.cardStates || {}).length +
+          Object.keys(p.articleStatus || {}).length +
+          Object.keys(p.favoriteArticles || {}).length;
+        if (score > bestScore) { bestScore = score; bestId = g.id; }
+      } catch {}
+    }
+    return bestId || matches[0].id;
+  },
+
   async _push(progress) {
     const body = { progress, syncedAt: Date.now() };
     const content = JSON.stringify(body, null, 2);
@@ -57,7 +103,7 @@ const Sync = {
         method: 'POST',
         headers: this._headers(),
         body: JSON.stringify({
-          description: 'Learn Thai · progress sync',
+          description: this.GIST_DESCRIPTION,
           public: false,
           files,
         }),
@@ -101,6 +147,13 @@ const Sync = {
     // Ensure App.progress is hydrated from localStorage before comparing.
     App.loadProgress();
     try {
+      // Fresh device: try to discover an existing sync gist first so we don't
+      // create a duplicate and overwrite it with empty local progress.
+      if (!this.getGistId()) {
+        const found = await this._findExistingGist();
+        if (found) this.setGistId(found);
+      }
+
       const remote = await this._pull();
       const localTs = this.getLocalSyncedAt();
 
