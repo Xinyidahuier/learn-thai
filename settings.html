@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="color-scheme" content="light">
+<meta name="darkreader-lock">
+<title>设置 · Learn Thai</title>
+<link rel="icon" href="logo.svg" type="image/svg+xml">
+<link rel="stylesheet" href="style.css?v=20260422">
+</head>
+<body>
+<header>
+  <a href="index.html" class="back">← 返回</a>
+  <h1 style="font-size:22px">设置</h1>
+</header>
+
+<main style="max-width:640px;margin:0 auto;padding:8px 20px 120px">
+  <section>
+    <h2 class="section-title"><span class="section-tag tag-blue">跨设备同步</span></h2>
+    <p class="muted" style="margin:0 0 16px;line-height:1.6">
+      进度（收藏、学完标记、复习状态）存在本地浏览器。换设备时，在旧设备上点「导出」下载 JSON，再在新设备上点「导入」加载。
+    </p>
+    <div class="btn-row">
+      <button id="exportBtn" class="btn btn-primary">导出进度</button>
+      <button id="importBtn" class="btn">导入进度</button>
+      <input type="file" id="importFile" accept=".json" hidden>
+    </div>
+  </section>
+
+  <section style="margin-top:40px">
+    <h2 class="section-title"><span class="section-tag tag-green">危险操作</span></h2>
+    <p class="muted" style="margin:0 0 16px;line-height:1.6">
+      重置只清除复习进度，文章和词汇库不会被删除。
+    </p>
+    <div class="btn-row">
+      <button id="resetBtn" class="btn btn-danger">重置进度</button>
+    </div>
+  </section>
+</main>
+
+<script src="app.js?v=20260422"></script>
+<script>
+(async () => {
+  await App.loadData();
+
+  document.getElementById('exportBtn').addEventListener('click', () => {
+    const blob = new Blob([App.exportProgress()], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `learn-thai-progress-${new Date().toISOString().slice(0, 10)}.json`;
+    a.click();
+    URL.revokeObjectURL(url);
+  });
+
+  document.getElementById('importBtn').addEventListener('click', () => {
+    document.getElementById('importFile').click();
+  });
+
+  document.getElementById('importFile').addEventListener('change', async (e) => {
+    const f = e.target.files[0];
+    if (!f) return;
+    const text = await f.text();
+    try {
+      App.importProgress(text);
+      alert('导入成功！');
+      location.href = 'index.html';
+    } catch (err) {
+      alert('导入失败：' + err.message);
+    }
+  });
+
+  document.getElementById('resetBtn').addEventListener('click', () => {
+    if (confirm('确定清除所有复习进度？（文章和词汇不会删除）')) {
+      App.resetProgress();
+      location.href = 'index.html';
+    }
+  });
+})();
+</script>
+</body>
+</html>
