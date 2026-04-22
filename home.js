@@ -4,10 +4,10 @@
   await App.loadData();
   App.loadProgress();
   const counts = App.getCounts();
-  document.getElementById('dueCount').textContent = counts.due;
-  document.getElementById('newCount').textContent = counts.new;
-  document.getElementById('totalCount').textContent = counts.total;
-  document.getElementById('streak').textContent = counts.streak;
+  animateCount(document.getElementById('dueCount'), counts.due, 600);
+  animateCount(document.getElementById('newCount'), counts.new, 500);
+  animateCount(document.getElementById('totalCount'), counts.total, 700);
+  animateCount(document.getElementById('streak'), counts.streak, 500);
 
   const articles = App.data.articles || [];
   const p = App.loadProgress();
@@ -36,54 +36,39 @@
     const sents = App.data.sentences.filter(s => (s.article_id || s.video_id) === a.id).length;
     const highlights = App.data.sentences.filter(s => (s.article_id || s.video_id) === a.id && s.is_highlight).length;
     const typeIcon = { youtube: '▶', audio: '🎵', text: '📄' }[a.type] || '📖';
+    const typeClass = { youtube: 'type-youtube', audio: 'type-audio', text: 'type-text' }[a.type] || 'type-default';
     const statusBadge = a.status === 'finished' ? '<span class="badge-finished">已学完</span>' : '';
+    const duration = a.duration_str ? ` · ${a.duration_str}` : '';
     return `
       <a class="video-card video-card-link" href="reader.html?a=${encodeURIComponent(a.id)}">
-        <div>
-          <div class="title">${typeIcon} ${escapeHtml(a.title || a.id)} ${statusBadge}</div>
-          <div class="meta">${sents} 句 · ${highlights} 重点 · ${a.duration_str || ''}</div>
+        <div class="card-type-badge ${typeClass}">${typeIcon}</div>
+        <div class="card-body">
+          <div class="title">${escapeHtml(a.title || a.id)} ${statusBadge}</div>
+          <div class="meta"><b>${sents}</b> 句 · <b>${highlights}</b> 重点${duration}</div>
         </div>
         <div class="video-card-arrow">→</div>
       </a>
     `;
   }
 
-  // Data buttons
-  document.getElementById('exportBtn').addEventListener('click', () => {
-    const blob = new Blob([App.exportProgress()], { type: 'application/json' });
-    const url = URL.createObjectURL(blob);
-    const a = document.createElement('a');
-    a.href = url;
-    a.download = `learn-thai-progress-${new Date().toISOString().slice(0, 10)}.json`;
-    a.click();
-    URL.revokeObjectURL(url);
-  });
-
-  document.getElementById('importBtn').addEventListener('click', () => {
-    document.getElementById('importFile').click();
-  });
-  document.getElementById('importFile').addEventListener('change', async (e) => {
-    const f = e.target.files[0];
-    if (!f) return;
-    const text = await f.text();
-    try {
-      App.importProgress(text);
-      location.reload();
-    } catch (err) {
-      alert('导入失败：' + err.message);
-    }
-  });
-
-  document.getElementById('resetBtn').addEventListener('click', () => {
-    if (confirm('确定清除所有复习进度？（文章和词汇不会删除）')) {
-      App.resetProgress();
-      location.reload();
-    }
-  });
 })();
 
 function escapeHtml(s) {
   return String(s).replace(/[&<>"']/g, c => ({
     '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;',
   }[c]));
+}
+
+function animateCount(el, target, duration = 600) {
+  if (!el) return;
+  const n = Number(target) || 0;
+  if (n <= 0) { el.textContent = n; return; }
+  const start = performance.now();
+  function tick(now) {
+    const t = Math.min(1, (now - start) / duration);
+    const eased = 1 - Math.pow(1 - t, 3);
+    el.textContent = Math.round(n * eased);
+    if (t < 1) requestAnimationFrame(tick);
+  }
+  requestAnimationFrame(tick);
 }

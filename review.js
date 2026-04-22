@@ -141,6 +141,7 @@
 
   function next() {
     idx += 1;
+    updateProgress();
     if (idx >= queue.length) {
       cardArea.hidden = true;
       doneArea.hidden = false;
@@ -154,6 +155,11 @@
     }
   }
 
+  function updateProgress() {
+    const fill = document.getElementById('progressFill');
+    if (fill) fill.style.width = `${Math.min(100, (idx / total) * 100)}%`;
+  }
+
   function tryPlay() {
     if (audioEl.src) {
       audioEl.currentTime = 0;
@@ -164,6 +170,10 @@
   playBtn.addEventListener('click', tryPlay);
   playBtn2.addEventListener('click', tryPlay);
   showBtn.addEventListener('click', renderBack);
+
+  audioEl.addEventListener('play', () => playBtn.classList.add('playing'));
+  audioEl.addEventListener('pause', () => playBtn.classList.remove('playing'));
+  audioEl.addEventListener('ended', () => playBtn.classList.remove('playing'));
 
   document.querySelectorAll('.rate').forEach(btn => {
     btn.addEventListener('click', () => {
@@ -191,6 +201,7 @@
   });
 
   renderFront();
+  updateProgress();
 })();
 
 function escapeHtml(s) {
