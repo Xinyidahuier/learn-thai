@@ -512,6 +512,30 @@ def process_audio_file(path: Path, title: str):
     process_from_audio(wav, article_id, title, f"file://{src}", "audio")
 
 
+def _translate_thai_batch(texts):
+    """Translate a list of Thai strings to English. Returns {original: english}."""
+    if not texts:
+        return {}
+    try:
+        import warnings; warnings.filterwarnings("ignore")
+        from deep_translator import GoogleTranslator
+    except ImportError:
+        print("  ↳ deep-translator not installed; sentences will have no translation")
+        return {}
+    translator = GoogleTranslator(source="th", target="en")
+    out = {}
+    print(f"  ↳ translating {len(texts)} sentences…")
+    for t in texts:
+        try:
+            res = translator.translate(t)
+            if res:
+                out[t] = res.strip()
+        except Exception as e:
+            print(f"    ! translate failed for one sentence: {e}")
+        time.sleep(0.25)
+    return out
+
+
 def process_text_file(path: Path, title: str, audio_path):
     src = path.resolve()
     if not src.exists():
@@ -529,6 +553,8 @@ def process_text_file(path: Path, title: str, audio_path):
     # Split by blank lines or Thai punctuation (., ?, !, or end markers)
     paragraphs = [p.strip() for p in re.split(r"\n\s*\n|(?<=[\.\?\!])\s+", text) if p.strip()]
 
+    english_map = _translate_thai_batch(paragraphs)
+
     sentences = []
     for i, p in enumerate(paragraphs, start=1):
         sid = f"{article_id}_{i:04d}"
@@ -539,7 +565,7 @@ def process_text_file(path: Path, title: str, audio_path):
             "end": 0,
             "thai": p,
             "translation": "",
-            "english": "",
+            "english": english_map.get(p, ""),
             "romanization": "",
             "vocab_ids": [],
             "annotations": [],
