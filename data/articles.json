@@ -46,5 +46,17 @@
     "status": "studying",
     "favorite": false,
     "created_at": "2026-04-22T02:25:54.299916+00:00"
+  },
+  {
+    "id": "4riRolF_pfk",
+    "title": "Claude Cowork วิธีใช้ในเคสการเงิน-ธุรกิจ-ครีเอเตอร์ ใช้ง่ายแทนคนได้จริง | Executive Espresso EP.593",
+    "type": "youtube",
+    "source_url": "https://www.youtube.com/watch?v=4riRolF_pfk",
+    "duration_sec": 2556.284813,
+    "duration_str": "42:36",
+    "sentence_count": 194,
+    "status": "studying",
+    "favorite": false,
+    "created_at": "2026-05-06T09:30:11.537241+00:00"
   }
 ]

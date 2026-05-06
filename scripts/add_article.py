@@ -40,14 +40,9 @@ TRANSCRIPTS = PARENT / "transcripts"
 MODEL = PARENT / "models" / "ggml-large-v3.bin"
 
 # Initial prompt for Whisper — primes proper nouns and common business terms
-WHISPER_PROMPT = (
-    "ราวิภา Ravipa Disney Infinity Collection Collab Mickey Stitch Zootopia "
-    "แบรนด์ ดีไซน์ ดีไซเนอร์ สาขา ต่างประเทศ โกลบอล global Brand Design "
-    "บุกเบิก กรุยทาง OEM SME ท้าวความ ฮ่องกง Macau Japan Shinjuku "
-    "ลูกค้า End user Intellectual Property IP Value "
-    "Style Guide Manual Book Adapt think beyond make it different "
-    "Selling Point Positioning Exclusive Lifestyle Quality Innovation"
-)
+# Short generic hint — keep English loanwords from being mangled.
+# Per-video proper nouns can be added via the --prompt CLI flag if needed.
+WHISPER_PROMPT = "AI ChatGPT business economy technology brand design"
 
 FILLERS = {
     "ค่ะ", "ครับ", "คะ", "ครับๆ", "ค่ะๆ",
@@ -141,6 +136,9 @@ def transcribe(wav: Path, article_id: str, translate: bool) -> Path:
         "whisper-cli", "-m", str(MODEL), "-f", str(wav),
         "-l", "th", "-otxt", "-osrt", "-of", str(out_base),
         "--suppress-nst", "-mc", "0",
+        "-t", "8",          # use all CPU cores
+        "-bs", "1",         # greedy decode (no beam search)
+        "-bo", "1",         # no best-of resampling
         "--prompt", WHISPER_PROMPT,
     ]
     if translate:
