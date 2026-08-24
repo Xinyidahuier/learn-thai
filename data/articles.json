@@ -70,5 +70,17 @@
     "status": "studying",
     "favorite": false,
     "created_at": "2026-05-06T10:23:16.417416+00:00"
+  },
+  {
+    "id": "dgD5LSQMXUo",
+    "title": "ใครจะโตเป็นหัวหน้า? AI เปลี่ยนงานเด็กจบใหม่ จะสร้างคนเก่งรุ่นต่อไปอย่างไร Executive Espresso EP.616",
+    "type": "youtube",
+    "source_url": "https://www.youtube.com/watch?v=dgD5LSQMXUo",
+    "duration_sec": 1793.230688,
+    "duration_str": "29:53",
+    "sentence_count": 131,
+    "status": "studying",
+    "favorite": false,
+    "created_at": "2026-08-24T16:06:30.261511+00:00"
   }
 ]
