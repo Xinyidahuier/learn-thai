@@ -82,5 +82,17 @@
     "status": "studying",
     "favorite": false,
     "created_at": "2026-08-24T16:06:30.261511+00:00"
+  },
+  {
+    "id": "3TzuAG85QFo",
+    "title": "เมื่อการตลาดแบบเดิม ไม่ได้ผล จะใช้ AI แก้ยังไง? กับ YDM Thailand | Executive Espresso EP.618",
+    "type": "youtube",
+    "source_url": "https://www.youtube.com/watch?v=3TzuAG85QFo&t=461s",
+    "duration_sec": 3471.168,
+    "duration_str": "57:51",
+    "sentence_count": 260,
+    "status": "studying",
+    "favorite": false,
+    "created_at": "2026-09-02T15:51:56.788620+00:00"
   }
 ]
